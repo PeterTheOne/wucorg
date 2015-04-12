@@ -17,6 +17,7 @@
   </head>
 
   <body>
+  {% include fb-tw.html %}
   <div id="fb-root"></div>
     <div class="wrapper-masthead">
       <div class="container">
@@ -40,6 +41,8 @@
         </header>
       </div>
     </div>
+
+{% include widget_price.html %} <div class="fb-like" data-href="https://www.weusecoins.com" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div> <a href="https://twitter.com/share" class="twitter-share-button" data-via="WeUseCoins" data-size="large" data-related="WeUseCoins" data-hashtags="Bitcoin">Tweet</a>
 
     <div id="main" role="main" class="container">
       {{ content }}
