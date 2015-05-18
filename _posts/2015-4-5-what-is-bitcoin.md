@@ -4,8 +4,6 @@ title: What Is Bitcoin
 author: Trace Mayer, J.D.
 authorurl: http://www.tracemayer.net
 published: true
-redirect_from: 
-- /foo
 ---
 
 <title>What is Bitcoin? - We Use Coins Bitcoin Experts Can Help</title>
