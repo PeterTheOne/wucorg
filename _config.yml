@@ -52,8 +52,7 @@ baseurl: ""
 #
 
 # Redirect Plugin
-gems:
-  - jekyll-redirect-from
+gem 'jekyll-redirect-from', '~> 0.6.2'
 
 markdown: redcarpet
 highlighter: pygments
