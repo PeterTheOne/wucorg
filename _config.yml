@@ -51,6 +51,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+# Redirect Plugin
+gems:
+  - jekyll-redirect-from
+
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
