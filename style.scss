@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -281,6 +281,88 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.dfp {
+  margin-bottom: 20px;
+  @media screen and (min-width: 748px) {
+    margin-left: -4px;
+  }
+}
+
+.widget-wrapper {
+  margin: 20px;
+  text-align: center;
+
+  .embedme {
+    font-size: 13px;
+    color: #999;
+
+    &:active {
+      color: #999;
+    }
+    &:hover {
+      color: #CCC;
+    }
+  }
+
+  #btc-quote {
+    display: inline-block;
+  }
+}
+
+pre {
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+  clear: both;
+  padding: 0px;
+  position: relative;
+  display: block;
+  padding: 5.0px;
+  margin: 0;
+  font-size: 13px;
+  line-height: 20px;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre;
+  white-space: pre-wrap;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0,0,0,0.15);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+
+  code {
+    padding: 0px 5px;
+    display: block;
+    background: #F0F0F0;
+
+    .value {
+      color: #C66B08 !important;
+    }
+  }
+}
+
+#copy-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  background-color: #ccc;
+  font-family: Lato, "Helvetica Neue";
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  text-align: center;
+  cursor: pointer;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -3,6 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+{% else %}
+<meta name="description" content= "Anything" >
+{% endif %}
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -14,6 +20,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now -->
+    {% include dfp-script.html %}
   </head>
 
   <body>
@@ -22,37 +29,36 @@
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
 
           <nav>
             <a href="{{ site.baseurl }}/en/getting-started/">Start</a>
+            <a href="{{ site.baseurl }}/en/bitcoin-expert-interviews/">Blog</a>
             <a href="{{ site.baseurl }}/en/get-free-bitcoins/">Free Bitcoins</a>
-            <a href="{{ site.baseurl }}/en/bitcoin-expert-interviews/">Interviews</a>
             <a href="{{ site.baseurl }}/en/questions/">FAQ</a>
-            <a href="{{ site.baseurl }}/en/merchant-tools/">Merchant Tools</a>
+            <a href="{{ site.baseurl }}/en/whos-who/">Who's Who</a>
             <a href="{{ site.baseurl }}/en/mining-guide/">Mining</a>
             <a href="{{ site.baseurl }}/en/alt-coins/">Alt-coins</a>
           </nav>
+          {% include social-shares.html %}
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
-      Please learn more about <a href="https://www.weusecoins.com">Bitcoin</a>.
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          {% include dfp.html %}
           {% include email-form.html %}
           <p>
         | <a href="{{ site.baseurl }}/de/">Deutsch</a> | 
+          <a href="{{ site.baseurl }}/es/">Español</a> | 
           <a href="{{ site.baseurl }}/fr/">Français</a> | 
           <a href="{{ site.baseurl }}/nl/">Nederlands</a> | 
+          <a href="{{ site.baseurl }}/pt/">Portugese</a> | 
           <a href="{{ site.baseurl }}/ja/">日本語</a> | 
           <p>
           {% include svg-icons.html %}    
