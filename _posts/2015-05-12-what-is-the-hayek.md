@@ -6,6 +6,7 @@ authorurl: http://youmeandbtc.com/
 published: true
 ---
 
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/CDnizFFRgU4?rel=0" frameborder="0" allowfullscreen></iframe></p>
 <img src="/images/hayek-symbol.jpg" alt="Anthem Vault" align="right">
 <p>The Hayek is an exciting new cryptographic gold receipt issued by Anthem Vault, a leading online retailer of vaulted and insured silver and gold bullion. The Hayek’s most interesting feature is that it is fully backed by gold, each Hayek being secured by an equal amount of vaulted and insured physical gold bullion. One Hayek will always be worth one gram of gold. </p>
 <p>The value of other cryptocurrencies is inherently volatile; one minute they are behaving like a hot technology stock, but the next minute they are plagued with market uncertainty. In stark contrast, the Hayek’s gold-backing gives it unparalleled stability and intrinsic value, and it carries all of the financial security and historical value of gold. Being a cryptograhic receipt, however, it will be much more convenient to store and transfer Hayeks than actual physical bullion.</p>

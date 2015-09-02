@@ -58,7 +58,7 @@ But I think the regulators in general here in the US recognize that bitcoin and 
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  So, like a brand new person coming in. They’ve heard about this bitcoin thing. They want to use it. Kind of like people heard about email and wanted to use that. What, you know, can somebody just go and, you know, buy a hundred dollars worth of bitcoin and start experimenting with it? I mean.
+<strong>Trace Mayer:</strong>  So, like a brand new person coming in. They’ve heard about this bitcoin thing. They want to use it. Kind of like people heard about email and wanted to use that. What, you know, can somebody just go and, you know, buy a hundred <a href="/dollars-to-bitcoin/">dollars worth of bitcoin</a> and start experimenting with it? I mean.
 
 </p><p>
 
@@ -120,7 +120,7 @@ The merchant payment processor exemption is for individuals or I should say it's
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And there are actually, I think like six exemptions or something and some of those exemptions would also be analogous to other business models on the space. For example, we have some of these wallets that actually hold the private key. So, instead of like the individual holding the private keys themselves, they're held with the custodian. And that would be very analogous to like the security company like Brinks or something which is not a money transmitter because they're just taking the cash for the business from Point A to Point B. But they're not transmitting it between people.
+<strong>Trace Mayer:</strong>  And there are actually, I think like six exemptions or something and some of those exemptions would also be analogous to other business models on the space. For example, we have some of these wallets that actually hold the private key in <a href="/bitcoin-cold-storage/">cold storage</a>. So, instead of like the individual holding the <a href="/amazing-math-bitcoin-private-keys/">private keys</a> themselves, they're held with the custodian. And that would be very analogous to like the security company like Brinks or something which is not a money transmitter because they're just taking the cash for the business from Point A to Point B. But they're not transmitting it between people.
 
 </p><p>
 
@@ -138,7 +138,7 @@ The merchant payment processor exemption is for individuals or I should say it's
 
 </p><p>
 
-<strong>Marco Santori:</strong>  You know, the answer is no. You are probably not an exchanger. FinCEN was careful to identify other categories besides the exchanger category. One of those is the user category. So, you're merely a user of digital currencies and therefore not a regulated entity. If all you're doing is buying bitcoins or just selling bitcoins on your own account not as a business. So, if you're doing it for an investment purpose. And you're using your discretion, your own market timing, your own strategy. Then you're probably not acting as a business and you're probably not a money transmitter. You're probably just a user of digital currencies, an unregulated individual.
+<strong>Marco Santori:</strong>  You know, the answer is no. You are probably not an exchanger. FinCEN was careful to identify other categories besides the exchanger category. One of those is the user category. So, you're merely a user of digital currencies and therefore not a regulated entity. If all you're doing is <a href="/modeling-bitcoin-price/">buying bitcoins</a> or just selling bitcoins on your own account not as a business. So, if you're doing it for an investment purpose. And you're using your discretion, your own market timing, your own strategy. Then you're probably not acting as a business and you're probably not a money transmitter. You're probably just a user of digital currencies, an unregulated individual.
 
 </p><p>
 
@@ -156,7 +156,7 @@ The merchant payment processor exemption is for individuals or I should say it's
 
 <strong>Marco Santori:</strong>  Because he is operating it as a business. He is exchanging digital currencies for government currency. So, I get my bitcoins from the ATM. I walk down the street to my barber. And I go to my barber. I say give me a shave. He says okay, that'll be, what is it, a fraction of a bitcoin. And he shaves you and you pay him. Again, you're just a user. You’re just an unregulated entity. And the barber is also just a user. He is an unregulated entity. He can take those bitcoins in exchange for his goods and services, the shaving cream and the shave. And not have to worry about any kind of financial regulation.
 <h2>Who is a bitcoin administrator?</h2>
-<strong>Trace Mayer:</strong>  Okay. Now, what are these administrators?  Are miner’s administrator?
+<strong>Trace Mayer:</strong>  Okay. Now, what are these administrators?  Are <a href="/how-to-mine-bitcoins/"> bitcoin miners</a> administrator?
 
 </p><p>
 
@@ -164,7 +164,7 @@ The merchant payment processor exemption is for individuals or I should say it's
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  So now it's not like FinCEN put bitcoin in its guidance, you know, wanted this to catch other things like Litecoins or other virtual currencies. Does this touch other instruments out there like frequent flyer points or gift cards or things of that nature?
+<strong>Trace Mayer:</strong>  So now it's not like FinCEN put bitcoin in its guidance, you know, wanted this to catch other things like <a href="/what-is-litecoin/">Litecoins</a> or other virtual currencies. Does this touch other instruments out there like frequent flyer points or gift cards or things of that nature?
 
 </p><p>
 
@@ -204,7 +204,7 @@ Meaning that we always say.  You can't go and buy a pack of socks with your air
 
 </p><p>
 
-Kind of like we have gold and currency is only one application of gold, but we can also use gold in a watch or in a dental filling or something like that. And like our virtual currencies and these smart contracts that are made possible. We could have the actual airline tickets be on the blockchain, for example. Or we could have the gift certificates or even the dollar could be issued on the blockchain and it’s theoretically possible. So we have a lot of different potential ways that these -- that this new virtual commodity can be applied and can be used. Let's see what else is there to kind of cover in this area?
+Kind of like we have gold and currency is only one application of gold, but we can also use gold in a watch or in a dental filling or something like that. And like our virtual currencies and these smart contracts that are made possible. We could have the actual airline tickets be on the <a href="/what-is-immutability">immutable blockchain</a>, for example. Or we could have the gift certificates or even the dollar could be issued on the blockchain and it’s theoretically possible. So we have a lot of different potential ways that these -- that this new virtual commodity can be applied and can be used. Let's see what else is there to kind of cover in this area?
 
 </p><p>
 
@@ -220,7 +220,7 @@ If you're just a participant, an every day kind of Joe, who wants to buy some bi
 
 </p><p>
 
-<strong>Marco Santori:</strong>  I don't think right now it would be fair to characterize bitcoins as contraband. And I think that, you know, you gave the example of the US Marshal auction and yeah, the US Marshal doesn't auction contraband. Now did the US Marshal come out with some kind of official opinion saying oh. bitcoins are legal. No, in fact, FinCEN hasn't even done that and I think that -- I know that FinCEN has specifically come out and corrected people who have said that FinCEN said bitcoins were legal. They say no, you're putting words into our mouth. We never said that. Were just saying this is how they are regulated. So no government agency has come out to say bitcoin is legal. But you know no one, no government agencies come out to say picture frames are legal either or stud jacket are.
+<strong>Marco Santori:</strong>  I don't think right now it would be fair to characterize bitcoins as contraband. And I think that, you know, you gave the example of the US Marshal auction and yeah, the US Marshal doesn't auction contraband. Now did the US Marshal come out with some kind of official opinion saying oh. bitcoins are legal. No, in fact, FinCEN hasn't even done that and I think that -- I know that FinCEN has specifically come out and corrected people who have said that FinCEN said bitcoins were legal. They say no, you're putting words into our mouth. We never said that. Were just saying this is how they are regulated. So no government agency has come out to say bitcoin is legal. But you know no one, no government agencies come out to say picture frames are legal either.
 
 </p><p>
 
@@ -240,19 +240,19 @@ If you're just a participant, an every day kind of Joe, who wants to buy some bi
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  In order for there to be due process of law.
+<strong>Trace Mayer:</strong>  In order for there to be <a href="/bitcoin-legal-issues/">due process of law</a>.
 
 </p><p>
 
-<strong>Marco Santori:</strong>  Yes, especially on the criminal side.
+<strong>Marco Santori:</strong>  Yes, especially on the <a href="/first-bitcoin-felon/">criminal side</a>.
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  So, for a brand new person coming into bitcoin do they really have much to be scared of from like any type of legal liability?  If they're just coming in to buy twenty or fifty or a hundred dollars worth of bitcoins from a friend or from an ATM or from Coinbase or Circle and then using that with some merchants?
+<strong>Trace Mayer:</strong>  So, for a brand new person coming into bitcoin do they really have much to be scared of from like any type of <a href="/uniform-commercial-code-bitcoin/">legal liability</a>?  If they're just coming in to buy twenty or fifty or a hundred dollars worth of bitcoins from a friend or from an ATM or from Coinbase or Circle and then using that with some merchants?
 
 </p><p>
 
-<strong>Marco Santori:</strong>  Not really. I mean, look it -- if you're looking to get involved in digital currency there's nothing wrong with going and buying some bitcoins. Now, obviously all kinds of things might come up during the purchase or sale if you're buying from an individual or you might be buying from some kind of exchanger that may not be fully compliant with some jurisdictional regulations. But for you as the individual just looking to buy some bitcoin and experiment. No, there's really nothing to be scared of except, you know, volatility, right.
+<strong>Marco Santori:</strong>  Not really. I mean, look it -- if you're looking to get involved in digital currency there's nothing wrong with going and buying some bitcoins. Now, obviously all kinds of things might come up during the purchase or sale if you're buying from an individual or you might be buying from some kind of exchanger that may not be fully compliant with some <a href="/bitcoin-isle-of-man/">jurisdictional regulations</a> or <a href="/bitcoin-security-standards/">regulatory standards</a>. But for you as the individual just looking to buy some bitcoin and experiment. No, there's really nothing to be scared of except, you know, volatility, right.
 
 </p><p>
 
@@ -284,7 +284,7 @@ If you're just a participant, an every day kind of Joe, who wants to buy some bi
 
 </p><p>
 
-<strong>Marco Santori:</strong>  Look, I think for investors, right. I think that it's important to know what -- just what role you're -- the company you're investing in plays in the ecosystem. Just because people can use their website to buy and sell bitcoins doesn't mean they're an exchange and it doesn't mean they're very heavily regulated. If you're a business the same applies to you too. And you have to chart your regulatory course carefully.
+<strong>Marco Santori:</strong>  Look, I think for investors, right. I think that it's important to know what -- just what role you're -- the company you're <a href="/financial-collateral/">venture investing</a> in plays in the ecosystem. Just because people can use their website to buy and sell bitcoins doesn't mean they're an exchange and it doesn't mean they're very heavily regulated. If you're a business the same applies to you too. And you have to chart your regulatory course carefully.
 
 </p><p>
 

@@ -365,6 +365,38 @@ pre {
   cursor: pointer;
 }
 
+#videobox {
+  position: relative;
+}
+
+.videoicon {
+  display: block;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(/images/video_play.svg) center center no-repeat;
+  &:hover {
+    background: url(/images/video_play_hover.svg) center center no-repeat;
+  }
+}
+
+.social-link {
+  display: inline-block;
+  position: relative;
+  top: -7px;
+  margin-right: 5px;
+  padding: 0 7px;
+  border: 1px solid;
+  border-radius: 4px;
+  &:hover {
+    background: $blue;
+    color: white;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

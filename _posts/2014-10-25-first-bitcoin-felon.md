@@ -7,6 +7,7 @@ description: Charlie Shrem, CEO of BitInstant, the first bitcoin felon
 published: true
 ---
 
+<center><img src="/images/court.jpg" alt="court"></center>
 <img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and selling bitcoins.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/CYZjZh36_fA" frameborder="0" allowfullscreen></iframe>
@@ -14,7 +15,8 @@ published: true
 <h2>PODCAST INTERVIEW TRANSCRIPTION</h2>
 
 <h2>Interview with Charlie Shrem, the first bitcoin felon</h2>
-<p><strong>Trace Mayer:</strong>  Welcome back to Bitcoin Knowledge Podcast.  We had a tremendous interview with Charlie Shrem, the first bitcoin felon.  We're going to be talking all about how to buy and sell bitcoins.  Charlie’s been one of our just extreme entrepreneurs in the bitcoin space.  He was CEO, Chief Compliance Officer of BitInstant.  Charlie, welcome to the show.
+<p><strong>Trace Mayer:</strong>  Welcome back to Bitcoin Knowledge Podcast.  We had a tremendous interview with Charlie Shrem, the first bitcoin felon.  We're going to be talking all about <a href="/bitcoin-venture-investing/">how to buy and sell bitcoins</a>
+.  Charlie’s been one of our just extreme entrepreneurs in the bitcoin space.  He was CEO, Chief Compliance Officer of <a href="/bitinstant/">BitInstant</a>.  Charlie, welcome to the show.
 
 </p><p>
 
@@ -26,7 +28,8 @@ published: true
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  You know, I'm really envious of people that are coming to bitcoin space now because it's so much easier to buy and sell bitcoin.  There are so many more reputable companies that are not scams.  There are, you know, amazing OTC markets.  There are a lot of different, no matter where you are in the world, from Morocco to Monaco to Russia.  You could probably get bitcoin within one day at a very, very reasonable rate.
+<strong>Charlie Shrem:</strong>  You know, I'm really envious of people that are coming to bitcoin space now because it's so much easier to <a href="/dollars-to-bitcoin/">
+buy and sell bitcoin</a>.  There are so many more reputable companies that are not scams.  There are, you know, amazing OTC markets.  There are a lot of different, no matter where you are in the world, from Morocco to Monaco to Russia.  You could probably get bitcoin within one day at a very, very reasonable rate.
 
 </p><p>
 
@@ -34,7 +37,7 @@ And it used to not be the case.  You know, when I got involved in bitcoin in 20
 
 </p><p>
 
-So, you know, I was browsing the bitcoin forums one day and I was trying to buy some bitcoin.  I had sent money to a new bitcoin exchange that was just opened – just had opened up for a week called Tradehill by Jared Kenna.  It was the first bitcoin exchange based out of America and I was excited because I didn’t have to wire money to Tokyo, to Japan for Mt. Gox.  And I had sent money to Jared, the CEO and just my luck.  When I sent him money, ING shutdown his bank accounts so my money was frozen.  And I was like ‘wow’.  Like, it took three days for the wire to get there.  Now my money is sitting freezing for a week.
+So, you know, I was browsing the bitcoin forums one day and I was trying to buy some bitcoin.  I had sent money to a new bitcoin exchange that was just opened – just had opened up for a week called <a href="/tradehill/">Tradehill</a> by Jared Kenna.  It was the first bitcoin exchange based out of America and I was excited because I didn’t have to wire money to Tokyo, to Japan for Mt. Gox.  And I had sent money to Jared, the CEO and just my luck.  When I sent him money, ING shutdown his bank accounts so my money was frozen.  And I was like ‘wow’.  Like, it took three days for the wire to get there.  Now my money is sitting freezing for a week.
 
 </p><p>
 
@@ -42,11 +45,13 @@ Meanwhile, the price is going up, you know, it's going up and I’m like losing 
 
 </p><p>
 
-And I decided to put up the money to do that and that's how we started BitInstant.  And BitInstant essentially allowed people to walk into places like 7-Eleven, CVS, the winery, banks, you know, Bank of America, Citi bank, Wells Fargo.  They deposit money into our accounts or into like 7-Eleven or Walmart or whatever.  And we then fund their exchange accounts or give them bitcoin directly and then we wait the week or so until these banks would settle with us or 7-Eleven would settle with us and ends up being something that people really needed.
+And I decided to put up the money to do that and that's how we started BitInstant.  And BitInstant essentially allowed people to walk into places like 7-Eleven, CVS, the winery, banks, you know, Bank of America, Citi bank, Wells Fargo.  They deposit money into our accounts or into like 7-Eleven or Walmart or whatever.  And we then fund their <a href="/bitcoin-investor/">bitcoin exchange accounts</a>
+ or give them bitcoin directly and then we wait the week or so until these banks would settle with us or 7-Eleven would settle with us and ends up being something that people really needed.
 
 </p><p>
 
-And we, at one point, we're doing a few million dollars a day and maybe thirty fourty percent of all bitcoin transactions were being brought and sold through us and we were the primary retail method.  You know, what I was always saying was that exchanges should be the average person buying under $10,000 worth of bitcoin should not be going to exchange.  No one should be going to exchanges anymore at all but if someone buy under ten thousand should be buying at retail from Coinbase.  There's a new company Celery that is just opening up.
+And we, at one point, we're doing a few million dollars a day and maybe thirty, fourty percent of all <a href="/dollars-to-bitcoin/">bitcoin transactions</a>
+ were being brought and sold through us and we were the primary retail method.  You know, what I was always saying was that exchanges should be the average person buying under $10,000 worth of bitcoin should not be going to exchange.  No one should be going to exchanges anymore at all but if someone buy under ten thousand should be buying at retail from <a href="/coinbase-review/">Coinbase</a>.  There's a new company Celery that is just opening up.
 
 </p><p>
 
@@ -54,7 +59,7 @@ And we, at one point, we're doing a few million dollars a day and maybe thirty f
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  Circle, of course.  Circle has a bunch of problems.  I've have been having trouble of buying it --on it.
+<strong>Charlie Shrem:</strong>  Circle, of course.  <a href="/circle-review/">Circle</a> has a bunch of problems.  I've have been having trouble of buying it --on it.
 
 </p><p>
 
@@ -130,7 +135,8 @@ He could be lying to me, but I want to make sure that no one could be calling me
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  It’s just that’s it.  Like we don’t have a money transmitter license and we tried very hard to get one over the years and we were very friendly with the government.  But, at the end of the day I am guilty of that crime.  We didn’t have a license and the law says you need to have a license in every state.
+<strong>Charlie Shrem:</strong>  It’s just that’s it.  Like we don’t have a money transmitter license
+ and we tried very hard to get one over the years and we were very friendly with the government.  But, at the end of the day I am guilty of that crime.  We didn’t have a license and the law says you need to have a license in every state.
 
 </p><p>
 
@@ -218,7 +224,7 @@ So, I joke that like there's this like thing a lot of companies have on the bott
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And, yeah, it was pretty good.  I’d have to admit.  But, you know, one of the questions was about the exchanges.  And I was like look, you know, the largest six exchanges is Bitstamp in the UK.  We've got BTCE, we got LakeBTC like.  But we don't have any exchanges in the US.  The US is not a player in the bitcoin exchange market.
+<strong>Trace Mayer:</strong>  And, yeah, it was pretty good.  I’d have to admit.  But, you know, one of the questions was about the exchanges.  And I was like look, you know, the largest six exchanges is Bitstamp in the UK.  We've got BTCE, we got LakeBTC like.  But we don't have any exchanges in the US.  The US is not a player in the <a href="/best-bitcoin-exchange/">bitcoin exchange market</a>.
 
 </p><p>
 
@@ -246,7 +252,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  Yeah.  And I won’t be surprised if we've just seen the beginning of some of the legal issues with bitcoin companies is in the US.
+<strong>Trace Mayer:</strong>  Yeah.  And I won’t be surprised if we've just seen the beginning of some of the <a href="/bitcoin-legal-issues/">legal issues with bitcoin companies</a> is in the US.
 
 </p><p>
 
@@ -314,7 +320,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  No matter where you go on the world there is usually a bitcoin community.  Got to Lancaster, Pennsylvania and you Google Lancaster bitcoin meetup, there's like 300 people in it.  In the middle of nowhere Pennsylvania and you just text one of the guys or your email and say hey, I want to sell some bitcoin, can you meet me and for sure I’m happy to meet another bitcoinner.
+<strong>Charlie Shrem:</strong>  No matter where you go on the world there is usually a <a href="/denver-bitcoin-center/">bitcoin community</a>.  Got to Lancaster, Pennsylvania and you Google Lancaster bitcoin meetup, there's like 300 people in it.  In the middle of nowhere Pennsylvania and you just text one of the guys or your email and say hey, I want to sell some bitcoin, can you meet me and for sure I’m happy to meet another bitcoinner.
 
 </p><p>
 
@@ -334,7 +340,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  Yeah.  I mean, that’s the network effect right there.  Like in my case, I've gone, like, I flew into a city outside the US and, you know, it was late and for whatever reason like the currency exchange booth wasn't open like normal.  But I was – I went immediately to a dinner with some of the bitcoin people and bam, I was able to get the local currency.
+<strong>Trace Mayer:</strong>  Yeah.  I mean, that’s the network effect right there.  Like in my case, I've gone, like, I flew into a city outside the US and, you know, it was late and for whatever reason like the currency exchange booth wasn't open like normal.  But I was – I went immediately to a dinner with some of the bitcoin people and bam!, I was able to get the local currency.
 
 </p><p>
 
@@ -466,7 +472,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  You’re -- you're a victim of identity theft and for whatever reason law enforcement.  Like, you know, you're completely innocent victim of identity theft but bam, like the law enforcement is able to convince a grand jury and it's not like innocent people have never been targeted before, right.
+<strong>Trace Mayer:</strong>  You’re -- you're a victim of identity theft and for whatever reason law enforcement.  Like, you know, you're completely innocent victim of identity theft but bam!  Like, the law enforcement is able to convince a grand jury and it's not like innocent people have never been targeted before, right.
 
 </p><p>
 
@@ -574,7 +580,7 @@ I mean there are two types of wallets.  There are custodial wallets like these 
 
 </p><p>
 
-I had a friend that I went to law school with and her husband wanted to buy some bitcoins and we've been over like just chatting and everything and so, you know, I got him set up with one of the online wallets.  And then we're trucking off, going down.  That I think it is Wells Fargo and depositing the cash to buy the bitcoins with BitInstant.  And next thing, you know, like bam, he gets a text message.  The bitcoins are his wallet.  Like just within like ten minutes, you know.
+I had a friend that I went to law school with and her husband wanted to buy some bitcoins and we've been over like just chatting and everything and so, you know, I got him set up with one of the <a href="/mobile-bitcoin-wallet/">online wallets</a>.  And then we're trucking off, going down.  That I think it is Wells Fargo and depositing the cash to buy the bitcoins with BitInstant.  And next thing, you know, like bam, he gets a text message.  The bitcoins are his wallet.  Like just within like ten minutes, you know.
 
 </p><p>
 
@@ -686,7 +692,7 @@ So I think that my buddy's story has been, you know, it's very enlightening, a v
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  We need to get people a better solution.  It’s what going to happen.  People know that there's a viable, better solution out there.  Which there is but it's not mature enough yet.  And people start to question and people don’t want to use those old bands anymore.
+<strong>Charlie Shrem:</strong>  We need to get people a better solution.  It’s what going to happen.  People know that there's a viable, better solution out there.  Which there is but it's not mature enough yet.  And people start to question and people don’t want to use those old bands any more.
 
 </p><p>
 

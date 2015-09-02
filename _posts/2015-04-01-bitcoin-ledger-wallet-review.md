@@ -17,13 +17,14 @@ published: true
 <p><strong>Rating:</strong> 4/5</p>
 <p><strong>Purchase:</strong> Directly from <a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow">Ledger</a> and can be purchased with bitcoins.</p>
 <p><a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow"><img class="aligncenter" src="/images/bitcoin-ledger-wallet-nano-review-1.png" alt="bitcoin ledger wallet nano review" width="630" height="519" /></a></p>
-<p><strong><a href="#Basics">Basics</a><br />
-<a href="#Security">Security</a><br />
-<a href="#Usability">Usability</a><br />
-<a href="#Pros">Pros</a><br />
-<a href="#Cons">Cons</a><br />
-<a href="#Competitors">Competitors</a><br />
-<a href="#Conclusion">Conclusion</a></strong></p>
+<ul><li><a href="#Basics">Basics</a></li>
+<li><a href="#Facility">Facility Tour</a></li>
+<li><a href="#Security">Security</a></li>
+<li><a href="#Usability">Usability</a></li>
+<li><a href="#Pros">Pros</a></li>
+<li><a href="#Cons">Cons</a></li>
+<li><a href="#Competitors">Competitors</a></li>
+<li><a href="#Conclusion">Conclusion</a></li></ul>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/5Ss7xnFP9AM" frameborder="0" allowfullscreen></iframe></center>
 <p><a name="Basics"></a></p>
 <h2><strong>Basics</strong></h2>
@@ -35,6 +36,9 @@ published: true
 <p><a href="https://www.ledgerwallet.com/r/4727" rel="nofollow" target="_blank"><img class="aligncenter" src="/images/bitcoin-ledger-wallet-nano-review-4.png" alt="bitcoin ledger wallet nano review" width="630" height="317" /></a></p>
 <p style="text-align: center;"><span style="color: #999999;">USB flash drive on the right included for reference</span></p>
 <p>I have no major complaints about the build quality, although some rough edges are visible upon closer examination. The plastic device features an aluminium swivel cover with a brushed finish like many USB drives. In fact, the design looks eerily similar to Super Talent's Pico-A series flash drives.</p>
+<p><a name="Facility"></a></p>
+<h2><strong>Facility Tour</strong></h2>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/VedRSOYIFp8" frameborder="0" allowfullscreen></iframe></center>
 <p><a name="Security"></a></p>
 <h2>Bitcoin Ledger Wallet Nano security concept</h2>
 <p>Ledger's familiar design is where its similarities to traditional USB drives end, though. Since it does not use cheap NAND memory like the average USB drive, the Ledger should be more reliable. The manufacturer of the EEPROM memory used in the <a href="http://en.wikipedia.org/wiki/Evaluation_Assurance_Level" target="_blank">CC EAL5+</a> compliant smartcard offers a 30-year guarantee on data retention and 500,000 read/write cycles.</p>

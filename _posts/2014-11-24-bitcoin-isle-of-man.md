@@ -20,11 +20,11 @@ April 1st 2015 the Isle of Man's Bitcoin specific legislation, the Proceeds of C
 
 </p><p>
 
-<strong>Brian Donegan</strong>:  Sure. Sure. Maybe if I could wind it back a little bit, Trace, and just give a little bit of context perhaps. The Isle of Man is a small island between Ireland and England, for those listeners who don't know where it is. We are a population of 85,000 people. And the financial services industry has been our main industry for the last 30 years. Government decided to diversify into digital business about 10 years ago with the eGaming or iGaming. That's gambling online.
+<strong>Brian Donegan</strong>:  Sure. Sure. Maybe if I could wind it back a little bit, Trace, and just give a little bit of context perhaps. The Isle of Man is a small island between Ireland and England, for those listeners who don't know where it is. We are a population of 85,000 people. And the <a href="/counterparty-risk-socialized-losses-vs-central-clearing/">financial services industry</a> has been our main industry for the last 30 years. Government decided to diversify into digital business about 10 years ago with the eGaming or iGaming. That's gambling online.
 
 </p><p>
 
-That's now become 10% of our gross domestic product or 10% of our economy. And early this year, we started to receive a lot of interest from the digital currency community. They saw the opportunity in the Isle of Man was a place or a destination or a jurisdiction as a go-to place for digital currency simply because we had the credentials in digital business.
+That's now become 10% of our gross domestic product or 10% of our economy. And early this year, we started to receive a lot of interest from the <a href="/bitcoin-and-interest-rates/">digital currency community</a>. They saw the opportunity in the Isle of Man was a place or a destination or a jurisdiction as a go-to place for <a href="/monetary-theory-monetary-history/">digital currency</a> simply because we had the credentials in digital business.
 
 </p><p>
 
@@ -32,11 +32,11 @@ We have a technology platform that is second to none. We've got the bandwidth, w
 
 </p><p>
 
-Welcome quality business into the Isle of Man, while at the same time, keeping crime out and protecting the consumer. And for us it's been very much the case of getting the balance right and making sure that the controls that we've brought in are fair and balanced and encourage good quality businesses, while those laws have got to be enshrined in our legal framework we're expecting that to happen in January 2015.
+Welcome quality business into the Isle of Man, while at the same time, keeping crime out and protecting the consumer. And for us it's been very much the case of getting the balance right and making sure that the controls that we've brought in are fair and balanced and encourage good quality businesses, while those laws have got to be enshrined in our <a href="/uniform-commercial-code-bitcoin/">legal framework</a> we're expecting that to happen in January 2015.
 
 </p><p>
 
-But in the interim we've found that, we have about 20 to 25 companies have already come to the Isle of Man and had established there in anticipation of that regulation falling into place and early next year. So we’re very encouraged by that. There's about 50 to 60 people gainfully employed in the industry.  Doesn't seem like a lot but when you consider the Isle of Man is a population of 85,000, it’s significant. So we're doing everything that we can to provide the right legal and regulatory environment to support the digital currency industry.
+But in the interim we've found that, we have about 20 to 25 companies have already come to the Isle of Man and had established there in anticipation of that regulation falling into place and early next year. So we’re very encouraged by that. There's about 50 to 60 people gainfully employed in the industry.  Doesn't seem like a lot but when you consider the Isle of Man is a population of 85,000, it’s significant. So we're doing everything that we can to provide the right <a href="/bitcoin-legal-issues/">legal and regulatory environment</a> to support the <a href="/bitcoin-documentary-review/">digital currency industry</a>.
 
 </p><p>
 
@@ -238,7 +238,7 @@ And that anybody that isn't abiding by the usual AML codes and the KYC codes wil
 
 </p><p>
 
-<strong>Brian Donegan</strong>:  Yes. Just on that subject in relation to the innovation, what we're finding is that outside of the exchanges, the other types of businesses that are coming to us that we're seeing in governments are mainly in the compliance space but they're also in the hardware-software, mining space as well.
+<strong>Brian Donegan</strong>:  Yes. Just on that subject in relation to the innovation, what we're finding is that outside of the <a href="/bitcoin-investor/">exchanges</a>, the other types of businesses that are coming to us that we're seeing in governments are mainly in the compliance space but they're also in the hardware-software, mining space as well.
 
 </p><p>
 
@@ -254,7 +254,7 @@ And indeed some of the miners are very attracted to the fact that the Isle of Ma
 
 </p><p>
 
-<strong>Trace Mayer</strong>:  Because mining is such a critical aspect to the bitcoin ecosystem that we’re seeing that as bitcoin gets larger, there is more centralization happening in the mining industry and you don't want to make these large capital investments, but do it in a jurisdiction like Venezuela, for example.
+<strong>Trace Mayer</strong>:  Because mining is such a critical aspect to the <a href="/financial-collateral/">bitcoin ecosystem</a> that we’re seeing that as bitcoin gets larger, there is more centralization happening in the <a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">mining industry</a> and you don't want to make these large capital investments, but do it in a jurisdiction like Venezuela, for example.
 
 </p><p>
 
@@ -544,7 +544,7 @@ And the ability for that to affect your bottom line in a positive way can't be e
 
 </p><p>
 
-<strong>Trace Mayer</strong>:  Well, I know, you know, having invested in quite a few of these bitcoin companies. I would prefer that my companies get this preferential like 40% on capex instead of spending all this money paying attorneys to --
+<strong>Trace Mayer</strong>:  Well, I know, you know, having invested in quite a few of these <a href="/bitreserve-review/">bitcoin companies</a>. I would prefer that my companies get this preferential like 40% on capex instead of spending all this money paying attorneys to --
 
 </p><p>
 
