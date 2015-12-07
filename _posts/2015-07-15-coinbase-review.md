@@ -6,6 +6,7 @@ authorurl: /
 published: true
 ---
 
+<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-logo.png' title='Coinbase logo' alt='Coinbase logo' width="700" height="245" border='0' ></a></center>
 <p>Founded in June of 2012, <a href="http://www.runtogold.com/coinbase" target="_blank">Coinbase</a> is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.
 <p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.
 <p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
@@ -49,4 +50,3 @@ published: true
 <li><b>Not</b> intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
-{% include coinbase-free-bitcoins.html %}
