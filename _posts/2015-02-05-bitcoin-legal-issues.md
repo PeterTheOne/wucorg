@@ -13,6 +13,7 @@ published: true
 <p>
 
 ### PODCAST INTERVIEW TRANSCRIPT
+
 <h2><strong>PODCAST INTERVIEW TRANSCRIPT</strong></h2>
 <h2><strong>Interview with Andrew Ittleman on Bitcoin Legal Issues</strong></h2>
 

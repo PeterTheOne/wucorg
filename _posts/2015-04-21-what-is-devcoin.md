@@ -13,7 +13,7 @@ Devcoin is an ethically inspired cryptocurrency created in 2011 to support open 
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/xE4whwzRmQ0" frameborder="0" allowfullscreen></iframe>
 <p>
-The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items.
+The <a href="/what-is-litecoin/">Litecoin</a> blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items.
 <p>
 <h2>How to earn Devcoins</h2>
 90% of Devcoin generation goes to open source projects with bounties for accomplishments and regular payments for active developers. Writers earn Devcoins by writing, developers earn Devcoins by developing, marketers earn Devcoins by marketing, and administrators can earn Devcoins by helping to administer the Devcoin project.

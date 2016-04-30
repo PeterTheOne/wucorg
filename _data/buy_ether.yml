@@ -1,0 +1,35 @@
+ - exchange: Kraken
+   description: "Kraken is a Bitcoin and cryptocurrency exchange based in Europe. Kraken offers six ether trading pairs: ETH/XBT, ETH/USD, ETH/EUR, ETH/CAD, ETH/JPY, and ETH/GBP. Because Kraken offers a wide range of payment methods–SEPA transfer, USD bank wire, GBP SEPA, Interac Online–it is the easiest way for most people to buy ether directly."
+   logo: kraken.png
+   url: https://www.kraken.com/
+   tags: fiat
+
+ - exchange: Coinimal
+   description: Buy ether in Europe with credit card, debit card NETELLER, Skrill, GIROPAY, SEPA, or OBT.
+   logo: coinimal.png
+   url: http://buybitcoinww.co/coinimal
+   tags: fiat
+   
+ - exchange: Bittylicious
+   description: Buy ether with GBP or Euros.
+   logo: bittylicious.png
+   url: https://bittylicious.com/
+   tags: fiat
+   
+ - exchange: Kraken
+   description: ETH/XBT is one of Kraken’s six ETH trading pairs.
+   logo: kraken.png
+   url: https://www.kraken.com/         
+   tags: btc
+   
+ - exchange: Poloniex
+   description: Poloniex is an altcoin exchange and has the highest ETH/BTC volume.
+   logo: poloniex.png
+   url: https://poloniex.com/        
+   tags: btc   
+   
+ - exchange: ShapeShift.io
+   description: Convert bitcoins to ether in less than a minute.
+   logo: shapeshift.png
+   url: http://shapeshift.io/         
+   tags: btc   

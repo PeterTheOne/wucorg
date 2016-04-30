@@ -1,0 +1,47 @@
+<table class="research-library">
+  <thead>
+    <tr>
+      <th>File</th>
+      <th>Size</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for file in include.source %}
+      <tr>
+        <td>
+          <a href="{{ site.baseurl }}{{ include.root }}/{{ file.file }}">{{ file.title }}</a><br>
+          {% if file.desc %}<p class="description">{{ file.desc }}</p>{% endif %}
+          {% if file.authors %}
+            Authors:
+            {% for author in file.authors %}
+              {% assign inCollection = site.people|where:'name',author %}
+
+              {% if inCollection == empty %}
+                {% assign inCollection = site.people|where:'title',author %}
+              {% endif %}
+
+              {% if inCollection != empty %}
+                {% assign inCollection = inCollection[0] %}
+                <a href="{{ inCollection.url }}">
+                  {% if inCollection.name %}
+                    {{ inCollection.name }}{% if forloop.last != true %}, {% endif %}
+                  {% else %}
+                    {{ inCollection.title }}{% if forloop.last != true %}, {% endif %}
+                  {% endif %}
+                </a>
+              {% else %}
+                {{ author }}{% if forloop.last != true %}, {% endif %}
+              {% endif %}
+            {% endfor %}<br>
+          {% endif %}
+          {% if file.organization %}
+            Organization: {{ file.organization }}
+          {% endif %}
+        </td>
+        <td>{{ file.size }}</td>
+        <td>{{ file.date }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

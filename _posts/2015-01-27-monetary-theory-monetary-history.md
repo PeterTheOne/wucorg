@@ -235,7 +235,7 @@ Because, really, there's still a lot of people that don't believe.  Did you not
 
 </p><p>
 
-There aren't really single points that can be taken out anymore, whether it's big mining nodes or companies, you know, Mt. Gox failed.  It didn't take bitcoin down.  And so all of that, I think, like, the network effects of bitcoin have just taken such deep hold and it's been growing so fast.  But I think it's larger to past the point of no return.
+There aren't really single points that can be taken out anymore, whether it's big mining nodes or companies, you know, Mt. Gox failed.  It didn't take bitcoin down.  And so all of that, I think, like, <a href="/the-seven-network-effects-of-bitcoin/">the network effects of bitcoin</a> have just taken such deep hold and it's been growing so fast.  But I think it's larger to past the point of no return.
 
 </p><p>
 
@@ -649,7 +649,7 @@ Bitcoin is much, much, much more difficult for the government to misappropriate 
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  Oh, yeah.  Yeah, having hundred percent reserves like we did Kraken who I'm invested in we actually produced the first audit for our crypto reserves and we did like a Merkle tree and you could figure out, like, whether your bitcoins were included in your total balance without us also disclosing the total balance because that could be a security risk.
+<strong>Trace Mayer:</strong>  Oh, yeah.  Yeah, having hundred percent reserves like we did Kraken who I'm invested in we actually produced the first audit for our crypto reserves and we did like a <a href="/what-is-a-merkle-tree/">Merkle tree</a> and you could figure out, like, whether your bitcoins were included in your total balance without us also disclosing the total balance because that could be a security risk.
 
 </p><p>
 
@@ -721,7 +721,7 @@ But the funny thing about it is that most of the bitcoin what they called scams 
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And this actually gets to one of the core reasons that I funded Armory.  There wasn't necessarily a business model when I funded it.  But I wanted the software created that was free for individuals to use, where they could safely and securely store their private keys to their own bitcoins.
+<strong>Trace Mayer:</strong>  And this actually gets to one of the core reasons that I funded <a href="/armory/">Armory</a>.  There wasn't necessarily a business model when I funded it.  But I wanted the software created that was free for individuals to use, where they could safely and securely store their private keys to their own bitcoins.
 
 </p><p>
 

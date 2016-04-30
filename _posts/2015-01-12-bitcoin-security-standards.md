@@ -37,7 +37,7 @@ Bitcoin Sultans perform security audits for a variety of different companies in 
 
 </p><p>
 
-It was through my work with Bitcoin Sultans, when we were trying to hire a new staff we realize that while some candidates would say, "Yes, I know bitcoin and I understand bitcoin."  After asking a couple of questions it became clear that they didn't truly understand bitcoin as well as they thought they did.  For example, they'd say things like, "Oh yeah, it's that anonymous untraceable currency, isn't it?"  And I'm sure your listeners know bitcoin is definitely not untraceable.  It's a highly traceable and while it can be used anonymously, bitcoin itself is not anonymous.
+It was through my work with Bitcoin Sultans, when we were trying to hire a new staff we realize that while some candidates would say, "Yes, I know bitcoin and I understand bitcoin."  After asking a couple of questions it became clear that they didn't truly understand bitcoin as well as they thought they did.  For example, they'd say things like, "Oh yeah, it's that anonymous untraceable currency, isn't it?"  And I'm sure your listeners know bitcoin is definitely not untraceable.  It's a highly traceable and while it <a href="/use-bitcoin-anonymously/">can be used anonymously</a>, bitcoin itself is not anonymous.
 
 </p><p>
 

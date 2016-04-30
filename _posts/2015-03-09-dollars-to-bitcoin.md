@@ -78,7 +78,7 @@ So, you rely on the traditional financial institutions.  It is the only way to 
 
 </p><p>
 
-<strong>Reeve Collins:</strong>  Yeah.  So, Tether is an asset-backed token.  If the bitcoin block chain and then there's these protocol layers on top of the block chain.  Master coin which has now been rebranded to Omni is the protocol that we're utilizing.  So, it enables tokens to work on the block chain in the same manner as bitcoin.
+<strong>Reeve Collins:</strong>  Yeah.  So, Tether is an asset-backed token.  If the bitcoin block chain and then there's these protocol layers on top of the block chain.  <a href="/what-is-mastercoin/">Mastercoin</a> which has now been rebranded to Omni is the protocol that we're utilizing.  So, it enables tokens to work on the block chain in the same manner as bitcoin.
 
 </p><p>
 

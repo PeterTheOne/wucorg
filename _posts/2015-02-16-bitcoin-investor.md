@@ -12,6 +12,7 @@ published: true
 <iframe width="700" height="415" src="https://www.youtube.com/embed/J7XeNR4s7d8" frameborder="0" allowfullscreen></iframe>
 
 ### PODCAST INTERVIEW TRANSCRIPT
+
 <h2>Interview with Jim Robinson, a Bitcoin Investor</h2>
 
 <strong>Trace Mayer:</strong>  Okay.  Welcome back to the Bitcoin Knowledge Podcast.  We've got Jim Robinson.  He's managing partner at RR&amp;E Ventures, one of the premier of venture capital fund.  So welcome to podcast, Jim.

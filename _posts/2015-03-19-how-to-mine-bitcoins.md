@@ -16,7 +16,7 @@ published: true
 <h2><strong>Interview with Marshal Long on How to Mine Bitcoins</strong></h2>
 <strong> </strong>
 
-<strong>Trace Mayer:</strong>  Okay.  Welcome back to the podcast.  We have a very important guest with us today.  We have Marshall Long, CTO of FinalHash, one of the leading bitcoin mining experts in the world on how to mine bitcoins.  Welcome to the podcast. Marshall.
+<strong>Trace Mayer:</strong>  Okay.  Welcome back to the podcast.  We have a very important guest with us today.  We have Marshall Long, CTO of FinalHash, one of the leading [bitcoin mining](/en/mining-guide/) experts in the world on how to mine bitcoins.  Welcome to the podcast. Marshall.
 
 </p><p>
 
@@ -108,7 +108,7 @@ published: true
 
 </p><p>
 
-<strong>Marshall Long:</strong>  Ledger is a great descriptor.  You know, the guy's at Ledger Wallet, they picked a very decent name for their wallet.  So, it's effectively a tamper-proof record book or ledger of what's happened since bitcoin began.
+<strong>Marshall Long:</strong>  Ledger is a great descriptor.  You know, the guy's at <a href="/bitcoin-ledger-wallet-review/">Ledger Wallet</a>, they picked a very decent name for their wallet.  So, it's effectively a tamper-proof record book or ledger of what's happened since bitcoin began.
 
 </p><p>
 
@@ -206,7 +206,7 @@ Now if you're going to mine with it, it's quite risky also.  Because you've got
 
 </p><p>
 
-<strong>Marshall Long:</strong>  Yeah.  And, you know, it's interesting.  China in particular, there's so much capital floating around China from guys who made it big, you know, in the 70's from -- China kind of open its arms to the rest of the world that a lot of our big investor clientele see this is kind of the new Renaissance.  Kind of when Mao open the doors and the guys after Mao open the doors up.  They kind of see this as their second window of hitting it big again.  So you got guys that are willing to roll the dice and sit on the coins.  We've got one client that has held Litecoin ever since the beginning.  So, not just bitcoin.
+<strong>Marshall Long:</strong>  Yeah.  And, you know, it's interesting.  China in particular, there's so much capital floating around China from guys who made it big, you know, in the 70's from -- China kind of open its arms to the rest of the world that a lot of our big investor clientele see this is kind of the new Renaissance.  Kind of when Mao open the doors and the guys after Mao open the doors up.  They kind of see this as their second window of hitting it big again.  So you got guys that are willing to roll the dice and sit on the coins.  We've got one client that has held <a href="/what-is-litecoin/">Litecoin</a> ever since the beginning.  So, not just bitcoin.
 
 </p><p>
 

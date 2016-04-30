@@ -4,24 +4,25 @@ title: Rich and Famous People on Bitcoin
 author: WeUseCoins
 authorurl: /
 published: true
+toc:
+  bill-gates: Bill Gates
+  warren-buffett: Warren Buffett
+  dr-eric-schmidt: Dr. Eric Schmidt
+  al-gore: Al Gore
+  ben-bernanke: Ben Bernanke
+  lawrence-summers: Lawrence Summers
+  chamath-palihapitiya: Chamath Palihapitiya
+  peter-thiel: Peter Thiel
+  dan-kaminsky: Dan Kaminsky
+  dr-patrick-byrne: Dr. Patrick Byrne
+  richard-branson: Richard Branson
+  julian-assange: Julian Assange
 ---
+{% include page-toc.html %}
 
 <p>Bitcoin is one of those topics that evokes great emotion and debate. So it is no surprise that even the richest and most famous people in the world have shared their thoughts and opinions on Bitcoin.
 <p>No banks, no fees and no inflation. These are a few potential perks of this thing called Bitcoin. But is bitcoin really the money of the future? What is all the rage about?
-<p>Learn what these rich and famous people think about Bitcoin:
-<ul><li><a href="#bill-gates">Bill Gates</a></li>
-<li><a href="#warren-buffett">Warren Buffett</a></li>
-<li><a href="#dr-eric-schmidt">Dr. Eric Schmidt</a></li>
-<li><a href="#al-gore">Al Gore</a></li>
-<li><a href="#ben-bernanke">Ben Bernanke</a></li>
-<li><a href="#lawrence-summers">Lawrence Summers</a></li>
-<li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
-<li><a href="#peter-thiel">Peter Thiel</a></li>
-<li><a href="#dan-kaminsky">Dan Kaminsky</a></li>
-<li><a href="#dr-patrick-byrne">Dr. Patrick Byrne</a></li>
-<li><a href="#richard-branson">Richard Branson</a></li>
-<li><a href="#julian-assange">Julian Assange</a></li>
-</ul>
+
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>

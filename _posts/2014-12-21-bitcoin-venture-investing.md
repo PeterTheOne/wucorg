@@ -7,11 +7,15 @@ description: Crypto-Currency Partners Partner Brock Pierce ruminates on the s
 published: true
 ---
 
-<img src="/images/brock-pierce.png" alt="Brock Pierce" align="right">Brock Pierce</a> is a partner at Crypto-Currency Partners. He is a founder of GoCoin, Investor in BitFury, Chairman on Mastercoin board and on the Board of Directors for Bitcoin Foundation.
+<img src="/images/brock-pierce.png" alt="Brock Pierce" align="right">
+
+Brock Pierce is a partner at Crypto-Currency Partners. He is a founder of GoCoin, Investor in BitFury, Chairman on <a href="/what-is-mastercoin/">Mastercoin</a> board and on the Board of Directors for Bitcoin Foundation.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
 <p>
+
 ### PODCAST INTERVIEW TRANSCRIPT
+
 <p><h2>Interview with Brock Pierce on Bitcoin Venture Investing</h2></p>
 
 <p><strong>Trace Mayer</strong>:  Welcome back to Bitcoin Knowledge Podcast.  We have a tremendous interview with Brock Pierce.  He is co-founder of GoCoin, Managing Partner at Crypto Currency Partners; and also on the board of directors of the Bitcoin Foundation.  Welcome.</p>

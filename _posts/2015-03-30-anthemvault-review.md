@@ -262,7 +262,7 @@ So it's tremendous from that standpoint.  I mean, U.N. experts have talked abou
 
 </p><p>
 
-<strong>Anthem Blanchard:</strong>  Yeah.  So Independence Coin or INNCoin, you can check it out INNCoin.co.  It was a proof of concept coin that we launched stealth on July 4th of 2014 and we backed it with 100 grams of gold and 10 million coins mineable X11 script which is same as Darkcoin, mineable for a year.  And someone can redeem a hundred thousand of these INN, these Independence Coin for 1 gram of gold.
+<strong>Anthem Blanchard:</strong>  Yeah.  So Independence Coin or INNCoin, you can check it out INNCoin.co.  It was a proof of concept coin that we launched stealth on July 4th of 2014 and we backed it with 100 grams of gold and 10 million coins mineable X11 script which is same as <a href="/what-is-dash/">Darkcoin</a>, mineable for a year.  And someone can redeem a hundred thousand of these INN, these Independence Coin for 1 gram of gold.
 
 </p><p>
 

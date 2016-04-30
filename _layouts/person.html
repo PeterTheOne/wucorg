@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="page person-page">
+	<h1>{{ page.title }}{% if page.position %} - {{ page.position }}{% endif %}</h1>
+
+  <div class="entry">
+		{% if page.img or page.position %}
+		<div class="person-info">
+			{% if page.img %}
+			<div class="person-img-wrap">
+				<img src="{{ page.img }}" alt="{{ page.title }}">
+			</div>
+			{% endif %}
+			<div class="person-details">
+				{% if page.position != null %}<p><span>Position</span>: {{ page.position }}</p>{% endif %}
+				{% if page.education != null %}<p><span>Education</span>: {{ page.education }}</p>{% endif %}
+				{% if page.website != null %}<p><span>Website</span>: <a href="{{ page.website }}">{{ page.website }}</a></p>{% endif %}
+				{% if page.twitter != null %}<p><span>Twitter</span>: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>{% endif %}
+				{% if page.github != null %}<p><span>GitHub</span>: <a href="https://github.com/{{ page.github }}">@{{ page.github }}</a></p>{% endif %}
+			</div>
+		</div>
+		{% endif %}
+
+		{{ content }}
+
+		{% assign relatedArticles = site.posts | where:"author", page.title %}
+		{% if relatedArticles != empty %}
+			<h2>Bitcoin articles by or related to {{ page.title }}</h2>
+			<ul>
+				{% for articleBy in relatedArticles %}
+					<li><a href="{{ articleBy.url }}">{{ articleBy.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+
+		{% assign relatedPages = site.pages | where:"author", page.title %}
+		{% if relatedPages != empty %}
+			<h2>Pages by or related to {{ page.title }}</h2>
+			<ul>
+				{% for pageBy in relatedPages %}
+					<li><a href="{{ pageBy.url }}">{{ pageBy.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+
+		{% if page.affiliations %}
+			<h2>Related people</h2>
+			{% for organization in page.affiliations %}
+				{% include similar-people.html organization=organization name=page.title showOrg=true %}
+			{% endfor %}
+		{% endif %}
+	</div>
+
+  {% unless page.disable_disqus %}{% include disqus.html %}{% endunless %}
+</article>

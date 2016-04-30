@@ -1,0 +1,7 @@
+<div class="buy-list">
+{% for exchange in site.data.buy %}
+  {% if exchange.countries contains include.country %}
+    {% include buy-list.html %}
+  {% endif %}
+{% endfor %}
+</div>

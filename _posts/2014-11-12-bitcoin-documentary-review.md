@@ -96,7 +96,7 @@ You know, and that makes us feel well like we have done a good job, you know, he
 
 </p><p>
 
-<strong>Trace Mayer</strong>:  Oh, that's really cool.  And I think there's actually, you know, just kind off the top of my head.  It made me think of I think it’s, which torrent application is it where you can actually specify like either bitcoin or litecoin or a dogecoin address.
+<strong>Trace Mayer</strong>:  Oh, that's really cool.  And I think there's actually, you know, just kind off the top of my head.  It made me think of I think it’s, which torrent application is it where you can actually specify like either bitcoin or <a href="/what-is-litecoin/">litecoin</a> or a <a href="/what-is-dogecoin/">dogecoin</a> address.
 
 </p><p>
 
@@ -244,7 +244,7 @@ And that's why it doesn't matter how many people try and fail or how many people
 
 </p><p>
 
-So, I mean, I guess in a way everybody's combined efforts are what helps sell bitcoin, what helps get bitcoin, you know, people educate people about bitcoin, what helps you know informing people about bitcoin, and show them what it really is.  So, you know, even with our film we're doing our part.
+So, I mean, I guess in a way everybody's combined efforts are what helps <a href="/how-to-sell-bitcoins/">sell bitcoin</a>, what helps get bitcoin, you know, people educate people about bitcoin, what helps you know informing people about bitcoin, and show them what it really is.  So, you know, even with our film we're doing our part.
 
 </p><p>
 

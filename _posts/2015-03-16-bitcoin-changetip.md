@@ -14,11 +14,12 @@ published: true
 <h2>Interview with Nick Sullivan on bitcoin changetip</h2>
 <strong>Trace Mayer:</strong>  Welcome back.  We have with us an excellent interview.  We have Nick Sullivan.  He is the founder and CEO of ChangeTip.  ChangeTip recently raised $4 million from investors, including Pantera Capital and some others.  Welcome to the podcast, Nick.
 </p>
+
 ### PODCAST INTERVIEW TRANSCRIPT
 
 <strong>Nick Sullivan:</strong>  Great to be here, Trace.
 
-</p><p>
+<p>
 
 <strong>Trace Mayer:</strong>  So can you give us a little bit of your background.  How do you get in the bitcoin changetip?  Like, why in the world would you start a bitcoin changetip company?  I mean, there's just so much going on and so fast the innovators are moving so quickly like.  How do you get into this?  Why are you doing it?
 
@@ -274,7 +275,7 @@ Now where I'd like to see this move, and as a callout to the bitcoin changetip c
 
 </p><p>
 
-There's a couple of different pathways that we're exploring.  One is working with the Blockstream team and sidechains to see if we can figure out how we can do micro-transactions on a sidechain.
+There's a couple of different pathways that we're exploring.  One is working with the <a href="/what-are-sidechains/">Blockstream team and sidechains</a> to see if we can figure out how we can do micro-transactions on a sidechain.
 
 </p><p>
 

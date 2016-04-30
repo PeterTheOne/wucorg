@@ -178,7 +178,7 @@ But anyway, if you boil it down, there's something like an ON squared thing goin
 
 <p>
 
-<strong>Dr. Adam Back:</strong>  Right.  And so, you know, bitcoin micropayments with Lightning can potentially get back to the fuller picture of solving denial of service and scaling services on the internet. So to come back to the scaling topic there, on-chain bitcoin transaction is scaled ON squared and there has been discussion recently about changing the block size.  And, you know, whether we change the block size from one megabyte to eight megabytes or gigabyte or something, you know, that's firstly a gigabyte would presumably cause the network to fail if we tried that right now or only running a single node in a datacenter, somewhere a couple nodes like that.
+<strong>Dr. Adam Back:</strong>  Right.  And so, you know, bitcoin micropayments with Lightning can potentially get back to the fuller picture of solving denial of service and scaling services on the internet. So to come back to the scaling topic there, on-chain bitcoin transaction is scaled ON squared and there has been discussion recently about changing the <a href="/why-blocksize-limit-keeps-bitcoin-free-decentralized/">block size</a>.  And, you know, whether we change the block size from one megabyte to eight megabytes or gigabyte or something, you know, that's firstly a gigabyte would presumably cause the network to fail if we tried that right now or only running a single node in a datacenter, somewhere a couple nodes like that.
 
 <p>
 

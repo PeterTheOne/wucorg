@@ -13,5 +13,6 @@ layout: default
     Written by <a href="{{ page.authorurl }}">{{page.author}}</a> on {{ page.date | date: "%B %e, %Y" }}.
   </div>
 
-  {% include disqus.html %}
+  {% unless page.disable_recommended %}{% include recommendedposts.html %}{% endunless %}
+  {% unless page.disable_disqus %}{% include disqus.html %}{% endunless %}
 </article>

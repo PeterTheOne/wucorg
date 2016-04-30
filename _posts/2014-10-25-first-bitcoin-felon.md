@@ -8,7 +8,7 @@ published: true
 ---
 
 <center><img src="/images/court.jpg" alt="court"></center>
-<img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and selling bitcoins.
+<img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and <a href="/how-to-sell-bitcoins/">selling bitcoins</a>.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/CYZjZh36_fA" frameborder="0" allowfullscreen></iframe>
 <p>
@@ -244,7 +244,7 @@ So, I joke that like there's this like thing a lot of companies have on the bott
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  And there is the risk you go to jail too.  Especially the exchanges are harder.  Companies like Coinbase that are retail.  The government is not as worried about those guys for a bunch of reasons.  Because they are doing KYC.  But also because retail, when you’re selling bitcoin from your own wallet to a customer and then you're buying it from.  It's very easily trackable.
+<strong>Charlie Shrem:</strong>  And there is the risk you go to jail too.  Especially the exchanges are harder.  Companies like Coinbase that are retail.  The government is not as worried about those guys for a bunch of reasons.  Because they are doing KYC.  But also because retail, when you’re <a href="/how-to-sell-bitcoins/">selling bitcoin from your own wallet</a> to a customer and then you're buying it from.  It's very easily trackable.
 
 </p><p>
 
@@ -316,7 +316,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And that's really what was so troublesome in the early days was establishing the trust.  But as the network effects of bitcoin take root.  And you like I’d got tons of friends now.  Like if I ever needed a –
+<strong>Trace Mayer:</strong>  And that's really what was so troublesome in the early days was establishing the trust.  But as <a href="/the-seven-network-effects-of-bitcoin/">the network effects of bitcoin</a> take root.  And you like I’d got tons of friends now.  Like if I ever needed a –
 
 </p><p>
 

@@ -1,6 +1,14 @@
 ---
 layout: default
 title: How to get started with Bitcoin mining.
+toc: 
+  what-is: What is Bitcoin Mining?
+  tb: Technical Background
+  hw: Bitcoin Mining Hardware
+  sw: Bitcoin Mining Software
+  ig: Mining Infographic
+  pow: What is Proof of Work?
+  md: What is Bitcoin Mining Difficulty?
 ---
 <link rel="canonical" href="https://www.weusecoins.com/en/mining-guide/" />
 
@@ -16,12 +24,19 @@ title: How to get started with Bitcoin mining.
 </p>
 {% include bitcoin-mining-hardware-comparison.html %}
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
+
+{% include page-toc.html %}
+
 <h2><em>Before we begin...</em></h2>
 <p>Before you read further, please understand that <strong>most bitcoin users don't mine!</strong> But if you do then this <a href="http://www.runtogold.com/bitcoinminer">Bitcoin miner</a> is probably the best deal. Bitcoin mining for profit is very competitive and volatility in the <a href="/en/bitcoin-price/">Bitcoin price</a> makes it difficult to realize monetary gains without also speculating on the price. Mining makes sense if you plan to do it for fun, to learn or to support the security of Bitcoin and do not care if you make a profit. If you have access to large amounts of cheap electricity and the ability to manage a large installation and business, you can mine for a profit.</p>
 <p>If you want to get bitcoins based on a fixed amount of mining power, but you don't want to run the actual hardware yourself, you can purchase a mining contract.</p>
-<h2>What is Bitcoin mining?</h2>
+
+
+<img src="/images/bitcoinicons/mining.png" class="bitcoin-icon pull-right" />
+
+<h2 id="what-is">What is Bitcoin mining?</h2>
 <p>Bitcoin mining is a lot like a giant lottery where you compete with your mining hardware with everyone on the network to earn bitcoins. Faster Bitcoin mining hardware is able to attempt more tries per second to win this lottery while the Bitcoin network itself adjusts roughly every two weeks to keep the rate of finding a winning block hash to every ten minutes. In the big picture, Bitcoin mining secures transactions that are recorded in Bitcon's public ledger, the block chain. By conducting a random lottery where electricity and specialized equipment are the price of admission, the cost to disrupt the Bitcoin network scales with the amount of hashing power that is being spent by all mining participants.</p>
-<h2>Technical Background</h2>
+<h2 id="tb">Technical Background</h2>
 <p>During mining, your Bitcoin mining hardware runs a <a href="https://en.bitcoin.it/wiki/Proof_of_work">cryptographic hashing function</a> (two rounds of SHA256) on what is called a <em><a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">block header</a></em>. For each new hash that is tried, the mining software will use a different number as the random element of the block header, this number is called the <em>nonce</em>. Depending on the nonce and what else is in the block the hashing function will yield a hash which looks something like this:</p>
 <p>
 <center>93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a</center>
@@ -37,9 +52,8 @@ title: How to get started with Bitcoin mining.
 <p><center>00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979</center>
 <p>Because the target is such an unwieldy number with tons of digits, people generally use a simpler number to express the current target. This number is called the <em>mining difficulty</em>. The mining difficulty expresses how much harder the current block is to generate compared to the first block. So a difficulty of 70000 means to generate the current block you have to do 70000 times more work than <a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> had to do generating the first block. To be fair, back then mining hardware and algorithms were a lot slower and less optimized.</p>
 <p>To keep blocks coming roughly every 10 minutes, the difficulty is adjusted using a shared formula every 2016 blocks. The network tries to change it such that 2016 blocks at the current global network processing power take about 14 days. That's why, when the network power rises, the difficulty rises as well.
-{% include dfp2.html %}
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2>Bitcoin Mining Hardware</h2>
+<h2 id="hw">Bitcoin Mining Hardware</h2>
 <h3>CPU</h3>
 <p>In the beginning, mining with a CPU was the only way to mine bitcoins and was done using the original Satoshi client. In the quest to further secure the network and earn more bitcoins, miners innovated on many fronts and for years now, CPU mining has been relatively futile. You might mine for decades using your laptop without earning a single coin.</p> 
 <h3>GPU</h3>
@@ -56,13 +70,12 @@ title: How to get started with Bitcoin mining.
 <p>There will be stepwise refinement of the ASIC products and increases in efficiency, but nothing will offer the 50x to 100x increase in hashing power or 7x reduction in power usage that moves from previous technologies offered. This makes power consumption on an ASIC device the single most important factor of any ASIC product, as the expected useful lifetime of an ASIC mining device is longer than the entire history of bitcoin mining.
 <p>It is conceivable that an ASIC device purchased today would still be mining in two years if the device is power efficient enough and the cost of electricity does not exceed it's output. Mining profitability is also dictated by the exchange rate, but under all circumstances the more power efficient the mining device, the more profitable it is. If you want to try your luck at bitcoin mining then this <a href="http://www.runtogold.com/bitcoinminer">Bitcoin miner</a> is probably the best deal. </p>
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2>Bitcoin Mining Software</h2>
+<h2 id="sw">Bitcoin Mining Software</h2>
 <p>There are two basic ways to mine: On your own or as part of a Bitcoin mining pool or with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">Bitcoin cloud mining contracts</a>. Almost all miners choose to mine in a pool because it smooths out the luck inherent in the Bitcoin mining process. Before you join a pool, make sure you have a <a href="https://www.weusecoins.com/en/getting-started">bitcoin wallet</a> so you have a place to store your bitcoins. Next you will need to join a mining pool and set your miner(s) to connect to that pool. With pool mining, the profit from each block any pool member generates is divided up among the members of the pool according to the amount of hashes they contributed.
-<p>How much bandwidth does Bitcoin mining take? If you are mining with a pool then the amount should be negligible with about 10MB/day. However, what you do need is exceptional connectivity so that you get any updates on the work as fast as possible.
+<p>How much bandwidth does Bitcoin mining take? If you are mining with a pool then the amount should be negligible with about 10MB/day. However, what you do need is exceptional connectivity so that you get any updates on the work as fast as possible. 
 <p>This gives the pool members a more frequent, steady payout (this is called reducing your variance), but your payout(s) can be decreased by whatever fee the pool might charge. Solo mining will give you large, infrequent payouts and pooled mining will give you small, frequent payouts, but both add up to the same amount if you're using a zero fee pool in the long-term.</p>
-{% include dfp3.html %}
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2>What is Bitcoin Mining?</h2>
+<h2 id="ig">What is Bitcoin Mining?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png">
 <a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
@@ -71,12 +84,12 @@ title: How to get started with Bitcoin mining.
 <p>The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. Mining is also the mechanism used to introduce Bitcoins into the system: Miners are paid any transaction fees as well as a "subsidy" of newly created coins.
 <p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
 <p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
-<h2>What is Proof of Work?</h2>
+<h2 id="pow">What is Proof of Work?</h2>
 <center><img src="/images/what-is-proof-of-work.png">
 <a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
 <p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
 <p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
-<h2>What is Bitcoin Mining Difficulty?</h2>
+<h2 id="md">What is Bitcoin Mining Difficulty?</h2>
 <center><img src="/images/what-is-bitcoin-mining-difficulty.png">
 <a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <h3>The Computationally-Difficult Problem</h3>
@@ -86,7 +99,7 @@ title: How to get started with Bitcoin mining.
 <p>The <a href="/what-is-bitcoin-mining-difficulty/">Bitcoin mining network difficulty</a> is the measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.
 <p>As more miners join, the rate of block creation will go up. As the rate of block generation goes up, the difficulty rises to compensate which will push the rate of block creation back down. Any blocks released by malicious miners that do not meet the required difficulty target will simply be rejected by everyone on the network and thus will be worthless.
 <h3>The Block Reward</h3>
-<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply.
+<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply or use a <a href="http://www.bitcoinx.com/profit/">bitcoin mining calculator</a>.
 <p>Additionally, the miner is awarded the fees paid by users sending transactions. The fee is an incentive for the miner to include the transaction in their block. In the future, as the number of new bitcoins miners are allowed to create in each block dwindles, the fees will make up a much more important percentage of mining income.
 <h2>Thanks</h2>
 <p>Blitzboom and the guys from #bitcoin-dev for their help with writing the guide!

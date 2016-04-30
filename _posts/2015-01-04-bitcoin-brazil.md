@@ -445,7 +445,7 @@ It's a very good opportunity there, but we still don't have products to reach th
 
 </p><p>
 
-<strong>Trace Mayer</strong>:  Yeah, I know with, man you look at the percentages of underbanked are unbanked and the ease of use with things like Breadwallet on the smartphone or 37coins--
+<strong>Trace Mayer</strong>:  Yeah, I know with, man you look at the percentages of <a href="/own-bank-bitcoin-unbanked/">underbanked are unbanked</a> and the ease of use with things like Breadwallet on the smartphone or 37coins--
 
 </p><p>
 

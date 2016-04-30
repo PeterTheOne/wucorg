@@ -11,7 +11,9 @@ published: true
 <p>Bitcoin is a powerful tool these people can use to lift themselves out of poverty. But before we get to the interview, this short video will help you see what is happening with Bitcoin in Africa.
 <p>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/BrRXP1tp6Kw" frameborder="0" allowfullscreen></iframe></center>
+
 ### Interview with Elizabeth Rossiello
+
 <center><iframe width="700" height="415" src="https://www.youtube.com/embed/NX9bViaViTs" frameborder="0" allowfullscreen></iframe></center>
 <p>
 

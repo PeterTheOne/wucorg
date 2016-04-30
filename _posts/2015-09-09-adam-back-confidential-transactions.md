@@ -362,7 +362,7 @@ So you really need to think about edge cases and ways that somebody malicious ca
 
 <p>
 
-And it uses another construct code, Merkle hash tree and there were some small hints in some of the minor mistakes made in that that suggest that Satoshi wasn't, you know, an applied to a professional cryptographer.  Note, the components would put together very carefully and robustly, but there were a few minor mistake say for example, the Merkle tree serialization had a mistake that was fixed at some point and so the particular things, you know, the confidential transactions are more connected and rooted in the advance electronic cash protocols by Dr. Stephen Brown and (inaudible 00:34:08) range proof and so on.
+And it uses another construct code, <a href="/what-is-a-merkle-tree/">Merkle hash tree</a> and there were some small hints in some of the minor mistakes made in that that suggest that Satoshi wasn't, you know, an applied to a professional cryptographer.  Note, the components would put together very carefully and robustly, but there were a few minor mistake say for example, the Merkle tree serialization had a mistake that was fixed at some point and so the particular things, you know, the confidential transactions are more connected and rooted in the advance electronic cash protocols by Dr. Stephen Brown and (inaudible 00:34:08) range proof and so on.
 
 <p>
 

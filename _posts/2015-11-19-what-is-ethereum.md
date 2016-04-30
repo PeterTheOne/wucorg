@@ -6,4 +6,4 @@ authorurl: /vitalik-buterin/
 published: true
 ---
 
-<p>Ethereum uses <a href="/what-is-ether/">Ether</a>.
+Ethereum uses <a href="/what-is-ether/">Ether</a>.

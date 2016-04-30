@@ -6,10 +6,13 @@ authorurl: https://www.weusecoins.com/james-deangelo/
 published: true
 ---
 
-<p>Economists are up in arms, claiming that bitcoin's 1000% annual growth is faster than anything they've ever seen. Because of that, they lash out, calling bitcoin volatile, a bubble, a pyramid scheme, etc. But don't worry, James D'Angelo puts on his VC glasses to compare the 4.5-year-old bitcoin to facebook, twitter, google at the same periods in their growth. The result is that Bitcoin's growth is as exponential, as volatile and as normal as any enormous tech giant. And just for fun we threw in a little bit about feral rats reproducing on a desert island.
+Economists are up in arms, claiming that bitcoin's 1000% annual growth is faster than anything they've ever seen. Because of that, they lash out, calling bitcoin volatile, a bubble, a pyramid scheme, etc. But don't worry, James D'Angelo puts on his VC glasses to compare the 4.5-year-old bitcoin to facebook, twitter, google at the same periods in their growth. The result is that Bitcoin's growth is as exponential, as volatile and as normal as any enormous tech giant. And just for fun we threw in a little bit about feral rats reproducing on a desert island.
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/qHUPPYzzZrI" frameborder="0" allowfullscreen></iframe>
+
 ### Transcript
-<p>Hello.  This is James D'Angelo and welcome to the Bitcoin 101 Blackboard series.  Today, we're going to look at the growth rates of rats on islands.  We're going to look at Facebook and Twitter all to understand this big issue with Bitcoin, its phenomenal growth.  So, there's no one who's a little bit curious about Bitcoin, has heard about Bitcoin and starts to get involved who hasn't heard that Bitcoin has been growing at about a 1000 percent a year and this year it's getting even more crazy.
+
+Hello.  This is James D'Angelo and welcome to the Bitcoin 101 Blackboard series.  Today, we're going to look at the growth rates of rats on islands.  We're going to look at Facebook and Twitter all to understand this big issue with Bitcoin, its phenomenal growth.  So, there's no one who's a little bit curious about Bitcoin, has heard about Bitcoin and starts to get involved who hasn't heard that Bitcoin has been growing at about a 1000 percent a year and this year it's getting even more crazy.
 
 So it started the year at around $12 or $13 per Bitcoin and now they're worth around $340.  That's a growth rate this year of about 3000 percent.  And this growth rate is driving people crazy, right?  It's scaring even the regular people who are investing.  Okay.  So, they've never seen something like this so they're saying words like bubbles or some sort of pyramid scheme or a Ponzi scheme or something like that because the only things that they're familiar with that have this kind of growth rates are those things.  But there's an issue with this.  There's actually some history with Facebook, Twitter, rats, bacteria and viruses that will help you understand Bitcoin’s growth and put it hopefully in a window of normalcy.  Okay.
 

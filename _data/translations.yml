@@ -1,0 +1,124 @@
+en:
+  native: English
+  navigation:
+    en/getting-started: Start
+    en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price: Buy
+    en/bitcoin-news: News
+    en/questions: FAQ
+    en/mining-guide: Mining
+    en/alt-coins: Alt-coins
+  footer: &footer_default
+    contribute: Contribute
+    links:
+      advertise: Advertise
+      en/materials: Materials
+      en/team: Team
+      en/about: About
+      en/whos-who: Who's Who
+      en/get-free-bitcoins: Free Bitcoins
+  contribute-notif: &contrib_default
+    heading: Contribute and translate!
+    text: >
+          <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
+          <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
+    incomplete_text: <p>This translation is incomplete, if you can't find what you are looking for, we suggest checking <a href="/">the English site</a>.</p>
+  post: &post_default
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+de:
+  native: Deutsch
+  navigation:
+    anfang: Anfang
+    get-free-bitcoins: Gratis
+    bitcoin-preis: Kurs
+    glossary: Glossar
+    questions: FAQ
+    mining-anleitung: Mining
+  footer:
+    contribute: Beitragen
+  contribute-notif:
+    heading: Hilf uns und übersetze!
+    text: >
+          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalte für die, die eine andere Sprache sprechen übersetzen?</p>
+          <p>Schau vorbei auf <a href="%github-url%">GitHub</a> und lerne wie du beitragen kannst.</p>
+  post:
+    written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
+fr:
+  native: Français
+  navigation:
+    getting-started: Débuter
+    get-free-bitcoins: Gratuits
+    bitcoin-price: Prix
+    glossary: Glossaire
+    questions: FAQ
+    mining-guide: Minage
+  footer:
+    contribute: Contribuer
+  post:
+    written-by: 'Écrit par <a href="%authorurl%">%author%</a> le %date%.'
+nl:
+  native: Nederlands
+  navigation:
+    getting-started: Aanvang
+    get-free-bitcoins: Gratis Bitcoins
+    bitcoin-price: Koers
+    glossary: Woordenlijst
+    questions: FAQ
+    merchant-tools: Koopman
+    mining-guide: Ontginnings Gids
+  # below here is untranslated
+  footer:
+    contribute: Contribute
+  post: *post_default
+ja:
+  native: 日本語
+  navigation:
+    getting-started: スタート
+    get-free-bitcoins: 無償 Bitcoins
+    bitcoin-price: 価格
+    glossary: 用語集
+    questions: FAQ
+    merchant-tools: 商人
+    mining-guide: 鉱業 ガイド
+  # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default
+es:
+  native: Español
+  navigation:
+    getting-started: Empezando
+    glossary: Glosario
+    questions: FAQ
+  # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default
+ru:
+  native: Pусский
+  navigation:
+    glossary: глоссарий
+    questions: FAQ
+  # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default
+pt:
+  native: Português
+  navigation:
+    glossary: Glossary
+    questions: FAQ
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default

@@ -1,0 +1,33 @@
+<div class="wallet-list">
+<h3>
+{% if wallet.img %}
+	<img class="wallet-logo" src="/images/{{ wallet.img }}.png">
+{% endif %}
+
+{{ wallet.wallet }} 
+
+<div class="wallet-buttons">
+	{% if wallet.more_info %}
+		<span class="wallet-link-more">
+			<a href="{{ wallet.more_info }}">Learn More</a>
+		</span>
+	{% endif %}
+	
+	<span class="wallet-link">
+	{% if wallet.download != null %}
+	<a href="{{ wallet.download }}">Download</a>
+	{% elsif wallet.buy != null %}
+	<a href="{{ wallet.buy }}">Buy</a>
+	{% elsif wallet.create != null %}
+	<a href="{{ wallet.create }}">Create</a>
+	{% else %} {% endif %}
+	</span>
+</div>
+</h3>
+
+<p>{{ wallet.description }}</p>
+
+{% if wallet.img-large %}
+<img alt="{{ wallet.wallet }}" class="img-large" src="{{ wallet.img-large }}">
+{% endif %}
+</div>

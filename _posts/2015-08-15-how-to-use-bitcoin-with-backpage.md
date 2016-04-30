@@ -7,7 +7,7 @@ published: true
 ---
 
 <p><h2>Buy Bitcoins</h2>
-<p>You need to buy bitcoins.
+<p>You <a href="/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">need to buy bitcoins.</a>
 <p><h2>Get A Bitcoin Wallet</h2>
 <p>Now you need to secure your bitcoins.
 <p><h2>Create a post on Backapge</h2>

@@ -11,13 +11,14 @@ published: true
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
 <p>
+
 ### PODCAST INTERVIEW TRANSCRIPT
 
 
 <h2><strong>Interview with Ben Ullrich on Denver Bitcoin Center</strong></h2>
 <strong> </strong>
 
-<strong>Trace Mayer:</strong>  Welcome back to the podcast.  We have Ben Ullrich with us.  He is from the Denver Bitcoin Center and also helps people use Armory.  So those are the two things we're going to be talking about.  Welcome to the podcast.
+<strong>Trace Mayer:</strong>  Welcome back to the podcast.  We have Ben Ullrich with us.  He is from the Denver Bitcoin Center and also helps people use <a href="/armory/">Armory</a>.  So those are the two things we're going to be talking about.  Welcome to the podcast.
 
 </p><p>
 

@@ -13,7 +13,9 @@ published: true
 <p>
 Kraken CEO Jesse Powell discusses exchange business, MtGox receivership and best Bitcoin security practices.
 <h2>Interview with <strong>Jesse Powell </strong>on Best Bitcoin Exchange</h2>
+
 ### PODCAST INTERVIEW TRANSCRIPT
+
 <p> <strong>Trace Mayer:</strong>  This is 124th episode of the Bitcoin Knowledge Podcast and we have with us the legendary Jesse Powell, CEO of Kraken (best bitcoin exchange).  It's Europe best bitcoin exchange and welcome to the podcast, Jesse.
 
 <p> <strong>Jesse Powell:</strong>  Hey, thanks, Trace.  Thanks for having me.
@@ -88,7 +90,7 @@ Kraken CEO Jesse Powell discusses exchange business, MtGox receivership and best
 
 <p> <strong>Trace Mayer:</strong>  You don't want your competitors to know that information either.<p> <strong> </strong>
 
-<p> <strong>Jesse Powell:</strong>  Exactly, yes.  So we felt that that was giving away a lot and we thought that we could find somebody trusted within the community to just sign off on that and to oversee the process.  And so we got Stefan Thomas, who's one of the old school bitcointers who developed that we use coins.com site and the BitcoinJS.  And he's now the CTO of Ripple.  So we had him.  He's in San Francisco now.  So we hadn't come by the office and do the audit for us.  So everything checked out and I think that that went off really well with the community.  It was a good first, a first run at it.  We found some things that we could do better next time and given in light of recent events it's probably about time to do it again.  We wanted to do it much more frequently than we had.  But it's a bit of a production finding somebody kind of qualified to actually sign off on it.
+<p> <strong>Jesse Powell:</strong>  Exactly, yes.  So we felt that that was giving away a lot and we thought that we could find somebody trusted within the community to just sign off on that and to oversee the process.  And so we got Stefan Thomas, who's one of the old school bitcointers who developed that we use coins.com site and the BitcoinJS.  And he's now the CTO of <a href="/what-is-ripple/">Ripple</a>.  So we had him.  He's in San Francisco now.  So we hadn't come by the office and do the audit for us.  So everything checked out and I think that that went off really well with the community.  It was a good first, a first run at it.  We found some things that we could do better next time and given in light of recent events it's probably about time to do it again.  We wanted to do it much more frequently than we had.  But it's a bit of a production finding somebody kind of qualified to actually sign off on it.
 
 <p> <strong>Trace Mayer:</strong>  Yeah.  And personally, I'd love to see within a 24/7 type audit happening, but you really do have to weigh the cost and the benefit from it and things like that.  I mean, I guess, we could raise fees to the auditing on a 24/7 bases.  But --
 

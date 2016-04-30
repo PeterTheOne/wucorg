@@ -37,7 +37,7 @@ published: true
 
 </p><p>
 
-That's very exciting.  I've kind of talked about how we have these seven network effects all taking place at the same time.  We have speculation, we have merchants, consumers, the security/mining, we have developers.  The sixth, the network effect being financialization, which is the one before kind of world reserve currency status settlement currency status.  And so you're working on something that most people that I interviewed for the podcast just aren't in.
+That's very exciting.  I've kind of talked about how we have these <a href="/the-seven-network-effects-of-bitcoin/">seven network effects all taking place</a> at the same time.  We have speculation, we have merchants, consumers, the security/mining, we have developers.  The sixth, the network effect being financialization, which is the one before kind of world reserve currency status settlement currency status.  And so you're working on something that most people that I interviewed for the podcast just aren't in.
 
 </p><p>
 

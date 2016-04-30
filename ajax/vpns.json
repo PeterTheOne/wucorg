@@ -1,0 +1,12 @@
+---
+layout: null
+---
+{
+  "template": "/ajax/vpn_list.html",
+  "entries": [
+    {% for item in site.data.bitcoinvpns %}
+      {{ item | jsonify }}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

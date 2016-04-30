@@ -13,7 +13,7 @@ April 1st 2015 the Isle of Man's Bitcoin specific legislation, the Proceeds of C
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/0o1AwvTowiE" frameborder="0" allowfullscreen></iframe>
 
-### PODCAST INTERVIEW TRANSCRIPT
+<h3>PODCAST INTERVIEW TRANSCRIPT</h3>
 
 <h2><strong>Interview with Brian Donegan on Bitcoin and Isle of Man</strong></h2>
 <strong>Trace Mayer</strong>:  Welcome back to the Bitcoin Knowledge Podcast. We have an exceptional interview today with Brian Donegan. He's head of operations of a digital business for the Isle of Man government. For those who don't know the Isle of Man has been very friendly towards bitcoin. Brian, can you give us a little bit of background on how we've gotten here and what the Isle of Man's approach they're taking to bitcoin specifically?

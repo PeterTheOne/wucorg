@@ -7,7 +7,7 @@ published: true
 ---
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cZp7UGgBR0I" frameborder="0" allowfullscreen></iframe>
-<p>The blocksize limit is what ensures everyone can participate in the Bitcoin network, and it ensures everyone can participate anonymously should they choose too. Some people want to remove this protection to make Bitcoin scale, but we can have the best of both worlds: high transaction volume and true decentralization with off-chain transactions.
+<p>The blocksize limit is what ensures everyone can participate in the Bitcoin network, and it ensures everyone <a href="/use-bitcoin-anonymously/">can participate anonymously</a> should they choose too. Some people want to remove this protection to make Bitcoin scale, but we can have the best of both worlds: high transaction volume and true decentralization with off-chain transactions.
 <h3>TRANSCRIPT</h3>
 <p>You all know bitcoin. It's a secure, inflation-proof, decentralized currency. You make a transaction and it gets published to the global bitcoin network.
 <p>Bitcoin nodes all around the world forward that information to each other until seconds later the whole world knows about your transaction.

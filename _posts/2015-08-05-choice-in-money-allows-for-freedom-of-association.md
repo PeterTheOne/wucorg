@@ -6,7 +6,8 @@ authorurl: /adrian-childers/
 published: true
 ---
 
-###Choice in Money Allows for Freedom of Association
+### Choice in Money Allows for Freedom of Association
+
 <p>
 Before bitcoin the currency you used was entirely dependent on which part of the globe you were born and live in. Governments print a fiat currency that only has value because they say it does. Any attempt by other organizations to mint their own money are usually quashed because large governments and special interests benefit by having a monopoly on the money supply. Governments around the world have succeeded in destroying alternative currencies before they take off as there has traditionally always been a centralized location that can be shut down. 
 <p>

@@ -1,0 +1,12 @@
+---
+layout: null
+---
+{
+  "template": "/ajax/company_list.html",
+  "entries": [
+    {% for item in site.data.companies %}
+      {{ item | jsonify }}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

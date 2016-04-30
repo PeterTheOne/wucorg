@@ -1,0 +1,19 @@
+{% for person in site.people %}
+  {% if person.affiliations contains include.organization and person.title != include.name %}
+    {% assign show = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if show %}
+  {% if include.showOrg %}
+    <h3>{{ include.organization }}</h3>
+  {% endif %}
+  <div class="person-list">
+  {% for person in site.people %}
+    {% if person.affiliations contains include.organization and person.title != include.name %}
+      {% include person.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+{% endif %}

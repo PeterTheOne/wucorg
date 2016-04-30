@@ -1,0 +1,59 @@
+.person-list {
+    width: 100%;
+    text-align: center;
+    font-size: 0;
+}
+
+.person-display {
+  display: inline-block;
+  padding: 15px 10px 35px;
+  width: 25%;
+  margin: 0;
+  text-align: center;
+
+	img {
+		border-radius: 50%;
+		width: 65px;
+		height: auto;
+	}
+
+	.name {
+		font-size: 15px;
+	}
+
+	.position {
+		color: #989898;
+		font-size: 14px;
+	}
+}
+
+.person-info {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  float: right;
+  font-size: 14px;
+  padding: 15px 15px 0;
+  width: 250px;
+  margin: 0 0 10px 15px;
+
+	.person-img-wrap {
+		text-align: center;
+	}
+
+	img {
+		border-radius: 50%;
+		max-width: 220px;
+	}
+
+	span {
+		font-weight: bold;
+	}
+
+	p {
+		clear: both;
+	}
+
+	@include mobile {
+		width: 100%;
+	}
+}

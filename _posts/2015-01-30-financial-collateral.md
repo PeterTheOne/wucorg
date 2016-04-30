@@ -9,7 +9,7 @@ published: true
 ---
 <img src="/images/erik-voorhees.png" alt="Erik Voorhees" align="right">Erik Voorhees is co-founder of the Bitcoin company Coinapult, worked as Director of Marketing at BitInstant, and was founder and partial owner of the Bitcoin gambling website Satoshi Dice which was subsequently sold in July 2013 to an undisclosed buyer for 126,315 bitcoins which were valued at $11.5M.
 <p>
-He was fined by the SEC for an unregistered stock offering related to SatoshiDice. He is  the creator and CEO of the instant bitcoin and altcoin exchange <a href="/shapeshift/">ShapeShift.io</a>, having founded and operated it under the alias Beorn Gonthier, until revealing his true involvement with the company, as part of a seed funding announcement, in March 2015.
+He was fined by the SEC for an unregistered stock offering related to SatoshiDice. He is  the creator and CEO of the instant bitcoin and <a href="/en/alt-coins/">altcoin</a> exchange <a href="/shapeshift/">ShapeShift.io</a>, having founded and operated it under the alias Beorn Gonthier, until revealing his true involvement with the company, as part of a seed funding announcement, in March 2015.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/OYs_OTudg0s" frameborder="0" allowfullscreen></iframe></center>
 
 <p><h2>Podcast Interview Transcript</h2>
@@ -205,7 +205,7 @@ Even though people had contracts, and to which Marx and French francs and stuff 
 
 <p><strong>Erik Voorhees:</strong>  It's unlikely but it could happen.
 
-<p><strong>Trace Mayer:</strong>  It could.  Well, it could happen but, I mean, as someone who's cashed out into bit coin, you know, when you're trying to reform your own subjective valuation of this particular asset have you weighed like, I mean, is there any competitor on the horizon when we're talking about like a new protocol layer of value transfer on the internet.  Anything that's got network effects anywhere close to bitcoin.
+<p><strong>Trace Mayer:</strong>  It could.  Well, it could happen but, I mean, as someone who's cashed out into bit coin, you know, when you're trying to reform your own subjective valuation of this particular asset have you weighed like, I mean, is there any competitor on the horizon when we're talking about like a new protocol layer of value transfer on the internet.  Anything that's got <a href="/the-seven-network-effects-of-bitcoin/">network effects anywhere close to bitcoin</a>.
 
 <p><strong>Erik Voorhees:</strong>  Not yet, nothing really and there's been lots of competitors.  So there's lots of new digital currencies that have come out, some are very similar to bitcoin, some do different things.  None of them has been able to really get a foothold on the market.
 

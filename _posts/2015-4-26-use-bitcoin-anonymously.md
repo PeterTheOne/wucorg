@@ -12,12 +12,12 @@ Let's begin with the two facts that underlie this discussion:
 <p>Put together, these two points are tell us that we need to use Bitcoin securely. So, we face a choice: Either we can accept these facts (which I see as unassailable) or we push ourselves into denial.
 <p>So, presuming that you, dear reader, are not in denial, I shall continue. 
 
-### Bitcoin Is NOT Anonymous
+<h3>Bitcoin Is NOT Anonymous</h3>
 
 <p>Bitcoin has often been called an anonymous digital currency, but that is false. Bitcoin, in fact, is the most transparent currency ever created – far more traceable than dollars, Euros or Yen have ever been.
 <p>Every bitcoin ever mined and used, has a 100% traceable history... and an easy-to-trace history. All you have to do is look at the blockchain, which exists in thousands of copies, freely available world-wide. 
 
-### How You Can Use Bitcoin Anonymously
+<h3>How You Can Use Bitcoin Anonymously</h3>
 
 Now, with that point made, I hope, I will add that you can use bitcoin anonymously. But only if you do certain things:
 <p><b>1</b>: Use Multiple Addresses.
@@ -42,7 +42,7 @@ Now, with that point made, I hope, I will add that you can use bitcoin anonymous
 <li>You then transfer the bitcoins that are to be mixed to the service (the same process as sending anyone a bitcoin).</li></ol>
 Various mixing services operate in various ways. Check them out if you're interested. The fear in using a mixing service is that they'll just run away with your coins. Notwithstanding the fact that this would destroy their business, one of the beauties of digital currencies is that they are divisible. So, if you don't trust the mixing operation, send small amounts multiple times. Rather than sending 5 bitcoins at once, send a quarter bitcoin first, to check them out. If that goes well, send another quarter, and so on. You don't have to go all-or-nothing. 
 
-### Getting Anonymous
+<h3>Getting Anonymous</h3>
 
 <p>Encryption and anonymity are not the same thing. 
 <p>Encrypted = No one can read it. 
@@ -56,7 +56,7 @@ Various mixing services operate in various ways. Check them out if you're intere
 <p>The other way is to use a free service that promises to do it for you. The go-to free service for many years has been Tor. But law enforcers, when they haven't been stealing bitcoins, have been running stings on one Tor service after another. At some point, I think we need to admit that Tor might not be our be-all and end-all. 
 <p>So, if you have some kind of deep philosophical belief that only free things can be good, I suggest that you start using I2P. 
 
-### In Conclusion
+<h3>In Conclusion</h3>
 
 There are two points that you need to understand from this article: 
 <p><b>1</b>. If you want to use Bitcoin anonymously then you'll have to work for it. It isn't hard, but you have to do it. 

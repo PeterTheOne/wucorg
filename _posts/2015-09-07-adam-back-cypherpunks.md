@@ -513,7 +513,7 @@ So, you know, if you have an existing secure system, you can add an additional s
 
 <p>
 
-<strong>Trace Mayer:</strong>  Extremely.  We've had a wonderful introduction to the absolutely legendary Dr. Adam Back.  Cited in Satoshi's whitepaper as we've talked about.  We're going to be having a full week with him on the podcast discussing confidential transaction, sidechains and the lightning network along with some of his other innovations and thoughts on bitcoin and where it's going.  So we'd just like to take the time to thank the legendary Dr. Back for being with us.
+<strong>Trace Mayer:</strong>  Extremely.  We've had a wonderful introduction to the absolutely legendary Dr. Adam Back.  Cited in Satoshi's whitepaper as we've talked about.  We're going to be having a full week with him on the podcast discussing confidential transaction, <a href="/what-are-sidechains/">sidechains</a> and the lightning network along with some of his other innovations and thoughts on bitcoin and where it's going.  So we'd just like to take the time to thank the legendary Dr. Back for being with us.
 
 <p>
 

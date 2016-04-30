@@ -5,15 +5,49 @@ author: We Use Coins
 authorurl: /
 published: true
 ---
+Learn how to store bitcoins on a USB stick.
 
-
-<p>Learn how to store bitcoins on a USB stick.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/2qmOM567BF4" frameborder="0" allowfullscreen></iframe>
-<p>This should increase your Bitcoin security. You may also be interested in the <a href="https://www.weusecoins.com/bitcoin-ledger-wallet-review/">Ledger Wallet Review</a>.
+
+Storing bitcoins on a USB stick is not as straight forward as storing regular data. Bitcoin private keys are secret codes and storing them on a regular USB stick leaves them at risk of theft if someone were to physically discover the USB. 
+
+Luckily, entrepreneurs have created unique solutions that allow Bitcoin users to store coins on USB sticks or similar devices. The rest of this post will run through your options for storing bitcoins on these devices. 
+
+## Ledger Nano
+
+<img class="usb-hw" alt="ledger" src="/images/ledger/img02-rotated.png">
+
+The [Ledger Nano](/bitcoin-ledger-wallet-review/) is a smartcard based Bitcoin hardware wallet. It stores Bitcoin private keys and signs transactions in its secure environment. It is not a traditional USB stick, but rather requires a software wallet to provide an interface to interact with the wallet's keys. 
+
+The Nano [costs about $30](https://www.ledgerwallet.com/r/4727) and is a portable, secure solution for storing bitcoins on a USB device. 
+
+## Ledger HW.1
+
+<img class="usb-hw" alt="ledger" src="/images/ledger/img04-rotated.png">
+
+The Ledger HW.1 is a dimmed down version of the Ledger Nano. It [costs about $17](https://www.ledgerwallet.com/r/4727). 
+
+## OpenDime
+
+<img alt="ledger" src="/images/opendime.png">
+
+The [OpenDime](https://opendime.com/) is a new Bitcoin hardware device that was released in April 2016. It calls itself the "First Bitcoin Bearer Bond". 
+
+The OpenDime is unique because it stores just a single private key. It acts like a read-only USB device and contains just one address. It is meant to be passed along and used as cash. 
+
+The main downside to OpenDime is that it contains just a single address. Because address re-use is harmful to privacy, users who plan to transaction often should look for other alternatives. 
+
+## Encrypted USB Stick
+
+One creative option is to create a Bitcoin paper wallet. Instead of printing the paper wallet's private keys, they can be saved on an encrypted USB stick. 
+
+You can [read this guide](/bitcoin-cold-storage-guide/) and follow steps 1-5 to create a secure paper wallet. Instead of printing in step 6, just save to an encrypted USB. Just make sure this is done on an offline computer! 
+
+An encrypted USB stick like the Kingston Digital DataTraveler 4000 [sells for $28 on Amazon](http://www.amazon.com/Kingston-Digital-DataTraveler-DT4000-4GB/dp/B004NRMWN4?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00). 
 
 ### Transcript - How To Store Bitcoin On USB Stick
 
-Hello and welcome to my video where I'm going to show you how to create a simple and secure USB Bitcoin wallet.  We're going to create this USB Bitcoin wallet using MultiBit.  MultiBit is a free open source program that's available for Mac, PC and Linux and we're going to create this wallet offline which is very important since malware and or potential hackers would need to access your computer through the Internet in order to steal your money.  So, by doing all this offline we can really lower the chances of getting hacked.  Now I want to make a quick side note.  I am using a PC running Windows, but if you need instructions for a Mac or Linux there's a link in the video description for that.  So, let's get started.
+Hello and welcome to my video where I'm going to show you how to create a simple and secure USB Bitcoin wallet.  We're going to create this USB [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/) using MultiBit.  MultiBit is a free open source program that's available for Mac, PC and Linux and we're going to create this wallet offline which is very important since malware and or potential hackers would need to access your computer through the Internet in order to steal your money.  So, by doing all this offline we can really lower the chances of getting hacked.  Now I want to make a quick side note.  I am using a PC running Windows, but if you need instructions for a Mac or Linux there's a link in the video description for that.  So, let's get started.
 
 The very first thing we're going to do is download the MultiBit wallet.  And we can do that just simply by going to multibit.org.  Please take note of the https.  That's for secure connections and we can download the MultiBit wallet from the right hand side.  I've already done that.  Here it is.  The next thing we're going to do is we're going to plug in our USB drives.  So, I have my USB drive I'm going to plug it in right now.  After we plug in our USB drive we're going to run the installer.  And we're going to install MultiBit.  We're going to go through this wizard here, next, next, accept the terms, next.  But instead of installing it in C program files we're going to click on browse and we're going to install it in our USB drive.  So, here's my USB drive, USB Disk E.  I'll just click on that as you can see it's completely empty yours should be too.  I don't recommend using this USB drive for anything else but this.  And we're going to just click on save and we're going to click on next.  The directory already exist that's okay.  We can click on yes.  Keep everything the same, next.  And that should be it.  It's finished, next and we can click on done.
 

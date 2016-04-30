@@ -1,0 +1,35 @@
+ - wallet: Ethereum Wallet
+   description: Ethereum Wallet is a desktop Ethereum wallet. Ethereum Wallet has integrated with <a href="https://shapeshift.io/">ShapeShift</a>, which makes it easy to accept Bitcoin and other altcoin payments directly to your Ethereum Wallet as ether. 
+   download: https://github.com/ethereum/mist
+   img: 
+   img-large: /images/ethereum/ewss.png 
+   
+ - wallet: Geth
+   description: Geth is a command line interface for using, sending, receiving, and creating contracts with Ethereum. Geth is a good option for programmers, but not a good option for users in search of an easy-to-use wallet.
+   download: https://www.ethereum.org/cli
+   img: 
+   img-large:    
+    
+ - wallet: Etherwall
+   description: Install Etherwall with Geth to transact directly with the Ethereum network through Geth, but with an easy to use interface provided by Etherwall.
+   download: http://www.etherwall.com/
+   img: etherwall
+   img-large:   
+   
+ - wallet: MyEtherWallet
+   description: <p><a href="https://www.myetherwallet.com/">MyEtherWallet</a> is an open source Javascript client-side Ether wallet. MyEtherWallet makes it easy to create secure wallets without the command line or the need to run an Ethereum client on your computer. By running MyEtherWallet on an offline computer, you can create secure paper wallets for your ether holdings. </p><p>MyEtherWallet also has a <a href="https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm/">Chrome extension</a> in beta that adds a better user interface for sending and receiving transactions.</p>
+   download: https://www.myetherwallet.com/
+   img: myetherwallet
+   img-large: /images/ethereum/myetherwallet.png
+   
+ - wallet: EthereumWallet
+   description: <a href="https://ethereumwallet.com/">EthereumWallet</a> is an ether wallet by Kryptokit. Much like Kryptokit's RushWallet or MyEtherWallet, EthereumWallet uses client side Javascript to quickly create Ethereum addresses in web browsers. EthereumWallet is still in beta and should not be used to store large amounts of ether. 
+   download: https://ethereumwallet.com/
+   img: 
+   img-large:    
+    
+ - wallet: EthAddress
+   description: <a href="https://ryepdx.github.io/ethaddress.org/">EthAddress</a> is another open source Javascript client-side Ether wallet. It supports single wallets, bulk wallets, brain wallets, vanity wallets, and split wallets. 
+   download: https://ryepdx.github.io/ethaddress.org/#/
+   img: 
+   img-large: /images/ethereum/eadd.png           
