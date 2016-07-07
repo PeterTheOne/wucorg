@@ -58,6 +58,18 @@
    countries: de, fr
    logo: bitcoinde.png
    url: https://www.bitcoin.de/
+   
+ - exchange: Cashila
+   description: Cashila is a payment processor that enables users to transfer, hold and receive funds using bitcoin or euros.
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   logo: cashila.png
+   url: https://www.cashila.com/
+   
+ - exchange: Bitrush
+   description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
+   countries: bg, nl
+   logo: bitrush.png
+   url: https://www.bitrush.nl
 
 ############## United Kingdom ##############  
    
@@ -163,6 +175,12 @@
    url:  https://coins.co.th/en/
 
 ############## Australia ##############
+   
+ - exchange: BTC Markets
+   description: Australia's largest Bitcoin exchange. Buy Bitcoins today with POLi and EFT. Low trading fees and full API available.
+   countries: au
+   logo: btcmarkets.png
+   url: https://www.btcmarkets.net/
    
  - exchange: buy-aBitcoin
    description: Buy bitcoins with cash in Australia. Only verification required is an email address and phone number
@@ -270,5 +288,4 @@
    description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
    countries: 
    logo: 247exchange.jpg
-   url: http://www.runtogold.com/247exchange  
-   getting_started: yes
+   url: http://www.runtogold.com/247exchange

@@ -21,6 +21,12 @@
    logo: btce.png
    url: https://btc-e.com/       
    tags: btc 
+   
+ - exchange: Bitrush
+   description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
+   logo: bitrush.png
+   url: https://www.bitrush.nl
+   tags: fiat
 
  - exchange: Bitfinex
    description: Bitfinex is the largest USD/BTC trading site in terms of volume, but also features a LTC/BTC pair.

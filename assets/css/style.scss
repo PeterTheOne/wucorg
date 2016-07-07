@@ -814,6 +814,33 @@ $mobile: new-breakpoint(max-width 500px 4);
     margin: 0 0 5px 10px;
 }
 
+.alt-wrap {
+	float: left;
+    margin: 15px 0;
+    width: 100%;
+
+	.alt-name {
+    font-weight: bold;
+    margin: 10px 0 0 65px;
+	}
+
+	p {
+		margin: 30px 0 0;	
+	}
+
+	img {
+		float: left;
+		width: 50px;
+		height: auto;
+		border-radius: 3px;
+	}
+}
+
+.auto-img-h {
+	max-height: 120px;
+	width: auto;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import 'highlights';

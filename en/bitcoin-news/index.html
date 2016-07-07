@@ -13,6 +13,8 @@ toc:
   security: Security
   finance: Finance
   legal: Legal
+  archive: Archive
+permalink: /news/
 ---
 <!-- This is wrong! I think this is bad for SEO as it is invalid HTML. It is on many sites here. -->
 <link rel="canonical" href="https://www.weusecoins.com/en/bitcoin-expert-interviews/" />
@@ -23,6 +25,9 @@ toc:
 
 {% include page-toc.html %}
 
+<p>Bitcoin has been in the news and discussed by many technological and political leaders.
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/5j69EwG8R8I" frameborder="0" allowfullscreen></iframe></center>
+<p>
 <img src="/images/icons/icon-gs-up-to-date.png" alt="ask hard questions" align="left" style="margin-right: 5px;"><a name="step1" class="anchor"><h2>Step 1 - Asking Hard Questions</h2></a>
 <p>When the <a href="/en/bitcoin-price/">Bitcoin price</a> goes up and Bitcoin becomes more popular then more charlatans and schemers come out of the woodwork purporting to be bitcoin experts. Sifting the noise to hone in on the signal of an experienced, trustworthy, knowledgeable and credible bitcoin expert can be incredibly difficult.
 <p>
@@ -122,6 +127,7 @@ toc:
 <li><p><a href="/bitreserve-review/">Bitreserve Review</a></li>
 <li><p><a href="/anthemvault-review/">Anthemvault Review</a></li>
 <li><p><a href="/bitcoin-and-interest-rates/">Bitcoin and Interest Rates</a></li>
+<li><p><a href="/bitcoin-learn-foreign-exchange-market/">What Bitcoin Can Learn From the Foreign Exchange Market</a></li>
 <li><p><a href="/bitcoin-arbitrage-made-easy-lesson-one/">Bitcoin Arbitrage Made Easy | Lesson One</a></li>
 <li><p><a href="/bitcoin-arbitrage-made-easy-lesson-two/">Bitcoin Arbitrage Made Easy | Lesson Two</a></li>
 <li><p><a href="/counterparty-risk-socialized-losses-vs-central-clearing/">Counterparty Risk and Socialized Losses vs Central Clearing</a></li>
@@ -136,4 +142,12 @@ toc:
 <li><p><a href="/bitcoin-isle-of-man/">Bitcoin in the Isle of Man</a></li>
 <li><p><a href="/uniform-commercial-code-bitcoin/">Bitcoin and the Uniform Commercial Code</a></li>
 <li><p><a href="/bitcoin-legal-issues/">Bitcoin criminal defense</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="archive" class="anchor"><h3 id="archive">Archive of all posts on WeUseCoins:</h3></a>
+<ul>
+	{% for post in site.posts %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
 </ul>

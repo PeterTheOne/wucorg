@@ -1,129 +1,129 @@
-﻿1
+1
 00:00:00,180 --> 00:00:01,800
-What is Bitcoin?
+Bitcoin Nedir?
 
 2
 00:00:01,900 --> 00:00:04,900
-Bitcoin is the first
-decentralized digital currency.
+Bitcoin ilk merkezi
+olmayan dijital para birimidir.
 
 3
 00:00:04,960 --> 00:00:07,800
-Bitcoins are digital coins
-you can send through the Internet.
+Bitcoinler dijital paralardır
+ve internetten gönderilir.
 
 4
 00:00:07,900 --> 00:00:11,600
-Compared to other alternatives,
-bitcoins have a number of advantages.
+Diğerlerine göre,
+bitcoinlerin bir sürü avantajı vardır.
 
 5
 00:00:11,700 --> 00:00:15,000
-Bitcoins are transferred directly
-from person to person via the net
+Bitcoinler internet aracılığıyla
+doğrudan kişiden kişiye gönderilir
 
 6
 00:00:15,050 --> 00:00:17,160
-without going through
-a bank or clearinghouse.
+ancak hiçbir bankadan veya
+kurumdan geçmez.
 
 7
 00:00:17,200 --> 00:00:19,520
-This means that the fees are much lower,
+Bu, işlem ücretinin çok daha
+düşük olduğunu gösterir,
 
 8
 00:00:19,600 --> 00:00:21,120
-you can use them in every country,
+her ülkede kullanılabilir,
 
 9
 00:00:21,200 --> 00:00:22,900
-your account cannot be frozen
+hesabınız dondurulamaz
 
 10
 00:00:23,000 --> 00:00:25,500
-and there are no prerequisites
-or arbitrary limits.
+ve hiçbir önkoşul veya
+keyfi limit yoktur.
 
 11
 00:00:26,300 --> 00:00:28,000
-Let's look at how it works.
+Hadi, nasıl çalıştığına bakalım.
 
 12
 00:00:28,250 --> 00:00:31,400
-Several currency exchanges exist
-where you can buy and sell bitcoins
+Bazı yerlerde Bitcoin alıp satabilirsiniz
 
 13
 00:00:31,450 --> 00:00:33,450
-for dollars, euros and more.
+dolar, euro ve diğer para
+birimleri karşılığında.
 
 14
 00:00:33,600 --> 00:00:37,400
-Your bitcoins are kept in your digital
-wallet on your computer or mobile device.
+Bitcoinleriniz bilgisayarınzda veya
+mobil cihazınızdaki dijital cüzdanda bulunur.
 
 15
 00:00:39,100 --> 00:00:42,100
-Sending bitcoins is as
-simple as sending an email
+Bitcoin göndermek e-posta
+göndermek kadar kolaydır
 
 16
 00:00:42,200 --> 00:00:45,100
-and you can purchase
-anything with Bitcoin.
+ve Bitcoinle isteğiniz
+her şeyi alabilirsiniz.
 
 17
 00:00:45,900 --> 00:00:49,500
-The Bitcoin network is secured
-by individuals called miners.
+Bitcoin ağı, madenci adı
+verilen kişiler tarafından korunuyor.
 
 18
 00:00:49,800 --> 00:00:55,120
-Miners are rewarded newly generated
-bitcoins for verifying transactions.
+Madenciler, ödemeleri doğrulamak karşılığında
+yeni yaratılmış Bitcoinlerle ödüllendirilir.
 
 19
 00:00:55,300 --> 00:01:00,400
-After transactions are verified they are
-recorded in a transparent public ledger.
+Ödemeler doğrulandıktan sonra herkese
+açık bir deftere kaydedilir.
 
 20
 00:01:00,900 --> 00:01:04,200
-Bitcoin opens up a whole
-new platform for innovation.
+Bitcoin yeniliklere açık
+bir platformdur.
 
 21
 00:01:04,400 --> 00:01:08,120
-The software is completely open source
-and anyone can review the code.
+Bu yazılım tamamen açık kaynaktır
+ve herkes kaynak kodunu denetleyebilir.
 
 22
 00:01:08,500 --> 00:01:12,500
-Bitcoin is changing finance the same way
-the web changed publishing.
+Bitcoin internetin yayıncılığı
+değiştirdiği gibi finansı değiştirir.
 
 23
 00:01:12,590 --> 00:01:16,400
-When everyone has access to a
-global market, great ideas flourish!
+Herkesin evrensel bir piyasaya
+sahip olması ortaya müthiş fikirler çıkarır!
 
 24
 00:01:17,100 --> 00:01:21,100
-Bitcoins are a great way for businesses
-to minimize transaction fees.
+Bitcoin, işyerleri için ödeme fiyatlarını
+düşürmek için harika bir yöntemdir.
 
 25
 00:01:21,180 --> 00:01:24,450
-It doesn't cost anything to start
-accepting them and it's easy to setup.
+Ödemeleri kabul etmek ücretsizdir
+ve kurulumu çok kolaydır.
 
 26
 00:01:24,600 --> 00:01:28,900
-There are no chargebacks and you'll get
-additional business from the Bitcoin economy.
+Geri ödeme yoktur ve ek olarak
+Bitcoin sisteminde çalışmaya başlarsınız.
 
 27
 00:01:29,000 --> 00:01:36,760
-For more information about
-Bitcoin visit: weusecoins.com
-
+Daha fazla bilgi için:
+weusecoins.com

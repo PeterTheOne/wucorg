@@ -52,6 +52,8 @@ Visit the [buy page of this site](/en/how-buy-bitcoins-online-best-bitcoin-excha
 
 There’s no reason that selling bitcoins must be limited to receiving fiat money. Now that it’s possible to <a>buy just about anything</a> with bitcoins, selling by buying goods may be a better option for some.  
 
+You can for example pay your monthly bills with bitcoins. [Cashila](https://www.cashila.com/), a European licensed payment processor, is a good option which lets you pay for bills or other services that accept a SEPA bank transfer.
+
 Even if you don’t need merchandise, buying gold with bitcoins is a creative way to “sell” bitcoins without using an exchange.
 
 ### How to Sell Large Amounts of Bitcoin

@@ -3,11 +3,17 @@
    logo: kraken.png
    url: https://www.kraken.com/
    tags: fiat
-
+   
  - exchange: Coinimal
    description: Buy ether in Europe with credit card, debit card NETELLER, Skrill, GIROPAY, SEPA, or OBT.
    logo: coinimal.png
    url: http://buybitcoinww.co/coinimal
+   tags: fiat
+   
+ - exchange: ICONOMI
+   description: Buy ether in Europe with a SEPA transfer.
+   logo: iconomi.png
+   url: http://www.iconomi.net/
    tags: fiat
    
  - exchange: Bittylicious
@@ -21,6 +27,12 @@
    logo: kraken.png
    url: https://www.kraken.com/         
    tags: btc
+   
+ - exchange: Bitrush
+   description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
+   logo: bitrush.png
+   url: https://www.bitrush.nl
+   tags: fiat
    
  - exchange: Poloniex
    description: Poloniex is an altcoin exchange and has the highest ETH/BTC volume.

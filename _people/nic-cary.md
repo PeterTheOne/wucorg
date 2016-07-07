@@ -7,7 +7,7 @@ education:
 experience:
 short_desc: Nic Cary is the Co-founder of Blockchain.
 long_desc:
-affiliations: [Blockchain, ZeroBlock]
+affiliations: [Blockchain.info, ZeroBlock]
 twitter: niccary
 github:
 residence:

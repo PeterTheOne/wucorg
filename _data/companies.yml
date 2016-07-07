@@ -1,4 +1,63 @@
 -
+    date: 1-Feb-2016
+    company: Civic
+    classification: Identity
+    roundsize: 2.75
+    cumulative: 2.75
+    round: Series Seed
+    investors: Pantera, DCG, Blockchain Capital
+    headquartered: Palo Alto
+    country: USA
+    region: North America
+    img: 
+    description:  
+    url: https://www.civic.com
+-
+    date: 26-Apr-2016
+    company: bitFlyer
+    classification: Exchange
+    roundsize: 27.00
+    cumulative: 33.94
+    round: Series C
+    investors: Venture Labo Investment, SBI Investment
+    headquartered: Tokyo
+    country: Japan
+    region: Asia
+    img: bitflyer.png
+    description:  
+    url:
+
+-
+    date: 22-Apr-2016
+    company: Ethcore
+    classification: Infrastructure
+    roundsize: 0.75
+    cumulative: 0.75
+    round: Pre-Seed
+    investors: Blockchain Capital, Fenbushi Capital
+    headquartered: London
+    country: United Kingdom
+    region: Europe
+    img: ethcore.png
+    description:  
+    url:
+
+-
+    date: 22-Apr-2016
+    company: Tibit
+    classification: Financial Services
+    roundsize: 0.16
+    cumulative: 0.16
+    round: Seed
+    investors: Private
+    headquartered: London 
+    country: United Kingdom
+    region: Europe
+    img: tibit.png
+    description:  
+    url:
+
+-
     date: 12-Apr-2016
     company: BitKan
     classification: Financial Services
@@ -65,7 +124,7 @@
     headquartered: Paris
     country: France
     region: Europe
-    img: rootstock.jpg
+    img: stratumn.png
     description:  
     url: 
 -

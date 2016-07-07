@@ -9,6 +9,7 @@ toc:
   warren-buffett: Warren Buffett
   dr-eric-schmidt: Dr. Eric Schmidt
   al-gore: Al Gore
+  dmitry-medvedev: Dmitry Medvedev
   ben-bernanke: Ben Bernanke
   lawrence-summers: Lawrence Summers
   chamath-palihapitiya: Chamath Palihapitiya
@@ -39,6 +40,7 @@ toc:
 <p>CEO of Berkshire Hathaway and the second richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/ewMYbX47-IE" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="dr-eric-schmidt"><b>Dr. Eric Schmidt</b></h3>
 <p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
@@ -46,6 +48,19 @@ toc:
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."
 <p>"Bitcoin is a remarkable cryptographic achievement and the ability to create something that is not duplicable in the digital world has enormous value"
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/jRrEZbKm3mk" frameborder="0" allowfullscreen></iframe></center>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="dmitry-medvedev"><b>Dmitry Medvedev</b></h3>
+<p><center><img src="/images/dmitry-medvedev.png" alt="Dmitry Medvedev"></center>
+<p>Dmitry Medvedev has been the Russian Prime Minister since 8 May 2012. The Russian Prime Minister is considered the second highest position in the government, after the President.
+<p>"There are many examples of this, such as actively developing "blockchain" technologies. So called 'smart contracts' allow creation of self-regulated autonomous organizations independent of the State.
+<p>Such systems take on a life of their own, transcending existing written laws. This presents extremely interesting phenomenon and challenge to legal scholars.
+<p>It seems that in many such cases there exists a limit of what a law is able to achieve in principle. The deals that transfer property, that certify the property rights - it all happens in a highly automated fashion. ...
+<p>Such novel situation calls for a concerted effort to deal with it. We need to analyze it. It puts non-standard tasks in front of the legal scholars, lawmakers.
+<p>So non-standard solutions are needed that may lay the foundation for a completely new legal field. I hope for productive discussions regarding this issue among us."
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/BXlAH2fhyoU" frameborder="0" allowfullscreen></iframe></center>
+
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="richard-branson"><b>Richard Branson</b></h3>
 <p><center><img src="/images/richard-branson-bitcoin.png" alt="Richard Branson"></center>
@@ -53,50 +68,59 @@ toc:
 <p>"There's a big industry around and, you know people have made fortune out of bitcoin."
 <p>"If people have lots of bitcoin and they want to go to space, I much rather they spend that money on a spaceship."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DzwTXZDSyHo" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="chamath-palihapitiya"><b>Chamath Palihapitiya</b></h3>
 <p><center><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"></center>
 <p>Venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
 <p>"It is a huge deal, it's a huge, huge, huge deal."
 <p>"I mean I personally -- I own bitcoin in my hedge fund, I own bitcoin in my fund, I own bitcoin in my private account."
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="lawrence-summers"><b>Lawrence Summers</b></h3>
 <p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
 <p>An economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/UVGq0zaZsNg" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="dr-patrick-byrne"><b>Dr. Patrick Byrne</b></h3>
 <p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
 <p>Holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/IKHvglt89VQ" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="al-gore"><b>Former Vice President Al Gore</b></h3>
 <p><center><img src="/images/al-gore-bitcoin.png" alt="Patrick Byrne"></center>
 <p>45th Vice President of the United States
 <p>"I think the fact that within the bitcoin universe an algorithm replaces the functions of [the government] … is actually pretty cool. I am a big fan of Bitcoin."
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="peter-thiel"><b>Peter Thiel</b></h3>
 <p><center><img src="/images/peter-thiel-bitcoin.png" alt="Peter Thiel"></center>
 <p>Co-Founder of Paypal and investor in Bitcoin merchant processor <a href="/bitpay/">Bitpay</a>.
 <p>"I do think Bitcoin is the first [encrypted money] that has the potential to do something like change the world."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/AOrDMumiRa0" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="dan-kaminsky"><b>Dan Kaminsky</b></h3>
 <p><center><img src="/images/dan-kaminsky-bitcoin.png" alt="Dan Kaminsky"></center>
 <p>An American security researcher. He is the Chief Scientist of White Ops, a firm specializing in detecting malware activity via JavaScript. He has worked for Cisco, Avaya, and IOActive, where he was the Director of Penetration Testing. He is known among computer security experts for his work on DNS cache poisoning, and for showing that the Sony Rootkit had infected at least 568,200 computers and for his talks at the Black Hat Briefings.
 <p>"Entire classes of bugs are missing."
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="ben-bernanke"><b>Ben Bernanke</b></h3>
 <p><center><img src="/images/ben-bernanke-bitcoin.png" alt="Ben Bernanke"></center>
 <p>Former Chairman of the United States Federal Reserve.
 <p>"[Virtual Currencies] may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system."
 <p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/R6FVLZH_bTE" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="julian-assange"><b>Julian Assange</b></h3>
 <p><center><img src="/images/julian-assange-bitcoin.png" alt="Julian Assange"></center>
 <p>Founder of Wikileaks.
 <p>"Bitcoin actually has the balance and incentives right, and that is why it is starting to take off."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/MaB3Zw5_p9c" frameborder="0" allowfullscreen></iframe></center>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 ### TRANSCRIPT OF Patrick Byrne on Bitcoin
 <p>How is digital currency or crypto currency going to change at least here on the United State our -- the system and how we actually managed money?

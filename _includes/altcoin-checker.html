@@ -1,0 +1,7 @@
+<div class="alt-list">
+{% for alt in site.altcoins %}
+  {% if alt.category == include.category %}
+    {% include alt-list.html %}
+  {% endif %}
+{% endfor %}
+</div>

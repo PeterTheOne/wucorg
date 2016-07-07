@@ -1,6 +1,6 @@
 ---
 title: Peter Todd
-seotitle:
+seotitle: Peter Todd - Bitcoin Core Developer
 img: /images/peter-todd.png
 position: Bitcoin Core Developer
 education:
