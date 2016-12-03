@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is the Hayek?
 name: Hayek
 author: Daniel Brown
@@ -11,7 +10,7 @@ category: altcoin
 summary: The Hayek is an exciting new cryptographic gold receipt issued by Anthem Vault, a leading online retailer of vaulted and insured silver and gold bullion. 
 ---
 
-<p><iframe width="700" height="394" src="https://www.youtube.com/embed/CDnizFFRgU4?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/kYNyY4mE_5s?rel=0" frameborder="0" allowfullscreen></iframe></p>
 <img src="/images/hayek-symbol.jpg" alt="Anthem Vault" align="right">
 <p>The Hayek is an exciting new cryptographic gold receipt issued by Anthem Vault, a leading online retailer of vaulted and insured silver and gold bullion. The Hayek’s most interesting feature is that it is fully backed by gold, each Hayek being secured by an equal amount of vaulted and insured physical gold bullion. One Hayek will always be worth one gram of gold. </p>
 <p>The value of other cryptocurrencies is inherently volatile; one minute they are behaving like a hot technology stock, but the next minute they are plagued with market uncertainty. In stark contrast, the Hayek’s gold-backing gives it unparalleled stability and intrinsic value, and it carries all of the financial security and historical value of gold. Being a cryptograhic receipt, however, it will be much more convenient to store and transfer Hayeks than actual physical bullion.</p>
@@ -24,7 +23,7 @@ summary: The Hayek is an exciting new cryptographic gold receipt issued by Anthe
 <p>Many cryptocurrency enthusiasts and goldbugs share similar beliefs, founded on common sense and a true understanding of human nature. For countless reasons, we hold that a truly free market can and will make our world a better place. That is the main reason that the name Hayek was chosen for this new, gold-backed cryptocurrency – a new form of money that is destined to change people’s thinking about paper currency, banking, savings, investments and international trade.</p>
 <p>‘Hayek’ is also the middle name of Anthem Vault’s Founder &amp; CEO, Anthem Hayek Blanchard. His parents were so passionate about the importance of the free market that they named their child after F. A. Hayek himself. It is clear that Mr. Blanchard was heavily influenced by his parents, as he continues their legacy of supporting Austrian economic theories.</p>
 <h2>Where Can I Buy Hayeks?</h2>
-<p>Hayeks are available for purchase via an account at <a href="http://www.runtogold.com/anthemvault">AnthemVault.com</a>. Anthem Vault is a trusted bullion storage service that was founded in 2011. When customers buy gold or silver from Anthem Vault, it is stored at an independent vaulting facility. Vault security is state-of-the-art, and all holdings are audited daily and insured against theft and natural disaster. Buyers retain 100% ownership of the physical bullion.</p>
+<p>Hayeks are available for purchase via an account at <a href="https://www.anthemvault.com/">AnthemVault.com</a>. Anthem Vault is a trusted bullion storage service that was founded in 2011. When customers buy gold or silver from Anthem Vault, it is stored at an independent vaulting facility. Vault security is state-of-the-art, and all holdings are audited daily and insured against theft and natural disaster. Buyers retain 100% ownership of the physical bullion.</p>
 <p>You can learn more about Anthem Vault in the following video:</p>
 <p><iframe width="700" height="394" src="https://www.youtube.com/embed/kYNyY4mE_5s?rel=0" frameborder="0" allowfullscreen></iframe></p>
 <p>The Hayek will provide all of those same benefits, plus ease of transfer. Each Hayek will authenticate ownership of one gram of gold stored in those same secure, insured vaults. Owners will even be able to exchange Hayeks for physical gold, delivered to their door.</p>

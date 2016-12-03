@@ -1,4 +1,18 @@
 -
+    date: 7-Jul-2016
+    company: DTCO
+    classification: Blockchain OS
+    roundsize: 0.28
+    cumulative: 0.28
+    round: Series Seed C
+    investors: Cathay Venture Capital, Kyber Capital
+    headquartered: Taipei
+    country: ROC
+    region: Taiwan
+    img: dtco.png
+    description: DTCO serves as a bridge between business and blockchain by providing a Blockchain OS for wide range of industries, including intellectual property, healthcare, supply chain management and IoT.
+    url: https://dtco.co
+-
     date: 1-Feb-2016
     company: Civic
     classification: Identity

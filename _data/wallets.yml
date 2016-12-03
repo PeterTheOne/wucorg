@@ -18,26 +18,32 @@
  - wallet: Ledger Nano
    description: <p>The <a href="/bitcoin-ledger-wallet-review/">Ledger Nano</a> is a smartcard based hardware wallet. Private keys are generated and signed offline in the smartcard’s secure environment. The Nano is setup using the Ledger Chrome Application. A random 24-word seed is generated upon setup and backed offline by writing it down on a piece of paper. In case of theft, damage or loss, the entire wallet can be recreated with the seed. A user selected PIN code is also assigned to the device to protect against physical theft or hacking.</p><p>The Ledger Nano may be used on any computer, or Android phones with Mycelium or GreenBits.</p> 
    category: hardware
-   buy: http://buybitcoinww.co/ledger_nano
+   buy: http://geni.us/ledger
    img: ledger
    more_info: /bitcoin-ledger-wallet-review/
    
  - wallet: TREZOR
    description: <p>The TREZOR differs from the Ledger Nano in that it’s a very tiny computer rather than a smartcard. Private keys are still generated offline.</p> <p>TREZOR also generates a 24-word seed upon setup. The TREZOR has its own built in screen where the seed is displayed and copied down during backup. Since the TREZOR is an offline device it offers extra security since the seed isn’t displayed on an online computer.</p> <p>An additional passphrase can be added to the 24-word seed. This provides extra protection, since anyone who finds someone else’s 24-word seed is free to access the funds. If the optional passphrase is added, an attacker still wouldn’t be able to access funds without both the seed AND the passphrase. If the passphrase is forgotten, it cannot be recovered.</p> 
    category: hardware
-   buy: http://buybitcoinww.co/TREZOR_Wallet
+   buy: http://geni.us/ledger
    img: trezor
-
+   
+ - wallet: OPENDIME
+   description: <p>The first Bitcoin Bearer Bond or called a Bitcoin Stick. Opendime is a small USB stick that allows you to spend Bitcoin like a dollar bill. Pass it along multiple times. Connect to any USB to check balance. Unseal anytime to spend online. Trust no one. </p> <p>Acts like a read-only USB flash drive. Works with any computer, laptop, and phone. </p> <p>A QR Picture and Text file inside contain Bitcoin address and support. </p> <p>The private key is generated inside the device, and is never known to any human, not even you! </p> <p>The Bitcoin world changes fast but Opendime is built on the fundamental Bitcoin features that have not changed in five years. </p> <p>Give an Opendime to anyone and they don't need to worry that you can take back the funds later. </p> <p>You have got the private keys in the device. This is physical Bitcoin as it was meant to be to just hand it to someone and they have got it. </p> <p>Pass it on multiple times! Simple as a handshake. No miner fees, no confirmation delays. </p> <p>Uses Bitcoin message signing, normal (non HD) bitcoin payment addresses and private keys in WIF format.</p>
+   category: hardware
+   buy: https://opendime.com
+   img: opendime
+   
  - wallet: Ledger HW.1
    description: The Ledger HW.1 is a more affordable version of the Ledger Nano. 
    category: hardware
-   buy: http://buybitcoinww.co/ledger_unplugged
+   buy: http://geni.us/ledger
    img: ledger
 
  - wallet: Ledger Unplugged
    description: <p>The Ledger Unplugged is a credit card-size wireless hardware wallet. Private keys are generated offline. Transactions are signed on the device and sent to a mobile phone via NFC.</p> <p>The Ledger Unplugged is ideal for everyday use, since the device fits perfectly into wallets and no OTG cable is required. </p>
    category: hardware
-   buy: http://buybitcoinww.co/ledger_unplugged   
+   buy: http://geni.us/ledger  
    img: ledger
 
 ## Web Wallets

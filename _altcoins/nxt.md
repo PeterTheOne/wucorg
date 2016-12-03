@@ -1,5 +1,4 @@
 ---
-layout: post
 title: NXT
 name: NXT
 author: WeUseCoins

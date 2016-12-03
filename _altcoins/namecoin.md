@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Namecoin?
 name: Namecoin
 author: Trace Mayer, J.D.

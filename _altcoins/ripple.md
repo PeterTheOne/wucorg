@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Ripple?
 name: Ripple
 author: Bobby Ong

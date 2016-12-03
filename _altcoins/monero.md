@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Monero?
 name: Monero
 author: Trace Mayer, J.D.

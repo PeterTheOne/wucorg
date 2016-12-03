@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Devcoin?
 name: Devcoin
 author: Trace Mayer, J.D.

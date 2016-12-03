@@ -5,7 +5,7 @@ author: Jordan Tuwiner
 authorurl: /jordan-tuwiner/
 description: Learn how to secure your bitcoins offline.  
 published: true
-seotitle: Secure Bitcoin Cold Storage with Paper, Hardware & Software Wallets
+seotitle: Secure Bitcoin Cold Storage with Paper, Hardware and Software Wallets
 ---
 Bitcoin cold storage is achieved when Bitcoin private keys are created and stored in a secure offline environment. Cold storage is important for anyone with bitcoin holdings. Online computers are vulnerable to hackers and should not be used to store a significant amount of bitcoins. 
 
@@ -94,7 +94,7 @@ Water damage or fires could damage or destroy your paper wallet(s) and result in
 ## Hardware Wallets
 Hardware wallets have become popular because they make it easy for anyone to create offline storage. No technical knowledge is required, and the setup process is more simple than that of paper wallets. 
 
-A [Bitcoin hardware wallet](https://www.coldhardware.com/) is just a small offline computer or smart card that generates private keys offline. When funds are spent, a hardware wallet signs the transactions in its secure environment and sends the signed transaction to your computer and on to the Bitcoin network. 
+A [Bitcoin hardware wallet](http://geni.us/ledger) is just a small offline computer or smart card that generates private keys offline. When funds are spent, a hardware wallet signs the transactions in its secure environment and sends the signed transaction to your computer and on to the Bitcoin network. 
 
 Hardware wallets are backed up using HD seeds and also written on paper. Hardware wallet backups should also be protected from physical theft and damage and multiple copies kept.
  
@@ -102,7 +102,7 @@ Some wallets like TREZOR allow users to add an additional custom word to the HD 
 
 The three most popular hardware wallets on the market are the [Ledger Nano](/bitcoin-ledger-wallet-review/), KeepKey, and TREZOR. 
 
-**Ledger Nano:** [Ledger Nano](https://www.ledgerwallet.com/products/1-ledger-nano) is Ledger's flagship hardware wallet. It's a smartcard wallet in USB form factor, meaning it can be plugged in directly to any computer's USB port. The downside to the Nano is that it lacks a screen and must be initialized on a secure computer or operating system. Ledger offers its own Ledger Starter which will let you boot from a secure OS and initialize your device if you don’t have a dedicated offline computer. 
+**Ledger Nano:** [Ledger Nano](http://geni.us/ledger) is Ledger's flagship hardware wallet. It's a smartcard wallet in USB form factor, meaning it can be plugged in directly to any computer's USB port. The downside to the Nano is that it lacks a screen and must be initialized on a secure computer or operating system. Ledger offers its own Ledger Starter which will let you boot from a secure OS and initialize your device if you don’t have a dedicated offline computer. 
 
 **TREZOR:** [TREZOR](http://www.bitcointrezor.com/) was the first hardware wallet to offer a screen. Users can confirm transactions on the TREZOR itself, meaning TREZOR can be used with confidence even on malware infected computers. 
 

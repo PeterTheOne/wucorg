@@ -4,6 +4,12 @@
    url: https://www.kraken.com/
    tags: fiat
    
+ - exchange: Coinbase
+   description: "Coinbase is one of the world's largest Bitcoin and Ether exchanges. Users in the United States, Canada, most of Europe, and Singapore can buy bitcoins with a connected bank account or SEPA transfer. European users can purchase bitcoins with 3D secure credit or debit cards."
+   logo: coinbase-small.png
+   url: http://geni.us/coinbase
+   tags: fiat
+   
  - exchange: Coinimal
    description: Buy ether in Europe with credit card, debit card NETELLER, Skrill, GIROPAY, SEPA, or OBT.
    logo: coinimal.png

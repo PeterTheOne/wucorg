@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Litecoin?
 name: Litecoin
 author: Trace Mayer, J.D.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Shadowcash?
 name: Shadowcash
 author: Trace Mayer, J.D.

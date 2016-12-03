@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Dash?
 name: Dash
 author: Trace Mayer, J.D.

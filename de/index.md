@@ -96,7 +96,6 @@ toc:
 
 <h3 id="was-ist-bitcoin">Was ist Bitcoin?</h3>
 <p>Bitcoin ist ein konsensorientiertes Netzwerk, welches ein neues Zahlungssystem und vollständig digitales Geld möglich macht. Es ist das erste dezentralisierte Peer-to-Peer Zahlungsnetzwerk; nur von den Nutzern betrieben und ohne zentrale Authorität oder Vermittler. Aus einer Nutzerperspektive ist Bitcoin mehr oder weniger Bargeld für das Internet. Bitcoin kann auch als das prominenteste Beispiel für ein bereits bestehendes <a href="http://financialcryptography.com/mt/archives/001325.html">dreifaches Buchführungs-System</a> gesehen werden.</p>
-<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0'></a></center>
 
 <h3 id="wer-hat-bitcoin-erfunden">Wer hat Bitcoin erfunden?</h3>
 <p>Bitcoin ist die erste Realisierung eines Konzepts namens "Krypto-Währung", welches erstmals 1998 von Wei Dai auf der Cyperpunk Mailingliste beschrieben wurde, die Idee von einer neuen Form von Geld vorschlagend, die Kryptographie anstelle einer zentralen Autorität verwendet, um die Herstellung und Transaktion zu kontrollieren. Die erste Bitcoin-Spezifikation und der Machbarkeitsnachweis wurden 2009 von Satoshi Nakamoto in einer Kryptograhie-Mailingliste veröffentlicht. Satoshi verließ das Projekt Ende 2010 ohne viel von sich preiszugeben. Die Community ist seitdem exponentiell gewachsen, mit vielen Entwicklern die an Bitcoin arbeiten.</p>

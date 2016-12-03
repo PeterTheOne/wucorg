@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Dogecoin?
 name: Dogecoin
 author: Trace Mayer, J.D.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mastercoin
 author: WeUseCoins
 name: Mastercoin or OMNI

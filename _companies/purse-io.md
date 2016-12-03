@@ -4,7 +4,7 @@ seotitle: Purse.io Review - Bitcoin Marketplace
 img: /images/purse.png
 permalink: "/purse-io/"
 ---
-[Purse.io](http://www.howtovanish.com/purseio) is an escrow service and an online Bitcoin marketplace. It offers three services: Name Your Discount, Purse Instant, and Purse Merchants. 
+[Purse.io](http://geni.us/purseio) is an escrow service and an online Bitcoin marketplace. It offers three services: Name Your Discount, Purse Instant, and Purse Merchants. 
 
 ## Name Your Discount
 

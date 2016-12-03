@@ -1,6 +1,11 @@
 # Contribute Articles to We Use Coins (WUC)
 
-WUC is one of the highest profile and visited websites in Bitcoin. Our video What Is Bitcoin? has had over 7.5 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+<p>WUC is one of the highest profile and visited websites in Bitcoin. Our video What Is Bitcoin? has had over 7.5 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency.
+<h2>Earn Money Contributing</h2>
+<p>Due to a generous donation there is a budget for content creation. The goal is to pay about $25/hour of work for new articles. Want to earn money submitting new articles?
+<p>Follow the instructions below and submit an article. If the pull request gets merged then you will get paid $25 via bitcoins. To get paid you will need to contact Trace Mayer either in the WeUseCoins Slack (send an email request to advertising@weusecoins.com) or <a href="https://bitcoincore.slack.com/signup">Bitcoin Core Slack</a> channel (@TraceMayer). Future articles can then be assigned so you can earn more!
+<h3>Build Your Bitcoin Business</h3>
+<p>You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <img src="/images/optimized.png" align="center" alt="optimized"/>
 <p>
 WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/) plus this [short video may be helpful](https://www.youtube.com/watch?v=YTbRzhQju4c).<p>

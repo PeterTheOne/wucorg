@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Reddcoin?
 name: Reddcoin
 author: Trace Mayer, J.D.

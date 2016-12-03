@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What Is Ethereum?
 name: Ethereum
 author: Vitalik Buterin

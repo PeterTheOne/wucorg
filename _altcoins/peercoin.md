@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Peercoin?
 name: Peercoin
 author: Trace Mayer, J.D.

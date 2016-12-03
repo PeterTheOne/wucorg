@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Safecoin on the Maidsafe Network?
 name: Safecoin
 author: WeUseCoins

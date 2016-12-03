@@ -4,12 +4,24 @@ title: Bitcoin Debit Cards
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 description: Bitcoin debit cards make it easy to spend bitcoins at any merchant. 
-seotitle: 3 Best Bitcoin Debit Cards 
+seotitle: 4 Best Bitcoin Debit Cards 
 published: true
 ---
 Bitcoin debit cards help bridge the Bitcoin world with traditional finance. By loading up a debit card with bitcoins, it becomes possible to spend bitcoins at almost any credit card accepting merchant. 
 
 While Bitcoin debit cards don't allow users to spend bitcoins directly, they at least allow people to store balances in bitcoin. Since most debit card top ups only take a few seconds to confirm, bitcoin balances can be held up until the need to spend. 
+
+## Cryptopay VISA Debit Card
+
+<img src="/images/cryptopay-debit-card.png" />
+
+The oldest and most established Bitcoin debit card, [Cryptopay's VISA card](http://geni.us/cryptopay) with over 23,000 issued. Cryptopay has made it simple for customers to spend bitcoins at millions of businesses around the world.
+
+For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
+
+There are both plastic and virtual debit cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
+
+Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
 
 ## BitPay VISA Debit Card
 

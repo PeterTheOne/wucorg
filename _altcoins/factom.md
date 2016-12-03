@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What Is Factom?
 name: Factom
 author: Nicola Minichiello

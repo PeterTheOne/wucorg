@@ -3,7 +3,7 @@ title: Ledger
 seotitle: Ledger - Trusted Bitcoin Hardware Solutions
 img: /images/company/ledger.png
 ---
-[Ledger](https://www.ledger.co/) is a Bitcoin security company known for its Bitcoin hardware wallets.
+[Ledger](http://geni.us/ledger) is a Bitcoin security company known for its Bitcoin hardware wallets.
 
 ## Products
 
@@ -35,7 +35,7 @@ The [Ledger Chrome Extension](https://chrome.google.com/webstore/detail/ledger-w
 
 ### Android & iPhone Apps
 
-The [Ledger](https://www.coldhardware.com/ledger-nano-review/) [Android](https://play.google.com/store/apps/details?id=co.ledger.wallet) and [iPhone](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=960196441&mt=8) apps are used to provide 2-factor authentication for outgoing transactions. While each Ledger device comes with its own 2-factor security card, the iPhone and Android apps can also be used as a more convenient form of 2-factor authentication.
+The [Ledger](http://geni.us/ledger) [Android](https://play.google.com/store/apps/details?id=co.ledger.wallet) and [iPhone](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=960196441&mt=8) apps are used to provide 2-factor authentication for outgoing transactions. While each Ledger device comes with its own 2-factor security card, the iPhone and Android apps can also be used as a more convenient form of 2-factor authentication.
 
 ## Future Plans
 
