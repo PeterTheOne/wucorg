@@ -2,7 +2,7 @@
 title: What is Litecoin?
 name: Litecoin
 author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+authorurl: /trace-mayer-bitcoin-expert/
 published: true
 permalink: /what-is-litecoin/
 toc: 
@@ -14,10 +14,12 @@ summary: Litecoin is the most widely used altcoin. It was created in 2011 by Coi
 ---
 
 <img src="/images/litecoin.png" alt="what is litecoin" align="right">
-<p>
-Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin.
-<p>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/q7B7S88RtV8" frameborder="0" allowfullscreen></iframe>
+<p>Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.
+<p>Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances.
+<p>Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency.
+<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/litecoin/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/litecoin/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p>With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin.
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/q7B7S88RtV8" frameborder="0" allowfullscreen></iframe></center>
 <p>
 
 {% include page-toc.html %}

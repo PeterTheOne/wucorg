@@ -1,17 +1,16 @@
 ---
 layout: post
 title: How to Buy Litecoins
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Learn how to buy litecoins online, with cash, with bitcoin, or with PayPal.  
 published: true
 seotitle: How to Buy Litecoins Online, with Cash, or PayPal
 ---
-Buying [litecoin](/what-is-litecoin/) is not any different from purchasing bitcoins: find a Litecoin exchange, convert your local currency to litecoin, and send the litecoins to your wallet. 
-
-Finding a Litecoin exchange can be difficult because most exchanges don’t sell litecoin directly. In most cases customers must [first purchase bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/) and then trade for litecoin. 
-
-With that said, there are a few exchanges where users can purchase litecoins directly, without buying bitcoins first: 
+<p>Buying [litecoin](/what-is-litecoin/) is not any different from purchasing bitcoins: find a Litecoin exchange, convert your local currency to litecoin, and send the litecoins to your wallet.
+<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/litecoin/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/litecoin/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p>Finding a Litecoin exchange can be difficult because most exchanges don’t sell litecoin directly. In most cases customers must [first purchase bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/) and then trade for litecoin. 
+<p>With that said, there are a few exchanges where users can purchase litecoins directly, without buying bitcoins first: 
 
 {% for exchange in site.data.buy_litecoin %}
 {% if exchange.tags == 'fiat' %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confidential Transactions
+title: Confidential Transactions - Gregory Maxwell
 author: Gregory Maxwell
 authorurl: /gregory-maxwell-bitcoin-expert/
 published: true

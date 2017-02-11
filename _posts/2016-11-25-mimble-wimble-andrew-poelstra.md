@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mimble Wimble Explained
+description : A mimblewimble transaction like bitcoin is a list of inputs and a list of outputs. 
 author: Andrew Poelstra
 authorurl: /andrew-poelstra/
 published: true

@@ -1,10 +1,21 @@
- 
+ - company: Bitaps
+   description: Bitaps provides Bitcoin processing RESTful API without registration and restrictions. API includes basic processing, affiliate and mass payments, Bitcoin smart contracts to keep distributed hot wallet and cold storage balances, standard Bitcoin ledger API, market prices and a lot of other tools for developers.
+   fees: Free / 0.0002 BTC
+   img: /images/bitaps_logo.svg 
+   url: https://bitaps.com/
+  
  - company: BitPay
    description: BitPay is the world's largest Bitcoin payment processor. It's used by major companies like Microsoft, Rakuten, and Newegg. Merchants on BitPay's starter plan can accept up to 30 transactions or $1,000 of Bitcoin payments per month for free. Larger merchants pay just 1% per transaction. 
    fees: Free / 1%
    img: /images/bitpay-logo.png 
    url: https://bitpay.com/
-    
+
+ - company: Blockonomics
+   description: Blockonomics helps individuals and businesses accept payments using the wallets they already own, in a decentralized and permissionless way. Individuals can send anyone a professional invoice that stays current with the Bitcoin exchange rate. Websites and users can use their API/web interface to generate and track bitcoin addresses.
+   fees: Free / subscription 
+   img: /images/blockonomics.png
+   url: https://www.blockonomics.co/ 
+
  - company: Coinbase
    description: Companies like Dell, Expedia, and Overstock use Coinbase to accept Bitcoin payments online. Coinbase charges just 1% to convert bitcoins to fiat, and the first $1,000,000 of transactions are completely free. Like BitPay, merchants using Coinbase to accept Bitcoin can select to keep any percent of each payment as bitcoin. 
    fees: Free / 1%

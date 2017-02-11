@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are Sidechains?
+title: What are Sidechains? - Dr. Adam Back
 author: Dr. Adam Back
 authorurl: /dr-adam-back-/
 published: true

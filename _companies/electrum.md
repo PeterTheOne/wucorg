@@ -5,7 +5,7 @@ img: /images/company/electrum.png
 ---
 Electrum is a desktop Bitcoin wallet for Windows, Mac, and Linux. German computer scientist Thomas Voegtlin created the wallet in 2011. Voegtlin estimates that about 10% of all Bitcoin transactions are sent using Electrum. 
 
-<img src="/images/electrum-wallet.png" />
+<img src="/images/electrum-wallet.png" alt="electrum-wallet"/>
 
 Electrum is a lightweight wallet. It connects to external servers run by other Electrum users to query blockchain data. While this setup eliminates long sync times, it is less private than full wallet clients like [Bitcoin Core](/bitcoin-core/) or [Armory](/armory/). 
 

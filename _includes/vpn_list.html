@@ -1,6 +1,6 @@
 <div class="vpn-list">
 	{% if vpn.img != null %}
-			<img src="/images/vpns/{{ vpn.img }}">
+			<img src="/images/vpns/{{ vpn.img }}" alt="vpn">
 	{% endif %}
 	<h3>{% if vpn.url != null %}<a href="{{ vpn.url }}">{{ vpn.service }}</a>{% else %}{{ vpn.service }}{% endif %}</h3>
 	<h4>

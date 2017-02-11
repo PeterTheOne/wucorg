@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are Confidential Transactions
+title: What are Confidential Transactions - Dr. Adam Back
 author: Dr. Adam Back
 authorurl: /dr-adam-back-/
 published: true

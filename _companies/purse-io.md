@@ -10,7 +10,7 @@ permalink: "/purse-io/"
 
 Name Your Discount is Purse's most popular feature. It matches buyers, who want to buy bitcoins, with spenders who are looking to spend bitcoins.
 
-<img src="/images/nameyd.png" />
+<img src="/images/nameyd.png" alt="nameyd"/>
 
 Spenders first create an Amazon wish list containing the items they wish to order. The spender then adds the list to Purse.io along with a requested discount. If you want, for example, to buy $100 worth of items at a 15% discount, you’d offer $85 worth of bitcoins to the buyer who orders your wish list.   
 

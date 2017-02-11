@@ -1,5 +1,6 @@
 ---
-title: Aaron Voisine
+title: Aaron Voisine Bitcoin Security Expert - We Use Coins
+description: Aaron Voisine Bitcoin Security Expert
 seotitle: Aaron Voisine - Bitcoin Security Expert
 img: /images/aaron-voisine.png
 position: CEO, breadwallet

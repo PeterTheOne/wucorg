@@ -2,6 +2,7 @@
 title: What is Augur?
 name: Augur
 author: Bobby Ong
+description : Augur is a decentralised prediction market which can forecast the outcome of an event based on the wisdom of the crowd principle.
 authorurl: /bobby-ong
 published: true
 permalink: /what-is-augur/

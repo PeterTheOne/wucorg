@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lightning Network As A Directed Graph Single Funded Channel Network Topology
+description: Thaddeus Dryja - Lightning Network As A Directed Graph Single Funded Channel Network Topology
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true

@@ -9,7 +9,7 @@ cats: featured
 
 AntMiner is the most well known brand of Bitcoin miners. It is also well regarded, since it has been one of the few Bitcoin miners that has shipped on time. 
 
-<img src="/images/antminer.png" />
+<img src="/images/antminer.png" alt="antminer"/>
 
 There have been seven different versions of AntMiner: S1, S2, [S3](https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/), S4, S5, S5+, and [S7](https://www.bitcoinmining.com/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/). The S7 is one of the most [efficient Bitcoin miners](https://www.bitcoinmining.com/bitcoin-mining-hardware/) on the market today. 
  
@@ -17,7 +17,7 @@ There have been seven different versions of AntMiner: S1, S2, [S3](https://www.b
 
 Bitmain operates Antpool, which since the beginning of 2016 has more hash power than any other mining pool. 
 
-<center><img src="https://www.bitcoinmining.com/images/bitcoin-mining-pool-hash-rate-distribution.png"></center>
+<center><img src="https://www.bitcoinmining.com/images/bitcoin-mining-pool-hash-rate-distribution.png" alt="antminer"></center>
 
 ## Hashnest
 

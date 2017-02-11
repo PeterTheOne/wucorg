@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 18 Reasons Why The Bitcoin Price Could Triple
+title: 18 Reasons Why The Bitcoin Price Could Triple - WeUseCoins
 author: WeUseCoins
 authorurl: /
 published: true

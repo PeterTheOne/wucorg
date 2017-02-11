@@ -6,7 +6,7 @@ authorurl: /
 published: true
 ---
 
-<center><img src="/images/bankchain.jpg"></center>
+<center><img src="/images/bankchain.jpg" alt="bankchain"></center>
 <p>In the recent months, many banks and other financial institutions <a href="http://tpbit.blogspot.ca/2015/10/blockchain-for-banks-overview.html">started looking into the blockchain technology</a> as a potential improvement on their current architecture. Below is a sample feature set of the cryptocurrency technologies that can be used to reimplement and possibly improve upon the banking system as it is today.
 <h3>Transactions</h3>
 <p>In all cryptocurrency systems, transactions are the most basic building block of the value transfer network. They have a few important features, including:
@@ -57,7 +57,7 @@ published: true
 <p>As such, it might be feasible to construct a tiered blockchain that would be able to offload a good amount of transaction volume off the main chain while still allowing settlement between tiers. At the top of the chain we would perhaps have a public blockchain where the highest-tier peers would issue their IOUs - governments, biggest banks, etc. Below that, we would have sidechains maintained by various banks and other financial institutions. This would allow them to perform more internal transaction without cluttering up the main chain. If needed, more sub-sidechains could also be introduced to further increase transaction throughput. One could also perform sidechain-to-sidechain transactions through a dedicated protocol (such as what <a href="http://interledger.org/">Interledger</a> is proposing).
 <p>It would be useful for the top of the chain to be a public blockchain as it would allow more institutions and possibly even governments to join and integrate directly with it.
 <p>Sample network graph of <a href="http://tpbit.blogspot.ca/2015/11/sidechains-for-bankchains.html" style="vertical-align: baseline;">a tiered blockchain:</a>
-<center><img src="/images/tiered-blockchain.png"></center>
+<center><img src="/images/tiered-blockchain.png" alt="tiered-blockchain"></center>
 <p><h3>Proof of Solvency</h3>
 <p>One very interesting concept that emerged from the Bitcoin world is so called proof of solvency. It allows institutions such as exchanges or gateways create a positive proof that they own a certain amount of currency and that their liabilities are no greater than their currency reserves. Depending on the system in question, the proofs can be either be complete (proving beyond a shadow of a doubt both the assets and the liabilities) or disprovable (one can present undeniable evidence that the institution is lying).
 <p>The first scenario is mainly applicable for completely open ledgers - in most cases, only cryptocurrencies and <a href="http://tiny.cc/Crypto">Crypto 2.0</a>s. For example, BTC2Ripple can prove both that they own a certain amount of bitcoins AND the level of their outstanding liabilities on the Ripple network. Since both networks are open, the transaction can be verified to be true or false at any given time.

@@ -1,8 +1,9 @@
 ---
 title: What Is Factom?
 name: Factom
+description : Factom is a distributed, decentralized protocol running on top of Bitcoin.
 author: Nicola Minichiello
-authorurl: https://www.weusecoins.com/nicola-minichiello/
+authorurl: /nicola-minichiello/
 published: true
 permalink: /what-is-factom/
 img: factom.png
@@ -12,16 +13,12 @@ summary: Factom is the first usable blockchain technology to solve real-world bu
 
 ## What is Factom?
 
-<img src="/images/factom_logo.png" alt="Factom Logo">
-
-<a href="http://factom.org/">Factom</a> is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system. By creating a data layer on top of the Bitcoin blockchain, Factom’s distributed ledger technology secures millions of real-time records in the blockchain with a single hash using cryptographic isolation. Businesses and governments alike can use Factom to document their information so that it cannot be modified, deleted or backdated. Factom’s technology decentralizes record keeping by ensuring that the integrity of stored data remains intact, providing complete transparency, while at the same time maintaining user privacy in an increasingly digital world.
-
-Factom is a distributed, decentralized protocol running on top of Bitcoin. That means nobody controls it, that it is software that people all over the world run to make the protocol work. The software is open source, and anyone is free to use it for any purpose. Factom gives developers the tools to build a new generation of applications that use blockchain technology. The blockchain stores all the transactions in the Bitcoin network.
-
-If your application needs a central server to coordinate processes, you might be able to eliminate the central server in favor of using Factom. Unlike most databases, the blockchain is distributed across the Internet, making it practically impossible to shut down. Whereas the Bitcoin blockchain is a record of financial transactions, Factom is designed to store any type of data. This makes Factom an ideal platform for a wide range of applications, including financial systems, medical records, supply chain management, voting systems, property titles, legal applications, and much more.
-
-<iframe width="700" height="394" src="https://www.youtube.com/embed/YBXNLW-YvoA" frameborder="0" allowfullscreen></iframe>
-
+<p><img src="/images/factom_logo.png" alt="Factom Logo">
+<p><a href="http://factom.org/">Factom</a> is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system. By creating a data layer on top of the Bitcoin blockchain, Factom’s distributed ledger technology secures millions of real-time records in the blockchain with a single hash using cryptographic isolation. Businesses and governments alike can use Factom to document their information so that it cannot be modified, deleted or backdated. Factom’s technology decentralizes record keeping by ensuring that the integrity of stored data remains intact, providing complete transparency, while at the same time maintaining user privacy in an increasingly digital world.
+<center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/factom/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/factom/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p>Factom is a distributed, decentralized protocol running on top of Bitcoin. That means nobody controls it, that it is software that people all over the world run to make the protocol work. The software is open source, and anyone is free to use it for any purpose. Factom gives developers the tools to build a new generation of applications that use blockchain technology. The blockchain stores all the transactions in the Bitcoin network.
+<p>If your application needs a central server to coordinate processes, you might be able to eliminate the central server in favor of using Factom. Unlike most databases, the blockchain is distributed across the Internet, making it practically impossible to shut down. Whereas the Bitcoin blockchain is a record of financial transactions, Factom is designed to store any type of data. This makes Factom an ideal platform for a wide range of applications, including financial systems, medical records, supply chain management, voting systems, property titles, legal applications, and much more.
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/YBXNLW-YvoA" frameborder="0" allowfullscreen></iframe>
 ## What Are Factoids?
 <img src="/images/factoid.png" alt="Factoid Logo">
 

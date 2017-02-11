@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Segregated Witness: Exchanges, Wallets, Miners, and Companies Planning Integration"
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Learn about Segregated Witness and how it helps Bitcoin. 
 published: true
 ---

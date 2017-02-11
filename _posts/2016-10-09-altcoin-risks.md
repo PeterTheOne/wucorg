@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Altcoin Risks You Should Know About
+title: Altcoin Risks You Should Know About - Ofir Beigel
 author: Ofir Beigel
 authorurl: https://www.weusecoins.com/ofir-beigel/
 description: A short introduction to the risks in altcoin trading

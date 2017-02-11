@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bitcoin Cold Storage Guide
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Learn how to secure your bitcoins offline.  
 published: true
 seotitle: Secure Bitcoin Cold Storage with Paper, Hardware and Software Wallets

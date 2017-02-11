@@ -2368,6 +2368,36 @@
   desc:
   url:
   img:
+- service: SporeStack
+  country: Multiple
+  fourteen: No
+  traffic: No
+  timestamps:
+  bandwidth: Yes
+  ip: No
+  sessions:
+  dns:
+  personal: None
+  bitcoin: Yes
+  eff: No
+  pgp: No
+  warrant: No
+  dnsservers: No
+  openvpn: Yes
+  smtp:
+  p2p:
+  apis_used: Yes
+  ssl_rating: B
+  num_connections: 0
+  num_countries: 8
+  num_servers: 0
+  price_annual: $120.00~
+  price_month: $10.00~
+  trial: No
+  refund: 0
+  desc: Launch your own OpenVPN server by the day. No need to trust anyone but yourself. No accounts, Bitcoin only.
+  url: https://sporestack.com/launch/vpn
+  img: sporestack.png
 - service: TigerVPN
   country: Slovakia
   fourteen: No

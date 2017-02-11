@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Is Ether?
+description : Ethereum Wallet allows you to hold and secure ether and other crypto-assets built on Ethereum, as well as write, deploy and use smart contracts.
 author: Vitalik Buterin
 authorurl: /vitalik-buterin/
 published: true

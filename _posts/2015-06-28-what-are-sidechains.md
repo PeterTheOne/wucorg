@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Are Sidechains?
+description : Blockstreams sidechains whitepaper showed how multiple blockchains can cooperate and share a currency. 
 author: Gregory Maxwell
 authorurl: /gregory-maxwell-bitcoin-expert/
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lightning Network by Thaddeus Dryja
+description : The Lightning Network by Thaddeus Dryja
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8 Problems for the Bitcoin Community to Solve Before Block Size
+title: 8 Problems for the Bitcoin Community to Solve Before Block Size - Jeremy Rubin
 author: Jeremy Rubin
 authorurl: http://www.weusecoins.com/jeremy-rubin
 published: true

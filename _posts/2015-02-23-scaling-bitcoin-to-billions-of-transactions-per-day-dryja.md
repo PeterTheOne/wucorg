@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scaling Bitcoin To Billions of Transactions Per Day
+description : The transaction fees are 1 over 10th of a cent or higher depending on the exchange rate. 
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true

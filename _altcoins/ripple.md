@@ -7,6 +7,7 @@ published: true
 permalink: /what-is-ripple/
 img: ripple.png
 category: altcoin
+description : Ripple is an internet protocol developed by Ripple Labs
 summary: Ripple is an internet protocol developed by Ripple Labs to connect all the world's disparate financial systems to enable secure transfer of funds in any currency in real time. 
 ---
 

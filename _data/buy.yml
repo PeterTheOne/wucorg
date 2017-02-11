@@ -6,23 +6,24 @@
    logo: coinbase-small.png
    url: http://geni.us/coinbase
    
- - exchange: Circle
-   description: Circle makes it easy to buy bitcoins with a credit card, debit card, or connected bank account. Its buy price is often only 0.5% more than the average market rate. Circle is available to residents of the United States and United Kingdom. 
-   countries: us, uk
-   logo: circle.png
-   url: https://www.circle.com/en
-   
  - exchange: Coinhouse
    description: Buy bitcoins in the UK and Europe with a 3D secure credit or debit card. Prepaid credit and debit cards are also accepted if 3D secure. 
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
    logo: coinhouse.png
-   url: http://buybitcoinww.co/coinhouse
+   url: http://geni.us/coinhouse
+
+ - exchange: CoinMama
+   description: CoinMama is a bitcoin broker that enables purchasing bitcoins with credit or debit cards. Fees are about 10% with limits of about $5,000 per day and $20,000 per month. After verification then bitcoins are received within a few minutes. CoinMama is available only in some US states.
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
+   logo: coinmama.png
+   url: http://geni.us/coinmama
    
  - exchange: Indacoin
    description: Indacoin is a global platform enabling the quickest bitcoin purchases in more than 200 countires with a credit or debit card and <b>no registration</b>. <p>If it's the first time you use the card, you will receive a call from Indacoin with a 4-digit code, which should be entered on your order page. After that, you will have to enter a 3-digit code, which can be found on your online card statement next to the charge amount. <p>You will have the limit of $50 for the first transaction, $100 for the second transaction available after four days of the initial purchase and $500 after eight days of the first buy. The total limit for the first month will be $5,000 and then no limits at all. <p>Since your card is verified, cryptocurrency is sent automatically within ten minutes after the payment.
-   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
    logo: indacoin.png
    url: http://geni.us/indacoin
+   getting_started: yes
 
  - exchange: Kraken
    description: Kraken is one of the world's largest Bitcoin exchanges. Residents of Europe and the UK can deposit and purchase bitcoins with same day SEPA transfer.  
@@ -33,7 +34,7 @@
    
  - exchange: LocalBitcoins
    description: LocalBitcoins is an escrow service that helps match Bitcoin buyers and sellers.  
-   countries: us, de, sa
+   countries: us, de, sa, mx, asia, au, br, af
    logo: localbitcoins.png
    url: http://geni.us/localbitcoins
    description_sa: LocalBitcoins is used throughout South America, with high volumes in Argentina and Venezuela.
@@ -43,13 +44,21 @@
    description: BitQuick is an escrow service that facilitates the buying and selling of bitcoins via cash deposit. 
    countries: us
    logo: bitquick.png
-   url: http://buybitcoinww.co/buybitquick 
+   url: http://geni.us/bitquick
    
  - exchange: Wall of Coins
    description: Wall of Coins is an escrow service that facilitates the buying and selling of bitcoins. Cash deposit is the most popular payment method. 
    countries: us
    logo: wallofcoins.png
-   url: http://buybitcoinww.co/Wall_of_Coins    
+   url: http://geni.us/localbitcoins   
+
+ - exchange: Remitano
+   description: Remitano is an escrow service that allow you to buy Bitcoin safely using Bank transfer and cash deposit.
+   countries: us, au, in, pk, vn, my, ng, kh, cn, ru
+   logo: remitano.png
+   url: http://geni.us/remitano
+   description_sa: Remitano offer friendly UI and no hidden fee. What you see is what you get.
+   getting_started: yes
  
 ############## Europe ##############  
    
@@ -58,6 +67,12 @@
    countries: de, fr
    logo: bitcoinde.png
    url: https://www.bitcoin.de/
+   
+ - exchange: SpectroCoin
+   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
+   logo: spectrocoin.png
+   url: http://geni.us/spectrocoin
    
  - exchange: Cashila
    description: Cashila is a payment processor that enables users to transfer, hold and receive funds using bitcoin or euros.
@@ -71,7 +86,19 @@
    logo: bitrush.png
    url: https://www.bitrush.nl
 
+ - exchange: BitPanda
+   description: BitPanda is an Austrian bitcoin broker that enables purchasing bitcoins with credit or debit cards. Fees are very low about 3-4% but not displayed separately.
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
+   logo: bitpanda.png
+   url: http://geni.us/bitpanda
+
 ############## United Kingdom ##############  
+   
+ - exchange: SpectroCoin
+   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
+   logo: spectrocoin.png
+   url: http://geni.us/spectrocoin
    
  - exchange: Bittylicious
    description: UK residents can buy bitcoins online in a little under an hour at Bittylicious with UK instant bank transfer.
@@ -198,9 +225,7 @@
    description: No fee and low spread Australian buying and selling service. Buy Bitcoin using POLi. Phone number and ID verification required. 
    countries: au
    logo: hardblock.png
-   url: https://www.hardblock.net/   
-   
-   
+   url: https://www.hardblock.net/
 
 ############## South America ##############
 
@@ -277,7 +302,7 @@
    url: https://nairaex.com/home    
    
  - exchange: BitPesa
-   description: Buy and <a href="https://www.sellbitcoins.io/">sell bitcoins</a> with Airtel in Kenya, and with Paga or Quickteller in Nigeria. 
+   description: Buy and sell bitcoins with Airtel in Kenya, and with Paga or Quickteller in Nigeria. 
    countries: af
    logo: bitpesa.png
    url: https://www.bitpesa.co/ 
@@ -303,3 +328,9 @@
    countries: 
    logo: 247exchange.jpg
    url: http://www.runtogold.com/247exchange
+
+ - exchange: Circle
+   description: Circle makes it easy to buy bitcoins with a credit card, debit card, or connected bank account. Its buy price is often only 0.5% more than the average market rate. Circle is available to residents of the United States and United Kingdom. 
+   countries:
+   logo: circle.png
+   url: https://www.circle.com/en

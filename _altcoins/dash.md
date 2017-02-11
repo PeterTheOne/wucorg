@@ -2,10 +2,11 @@
 title: What is Dash?
 name: Dash
 author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+authorurl: /trace-mayer-bitcoin-expert/
 published: true
 toc: 
   why: Why Choose Dash?
+  debit: How to get a Dash debit card
   mn: What are Masternodes?
   x11: X11 Chained Hashing Algorithm
   ds: What is DarkSend?
@@ -17,16 +18,13 @@ img: dash.png
 category: altcoin
 summary: Dash calls itself an "open sourced, privacy-centric digital currency with instant transactions." It is currently a top five cryptocurrency by market cap.
 ---
-<br />
-<img src="/images/dash.png" alt="what is dashcoin" align="left">
-<br /><br />
-<br />
 
-<p>
-Dash (DASH) is a next-generation digital currency based on the Bitcoin software. Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system. Watch the short video below for a little more information on what Dash is and how it works:
-</p>
+<p><center><img src="/images/dash.png" alt="what is dashcoin"></center>
+<p>Dash (DASH) is a next-generation digital currency based on the Bitcoin software.
+<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dash/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dash/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p>Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system.</p>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe></center>
 
 <h2 id="why">Why Choose Dash?</h2>
 
@@ -42,6 +40,19 @@ Advanced encryption and a trustless protocol for complete security in your payme
 <p>You can send money anywhere in the world with the same low fees and the same speed as if you were sending money next door! </p>
 <h3>- LOW - FEES</h3>
 <p>Most transactions only cost a few cents to send, which is considerably cheaper than services like Western Union, PayPal, or Moneygram. </p>
+<h3 id="debit">- HOW TO GET A DASH DEBIT CARD</H3>
+<p><center><img src="/images/spectrocoin-debit-card.png" alt="what is dashcoin"/></center>
+<p><a href="http://geni.us/spectrocoin">SpectroCoin</a> offers Bitcoin prepaid cards, which can be used at any ATM around the globe or shops as an ordinary payment card.
+<p>The <a href="http://geni.us/spectrocoin">SpectroCoin VISA Debit Card</A> is funded instantly, so you do not have to worry about exchanging your bitcoins in advance.
+<p>The card can be denominated in dollars (USD), euros (EUR) or pounds (GBP).
+<p><strong>Pay with bitcoins wherever you want.</strong> SpectroCoin bitcoin debit card is accepted everywhere where MasterCard or VISA is accepted. That includes automated teller machines (ATMs) for cash withdrawal, online sites, and physical shops. This Bitcoin debit card can also be linked to PayPal or any other online wallet.
+<p><strong>Virtual and physical</strong> bitcoin debit cards are available. Virtual bitcoin cards are issued instantly and can be used to spend bitcoins anywhere online. Physical bitcoin cards are delivered within 1-4 weeks and can be used to spend bitcoins anywhere physically and online.
+<p><strong>Instant loading.</strong> Bitcoin debit cards can be loaded immediately from SpectroCoin wallet.
+<p><strong>No verification required.</strong> To simplify the process, you are not obliged to complete verification immediately. However, to benefit from higher debit card limits, you will have to verify your account.
+<p><strong>Cards in several currencies</strong> are available. USD (dollar), EUR (euro) and GBP (pound) cards are issued.
+<p><strong>Multiple digital currencies</strong> this debit card can be funded with various digital currencies including Bitcoin, <a href="/what-is-dash/">DASH</a> and more.
+<p><strong>Low fees</strong> are guaranteed for SpectroCoin bitcoin debit card holders. The dollar, euro or pound denominated debit card costs 9 USD/8 EUR/6 GBP respectively. There is also <strong>no loading fee</strong>.
+<p><strong>Unlimited</strong> lifetime withdrawals and deposits to the bitcoin debit card for verified cardholders. Other limits also being high.
 <h3>- PEER- TO- PEER</h3>
 <p>Like bittorrent, Dash is a fully decentralized peer-to-peer (P2P) network. Because of this, you don’t have to trust a bank or other centralized service. Everything stays between you and the other party in the transaction.</p>
 <h3>- MASTERNODES AND PROOF-OF-SERVICE</h3>

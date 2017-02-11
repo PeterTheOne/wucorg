@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why Use Bitcoin?
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Why use Bitcoin? Learn about the advantages that cryptocurrency offers. 
 published: true
 ---

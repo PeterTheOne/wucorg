@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Cypherpunks and why Dr. Back so legendary
+title: The Cypherpunks and why Dr. Back so legendary - Dr. Adam Back
 author: Dr. Adam Back
 authorurl: /dr-adam-back-/
 published: true

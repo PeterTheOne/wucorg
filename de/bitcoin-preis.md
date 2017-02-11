@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Kurs
+description : Der Bitcoin-Preis ist sehr volatil und kann nicht mit dem zugrunde liegenden Bitcoin-Wert
 toc:
   20092012: 2009-2012 - Die frühen Tage
   2013: 2013 - Der unglaubliche Bitcoinpreis
@@ -47,8 +48,8 @@ charts:
 <p></p>
 <p>However, it may be wise to take Satoshi's advice to buy Bitcoin, even just a little, just in case it becomes something of extreme usefulness. Plus, developing the technical literacy to do so is valuable. There was a time when everyone had to learn how to send an email.
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<center><img src="/images/bitcoin-price-rollercoaster.png">
+<center><img src="/images/bitcoin-price-rollercoaster.png" alt="bitcoin-price-rollercoaster">
 <a href="/images/bitcoin-price-rollercoaster-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<center><img src="/images/potential-bitcoin-prices.jpg">
+<center><img src="/images/potential-bitcoin-prices.jpg" alt="bitcoin-price-rollercoaster">
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />

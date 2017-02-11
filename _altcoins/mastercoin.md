@@ -1,5 +1,5 @@
 ---
-title: Mastercoin
+title: About Mastercoin or OMNI
 author: WeUseCoins
 name: Mastercoin or OMNI
 authorurl: /
@@ -7,6 +7,7 @@ published: true
 permalink: /what-is-mastercoin/
 img: mastercoin.png
 category: appcoin
+description : About Mastercoin or OMNI
 summary: Mastercoin is a digital currency and communications protocol built on the Bitcoin block chain. It is one of several efforts to enable complex financial functions in a cryptocurrency. 
 ---
 

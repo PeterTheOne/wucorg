@@ -1,5 +1,5 @@
 ---
-title: Coinbase
+title: Coinbase Review
 img: /images/company/coinbase-logo.png
 seotitle: Coinbase Review - What you need to know!
 permalink: "/coinbase-review/"

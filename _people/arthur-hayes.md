@@ -1,5 +1,5 @@
 ---
-title: Arthur Hayes
+title: Arthur Hayes - CEO, BitMEX
 seotitle: Arthur Hayes - CEO, BitMEX
 img: /images/arthur-hayes.png
 name: Arthur Hayes

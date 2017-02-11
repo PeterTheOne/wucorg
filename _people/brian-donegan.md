@@ -1,5 +1,5 @@
 ---
-title: Brian Donegan
+title: Brian Donegan - We Use Coins
 seotitle: Brian Donegan - Isle of Man Government
 img: /images/brian-donegan.png
 position: Business Development Manager, Isle of Man government

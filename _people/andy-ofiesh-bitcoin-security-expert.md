@@ -1,5 +1,6 @@
 ---
-title: Andy O'Fiesh
+title: Andy O'Fiesh - Bitcoin Security Expert - We Use Coins
+description:  Andy O'Fiesh - Bitcoin Security Expert - We Use Coin
 seotitle: Andy O'Fiesh - Bitcoin Security Expert
 img: /images/andy-ofiesh.png
 name: Andy O'Fiesh

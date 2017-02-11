@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Sell Bitcoins
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: What can you buy with bitcoin? Just about anything.  
 published: true
 ---

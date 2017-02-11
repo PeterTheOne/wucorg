@@ -2,7 +2,7 @@
 layout: post
 title: Andy O'Fiesh - Bitcoin Security Expert
 author: Andy O'Fiesh
-authorurl: http://www.weusecoins.com/andy-ofiesh-bitcoin-security-expert
+authorurl: /andy-ofiesh-bitcoin-security-expert/
 description: Interview with Andy O'Fiesh of the Bitcoin Armor Wallet about entopy, Bitcoin wallets, private keys, public keys and network security attack vectors.
 published: true
 ---

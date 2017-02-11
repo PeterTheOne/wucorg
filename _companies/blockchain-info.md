@@ -13,7 +13,7 @@ Blockchain.info is the most widely used Bitcoin block explorer. Its [Alexa ranki
 
 Blockchain.info's web wallet is one of the most popular Bitcoin wallets in the world. More than seven million accounts had been created as of May 13, 2016: 
 
-<a href="https://blockchain.info/charts/my-wallet-n-users?timespan=all&showDataPoints=false&daysAverageString=1&show_header=true&scale=0&address="><img src="/images/blockchain-users.png" /> </a>
+<a href="https://blockchain.info/charts/my-wallet-n-users?timespan=all&showDataPoints=false&daysAverageString=1&show_header=true&scale=0&address="><img src="/images/blockchain-users.png" alt="blockchain-users"/> </a>
 
 Although a popular wallet, Blockchain.info has had numerous problems. In February 2015, malicious Tor exit nodes were [able to steal](http://www.bitcoinaffiliatenetwork.com/blog/bryan/how-hackers-used-tor-to-rob-blockchain-info-and-localbitcoins-users/) over $50,000 worth of bitcoins from blockchain.info users. In [December 2014](http://cointelegraph.com/news/johoe-strikes-again-lifts-more-than-300-bitcoins-from-secure-wallets), weak RNG would have cost Blockchain.info users 300 BTC. Luckily, Bitcoin hacker JoeHoe discovered the weak RNG and stole the bitcoins before hackers to reach them. 
 

@@ -14,22 +14,18 @@ category: altcoin
 summary: Dogecoin was created as a joke in December 2013. It is based on the Doge internet meme. Today, it is one of the most popular altcoins. 
 ---
 
-<img src="/images/dogecoin.png" alt="what is dogecoin" align="right">Dogecoin is a fun, new and rapidly growing form of digital currency. This form of digital currency is called "cryptocurrency"; a type of digital currency. Cryptocurrency is completely anonymous, decentralized, and extremely secure.
-<p>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/_KVZmS_UO5I" frameborder="0" allowfullscreen></iframe>
+<p><img src="/images/dogecoin.png" alt="what is dogecoin" align="right">Dogecoin is a fun, new and rapidly growing form of digital currency. This form of digital currency is called "cryptocurrency"; a type of digital currency. Cryptocurrency is completely anonymous, decentralized, and extremely secure.
+<p>You can use it to buy goods and services, or trade it for other currencies (both other cryptocurrencies or traditional currency like US dollars or Euros).
+<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dogecoin/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dogecoin/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/_KVZmS_UO5I" frameborder="0" allowfullscreen></iframe>
 
 {% include page-toc.html %}
 
-
-<p>
-Dogecoin is used with a wallet on your computer, your smartphone, or a website.
-You can use it to buy goods and services, or trade it for other currencies (both other cryptocurrencies or traditional currency like US dollars).
-<p>
-One of the most popular uses for Dogecoin is "tipping" fellow internet-goers who create or share great content. Think of it as a more meaningful "like" or upvote, with real value that can be used all across the internet.
-<p>
-<h2 id="gs">Getting started with Dogecoin</h2>
-It is very easy to start using Dogecoin.
-<p>
+<p>Dogecoin is used with a wallet on your computer, your smartphone, or a website.
+<p>One of the most popular uses for Dogecoin is "tipping" fellow internet-goers who create or share great content. Think of it as a more meaningful "like" or upvote, with real value that can be used all across the internet.
+<p><h2 id="gs">Getting started with Dogecoin</h2>
+<p>It is very easy to start using Dogecoin.
 <ul><li>Step 1: Get A Dogecoin Wallet.</li>
 <li>Step 2: Get Some Dogecoin at the <a href="https://www.kraken.com/">best Dogecoin exchange</a>.</li>
 <li>Step 3: Use Your Dogecoin.</li>

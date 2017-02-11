@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The top Bitcoin Core Developers
+title: The top Bitcoin Core Developers - Dr. Adam Back
 author: Dr. Adam Back
 authorurl: /dr-adam-back-/
 published: true

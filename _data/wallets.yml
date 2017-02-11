@@ -25,7 +25,7 @@
  - wallet: TREZOR
    description: <p>The TREZOR differs from the Ledger Nano in that it’s a very tiny computer rather than a smartcard. Private keys are still generated offline.</p> <p>TREZOR also generates a 24-word seed upon setup. The TREZOR has its own built in screen where the seed is displayed and copied down during backup. Since the TREZOR is an offline device it offers extra security since the seed isn’t displayed on an online computer.</p> <p>An additional passphrase can be added to the 24-word seed. This provides extra protection, since anyone who finds someone else’s 24-word seed is free to access the funds. If the optional passphrase is added, an attacker still wouldn’t be able to access funds without both the seed AND the passphrase. If the passphrase is forgotten, it cannot be recovered.</p> 
    category: hardware
-   buy: http://geni.us/ledger
+   buy: http://geni.us/trezorwalletwhite
    img: trezor
    
  - wallet: OPENDIME
@@ -53,6 +53,12 @@
    category: web
    create: https://greenaddress.it/en/
    img: greenaddress
+   
+ - wallet: SpectroCoin
+   description: SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.  
+   category: web
+   create: http://geni.us/spectrocoin
+   img: spectrocoin
    
 ## Mobile - Android
 

@@ -1,9 +1,7 @@
 ---
+title: O que é Bitcoin?
+description: Bitcoin é uma rede que funciona de forma consensual onde foi possível criar uma nova forma de pagamento e também uma nova moeda completamente digital. 
 ---
-
-<title>What is Bitcoin? - We Use Coins Bitcoin Experts Can Help</title>
-<meta name="description" content="What is Bitcoin? Bitcoin experts teach about this digital currency with the best bitcoin wallets and how to buy bitcoin from the best bitcoin exchanges.">
-<meta name="keywords" content="bitcoin, what is bitcoin, best bitcoin wallet, best bitcoin exchange, buy bitcoin, virtual currency, digital currency">
 
 <center><div class="youtube-player">
 <iframe width="700" height="394" src="https://www.youtube.com/embed/1WQYLvbGFC0" frameborder="0" allowfullscreen></iframe>

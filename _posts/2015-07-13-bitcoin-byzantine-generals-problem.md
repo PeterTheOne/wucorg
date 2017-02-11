@@ -7,7 +7,7 @@ published: true
 ---
 
 <p>In fault-tolerant computer systems, and in particular distributed computing systems, Byzantine fault tolerance is the characteristic of a system that tolerates the class of failures known as the <b>Byzantine Generals' Problem</b>, which is a generalized version of the <b>Two Generals' Problem</b>.
-<center><img src="/images/bitcoin-byzantine-generals-problem.png">
+<center><img src="/images/bitcoin-byzantine-generals-problem.png" alt="bitcoin-byzantine-generals-problem"/>
 <a href="/images/bitcoin-byzantine-generals-problem-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <p>The phrases interactive consistency or source congruency have been used to refer to Byzantine fault tolerance, particularly among the members of some early implementation teams.
 <p>The objective of Byzantine fault tolerance is to be able to defend against Byzantine failures, in which components of a system fail with symptoms that prevent some components of the system from reaching agreement among themselves, where such agreement is needed for the correct operation of the system.

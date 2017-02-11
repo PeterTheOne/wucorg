@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Aaron Voisine - Bitcoin Security Expert
+title: Aaron Voisine - Mobile Bitcoin Wallet
 author: Aaron Voisine
-authorurl: http://www.weusecoins.com/aaron-voisine-bitcoin-security-expert
-description: Aaron Voisine, founder and CEO of BreadWallet talks about mobile bitcoin wallet, GitHub and bitcoin security.
+authorurl: /aaron-voisine-bitcoin-security-expert/
+description: Aaron Voisine - Mobile Bitcoin Wallet
 published: true
 ---
 

@@ -3,7 +3,7 @@ title: Paxful
 seotitle: Paxful About Page
 ---
 
-Paxul has been integrated with Backpage and there is this helpful guide: <a href="/how-to-use-bitcoin-with-backpage/">How To Use Bitcoin With Backpage</a>.
+<a href="http://geni.us/paxful">Paxful</a> has been integrated with Backpage and there is this helpful guide: <a href="/how-to-use-bitcoin-with-backpage/">How To Use Bitcoin With Backpage</a>.
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/MRcA01xt2L0" frameborder="0" allowfullscreen></iframe></center>
 

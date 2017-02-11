@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Lightning Network
+title: What is the Lightning Network - Dr. Adam Back
 author: Dr. Adam Back
 authorurl: /dr-adam-back-/
 published: true

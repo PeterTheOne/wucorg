@@ -1,5 +1,5 @@
 ---
-title: Anycoin
+title: Anycoin Direct - About Page
 seotitle: Anycoin Direct - About Page
 ---
 

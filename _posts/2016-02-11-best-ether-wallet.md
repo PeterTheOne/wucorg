@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Get an Ethereum Wallet
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Learn about Ethereum wallets and find the best one for you.  
 published: true
 seotitle: Best Ethereum Wallets to Store Ether

@@ -1,6 +1,5 @@
 ---
-title: Andrew Poelstra
-seotitle: Andrew Poelstra - Mathematician, Blockstream
+title: Andrew Poelstra - Mathematician, Blockstream
 img: /images/andrew-poelstra.png
 position: Mathematician, Blockstream
 education: Masters of Arts at the University of Texas at Austin

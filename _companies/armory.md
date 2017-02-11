@@ -1,5 +1,5 @@
 ---
-title: Armory
+title: Armory - About Page
 seotitle: Armory - About Page
 ---
 

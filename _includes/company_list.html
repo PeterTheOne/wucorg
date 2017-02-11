@@ -8,7 +8,7 @@
 <div class="company-list {% if page.vc != true %}company-profile-raises{% endif %}">
 	<h3>
 		{% if company.img != null %}
-			<img src="/images/company/{{ company.img }}">
+			<img src="/images/company/{{ company.img }}" alt="company">
 		{% else %}
 			{% if companyInList %}
 				{% if companyInList.img %}

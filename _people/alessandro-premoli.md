@@ -1,6 +1,5 @@
 ---
-title: Alessandro Premoli
-seotitle: Alessandro Premoli - CTO Bitgold
+title: Alessandro Premoli- CTO Bitgold
 img: /images/alessandro-premoli.png
 position: CTO Bitgold
 education: Masters Degree in Informatics from the University of Milano-Bicocca

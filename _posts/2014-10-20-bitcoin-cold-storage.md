@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Andy O'Fiesh - Bitcoin Security Expert
+title: Andy O'Fiesh - Bitcoin Cold Storage
 author: Andy O'Fiesh
-authorurl: http://www.weusecoins.com/andy-ofiesh-bitcoin-security-expert
-description: Andy O'Fiesh on bitcoin cold storage, deterministic key generation, private key and bitcoin security.
+authorurl: /andy-ofiesh-bitcoin-security-expert/
+description: Andy O'Fiesh - Bitcoin Cold Storage
 published: true
 ---
 

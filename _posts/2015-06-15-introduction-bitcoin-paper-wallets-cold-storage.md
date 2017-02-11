@@ -12,7 +12,7 @@ published: true
 <p>The answer is to get your bitcoins entirely offline, and the two ways to do this are paper wallets and <a href="/bitcoin-cold-storage-guide/">cold storage</a>. This video is an introduction to making both. Host, James D'Angelo, walks you through the software and ideas used in making 'sloppy' offline wallets (which are great to have). He also gives suggestions at making even better offline wallets. This is the first of many videos we will make on bitcoin security, and the least technical.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/I1uefzJJ6nM" frameborder="0" allowfullscreen></iframe>
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<center><img src="/images/bitcoin-paper-wallet-cold-storage.png">
+<center><img src="/images/bitcoin-paper-wallet-cold-storage.png" alt="bitcoin-paper-wallet-cold-storage"/>
 <a href="/images/bitcoin-paper-wallet-cold-storage-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 ### Transcript
 <p>Hello.  This is James D'Angelo and welcome to the Bitcoin 101 Blackboard Series.  Today we're just going to do a very, very simple, the most basic possible tutorial on paper wallets and cold storage.

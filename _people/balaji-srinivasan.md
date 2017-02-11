@@ -1,5 +1,5 @@
 ---
-title: Balaji Srinivasan
+title: Balaji Srinivasan - CEO, 21
 seotitle: Balaji Srinivasan - CEO, 21
 img: /images/balaji-srinivasan.png
 position: CEO, 21

@@ -15,7 +15,7 @@ Since [April 2016](http://www.ibtimes.co.uk/bitcoin-graduate-circle-launches-fre
 
 Users can select to store balances in bitcoin, dollars, or pounds. Payments received to fiat wallets will have the incoming payment automatically converted to fiat currency. Non-bitcoin accounts can also spend balances as Bitcoin at any [Bitcoin accepting merchant](/en/merchant-tools/).
 
-<img src="/images/circle-home.png" /> 
+<img src="/images/circle-home.png" alt="circle-home"/> 
 
 Although Circle launched as a [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/) and exchange, it now appears to be focused on competing with payment apps like PayPal's [Venmo](https://venmo.com/). 
 
