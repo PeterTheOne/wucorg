@@ -189,7 +189,7 @@ Exponent, <cite>KEA</cite></td>
 at <a class="reference external" href="http://www.ieee-security.org/TC/SP2014/program-notabs.html#28">IEEE Security and Privacy (Oakland) 2014</a></li>
 <li>Prior work: <a class="reference external" href="http://zerocoin.org/media/pdf/ZerocoinOakland.pdf">Zerocoin: Anonymous Distributed E-Cash from Bitcoin</a>
 at <a class="reference external" href="http://www.ieee-security.org/TC/SP2013/program.html">IEEE Security and Privacy (Oakland) 2013</a></li>
-<li><a class="reference external" href="http://isi.jhu.edu/~mgreen/">More secure setup</a>: <cite>Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs</cite>
+<li>More secure setup: <cite>Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs</cite>
 at <cite>IEEE Security and Privacy (Oakland) 2015</cite></li>
 </ul>
 <p>zkSNARKs have been covered by many <a class="reference external" href="http://www.scipr-lab.org/publications.html">peer-reviewed publications</a>.</p>

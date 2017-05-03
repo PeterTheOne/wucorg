@@ -1,5 +1,5 @@
 ---
-title: Dr. Adam Back - We Use Coins
+title: Dr. Adam Back
 img: /images/adam-back.png
 person: adamback
 position: President, Blockstream

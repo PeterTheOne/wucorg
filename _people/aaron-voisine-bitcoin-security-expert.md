@@ -1,5 +1,5 @@
 ---
-title: Aaron Voisine Bitcoin Security Expert - We Use Coins
+title: Aaron Voisine
 description: Aaron Voisine Bitcoin Security Expert
 seotitle: Aaron Voisine - Bitcoin Security Expert
 img: /images/aaron-voisine.png

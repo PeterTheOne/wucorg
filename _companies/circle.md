@@ -1,24 +1,17 @@
 ---
 title: Circle
-seotitle: Circle Review - Bitcoin Broker
+seotitle: Circle Review - Payments
 img: /images/company/circle.png
 ---
-Circle is a Bitcoin broker and digital payments company. Although Bitcoin is not mentioned on its home page, Circle is one of the easiest places to [buy bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/) in the United States.
+Circle is a digital payments company. Circle uses blockchain technology to power its payments infrastructure behind the scenes. **It no longer allows users to buy and sell bitcoins.** See their [blog post for more information](https://blog.circle.com/2016/12/06/spark-new-markets-app-messaging-and-bitcoin-changes/) about the change.
 
-## Bitcoin Broker
+## Payment App
 
-Circle allows its users to buy and [sell bitcoins](/how-to-sell-bitcoins/) online. Among U.S. Bitcoin exchanges, it has some of the lowest fees, since it sells bitcoins at just 0.5% above market rate. 
-
-Since [April 2016](http://www.ibtimes.co.uk/bitcoin-graduate-circle-launches-free-social-payment-app-uk-barclays-1553353), residents of the UK can also use Circle to buy and sell bitcoins with pounds. 
-
-## Bitcoin Wallet & Digital Wallet
-
-Users can select to store balances in bitcoin, dollars, or pounds. Payments received to fiat wallets will have the incoming payment automatically converted to fiat currency. Non-bitcoin accounts can also spend balances as Bitcoin at any [Bitcoin accepting merchant](/en/merchant-tools/).
+Users can send US Dollars, British Pounds, and Euro to phone numbers and emails. Incoming payments are immediately converted into the recipient's preferred currency.
 
 <img src="/images/circle-home.png" alt="circle-home"/> 
 
-Although Circle launched as a [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/) and exchange, it now appears to be focused on competing with payment apps like PayPal's [Venmo](https://venmo.com/). 
-
+Although Circle launched as a [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/) and exchange, it is now focused on becoming a global-social payment app. 
 
 
 ## Venture Capital Rounds

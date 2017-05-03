@@ -59,11 +59,11 @@ Peter has spent the past 15 years involved in numerous successful early-stage te
 <li><a href="http://allcoinsnews.com/2015/05/01/peter-kirby-on-factom-software-tokenization-linux-with-the-linux-coin-strategy/" target="_blank">[Interview] Peter Kirby on Factom Software Crowdsale – “Linux with the Linux Coin Strategy”</a></li>
 <li><a href="http://bitcoinist.net/inside-bitcoins-new-york-day-3-morning-noon/" target="_blank">Inside Bitcoins New York Day 3: Morning and Noon</a></li>
 <li><a href="http://www.irishtimes.com/business/innovation/how-the-isle-of-man-aims-to-become-the-bitcoin-capital-of-the-world-1.2188077" target="_blank">How the Isle of Man aims to become the bitcoin capital of the world</a></li>
-<li><a href="http://cointelegraph.com/news/114053/factoms-latest-partnership-takes-on-us-healthcare" target="_blank">Factom’s Latest Partnership Takes on US Healthcare</a></li>
+<li>Factom’s Latest Partnership Takes on US Healthcare</li>
 <li><a href="http://www.coinfox.info/index.php/en/home/2-kategoriya/1905-we-depend-on-the-bitcoin-core-not-the-organization-behind-it-factom-and-coinfox-on-the-bitcoin-foundation-crisis" target="_blank">We depend on the Bitcoin Core, not the organization behind it: Factom and CoinFox on the Bitcoin Foundation crisis</a></li>
 <li><a href="http://www.digitalcurrencycouncil.com/professional/factoms-peter-kirby-the-more-utility-it-provides-the-more-valuable-it-will-become/" target="_blank">Exclusive Interview With Factom President Peter Kirby</a></li>
 <li><a href="http://bitcoinist.net/exclusive-interview-factom-ceo-peter-kirby/" target="_blank">Factom’s Peter Kirby: “The more utility it provides… the more valuable it will become”</a></li>
-<li><a href="http://cointelegraph.com/news/113869/factom-president-real-time-auditing-of-govt-spending-will-bring-a-new-level-of-accountability" target="_blank">Factom President: ‘Real Time Auditing of Govt Spending Will Bring a New Level of Accountability’</a></li>
+<li>Factom President: ‘Real Time Auditing of Govt Spending Will Bring a New Level of Accountability’</li>
 <li><a href="http://www.coinfox.info/index.php/en/allnews/23-persons/1763-peter-kirby-working-to-build-transparent-and-tamper-proof-record-systems" target="_blank">Peter Kirby: working to build transparent and tamper-proof record systems</a></li>
 <li><a href="http://blogs.wsj.com/moneybeat/2015/02/19/bitbeat-dell-takes-bitcoin-into-canada-the-u-k/" target="_blank">BitBeat: Dell Takes Bitcoin Into Canada, the U.K.</a></li>
 <li><a href="http://www.ft.com/cms/s/0/f2b0b2ee-9012-11e4-a0e5-00144feabdc0.html#axzz3UqTmT1Dj" target="_blank">Bitcoin: possible bane of the diamond thief</a></li>

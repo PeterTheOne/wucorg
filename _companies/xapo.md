@@ -15,7 +15,7 @@ Xapo's vault is its more secure storage method. After Casares purchased bitcoins
 
 [Xapo's Bitcoin debit card](https://xapo.com/card/) was the first of its kind. It allows users to hold balances in Bitcoin, but spend the coins at any merchant that accepts VISA credit cards. The debit card can also be used to withdrawal cash at any ATM.
 
-The card costs $20 and is available in most of Europe, but [not the United States](https://support.xapo.com/which-countries-is-xapo-not-able-to-issue-the-debit-card). 
+The card costs $20 and is available in most of Europe, but not the United States. 
 
 ## Venture Capital Rounds
 

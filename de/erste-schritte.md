@@ -20,7 +20,7 @@ toc:
 <img src="/images/amount_few.png" align="right" alt="Small amount of coins"/>
 <p><br>Nicht der bequemste Weg, aber verschiedene <a href="https://en.bitcoin.it/wiki/Bonus_Programs">Bonusprogramme</a> offerieren Ihnen kleine Bitcoinbeträge, wenn Sie andere Einkäufe machen, Umfragen ausfüllen usw.<p>
 <img src="/images/amount_some.png" align="left" alt="Medium amount of coins"/>
-<p>Sehen Sie auf <a href="http://www.runtogold.com/localbitcoins">Local Bitcoins</a> und nach, ob sich Bitcoinianer in Ihrer Nähe befinden! Sie können auch physische Bitcoins mit einer Kreditkarte auf <a href="http://www.memorydealers.com/bieq.htm">MemoryDealers</a> kaufen. Sie bezahlen ein wenig mehr für die Produktion und Lieferung, es ist aber ein relativ einfacher Weg um an Bitcoins zu kommen. Physische Bitcoins sind ausserdem ein tolles Geschenk!</p>
+<p>Sehen Sie auf <a href="http://www.runtogold.com/localbitcoins">Local Bitcoins</a> und nach, ob sich Bitcoinianer in Ihrer Nähe befinden! Sie können auch physische Bitcoins mit einer Kreditkarte auf MemoryDealers kaufen. Sie bezahlen ein wenig mehr für die Produktion und Lieferung, es ist aber ein relativ einfacher Weg um an Bitcoins zu kommen. Physische Bitcoins sind ausserdem ein tolles Geschenk!</p>
 <br>
 <img src="/images/amount_lots.png" align="right" alt="Large amount of coins"/>
 <p>Für grössere Mengen an Bitcoins gibt es mehrere Bitcoin-Börsen wie zum Beispiel <a href="https://www.kraken.com/">Kraken</a>. Wenn Sie lieber nicht mit einer Börse arbeiten und direkt mit anderen Personen tauschen möchten besuchen Sie <a href="http://bitcoin-otc.com/">Bitcoin OTC</a>.</p>

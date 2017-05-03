@@ -28,6 +28,36 @@
   desc: Private Internet Access is used by major companies like Business Insider and Forbes. It is well known in the Bitcoin industry due to its sponsorship of the bitcointalk.org forums.
   url: http://geni.us/privateinternetaccess
   img: pia.jpeg
+- service: HideMyAss
+  country: UK
+  fourteen: Yes
+  traffic: No
+  timestamps: Yes
+  bandwidth: Yes
+  ip: Yes
+  sessions:
+  dns:
+  personal: Email
+  bitcoin: Yes
+  eff: No
+  pgp: No
+  warrant: No
+  dnsservers: No
+  openvpn: Yes
+  smtp: Some
+  p2p: No
+  apis_used:
+  ssl_rating: B
+  num_connections: 1
+  num_countries:
+  num_servers: 923
+  price_annual: $6.55
+  price_month: $6.55
+  trial: No
+  refund: 30
+  desc: HideMyAss is perhaps one of the most well-known VPN providers. It offers an extensive network with 933 VPN servers in over 190 countries.
+  url: http://geni.us/hidemyass
+  img: hma.png
 - service: AceVPN
   country: USA
   fourteen: Yes
@@ -866,7 +896,7 @@
   trial: No
   refund: 30
   desc: HideMyAss is perhaps one of the most well-known VPN providers. It offers an extensive network with 933 VPN servers in over 190 countries.
-  url: https://www.hidemyass.com
+  url: http://geni.us/hidemyass
   img: hma.png
 - service: Hotspot Shield
   country: Switzerland

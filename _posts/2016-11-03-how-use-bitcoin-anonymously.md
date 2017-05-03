@@ -152,7 +152,7 @@ published: true
 </li>
 <li>Always connect to Electrum servers via Tor (your real IP address will remain unknown to the Electrum server admin).
 </li>
-<li>Use Tor URL instead of clearnet URL whenever possible (location of hidden service server is harder to find for law enforcement agencies). A Tor URL is <a href="http://coinmixibh45abn7.onion/">http://coinmixibh45abn7.onion/</a>.
+<li>Use Tor URL instead of clearnet URL whenever possible (location of hidden service server is harder to find for law enforcement agencies). A Tor URL is coinmix.
 </li>
 <li>Use the Tor Browser with disabled JavaScript if the mixing service supports it (LE used some JavaScript exploits in the past to deanonymize Tor users).
 </li>
@@ -160,7 +160,7 @@ published: true
 </li>
 <li>If the mixing service requires user registration then use a different account for every mixing operation (this will prevent the mixing service to enumerate all your wallets).
 </li>
-<li>Use only well established mixing services and look for reviews on the internet before using them. Like <a href="http://bitblendervrfkzr.onion">BitBlender</a> and <a href="http://grams7enufi7jmdl.onion/">Helix by Grams</a>.
+<li>Use only well established mixing services and look for reviews on the internet before using them. Like BitBlender and Helix by Grams.
 </li>
 <li>Use only encrypted communication channels to contact the mixing service (unencrypted email can be easily intercepted). Bitmessage for example, is encrypted, anonymous, decentralised and uncensorable.
 </li>

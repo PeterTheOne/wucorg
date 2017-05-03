@@ -59,11 +59,11 @@ ShadowMarket is an Anonymous P2P Marketplace that enables individuals to buy and
 It is very easy to start using Shadowcash.
 
 <ul>
-<li>Step 1: Get the latest Shadowcash wallet <a href="http://aboutshadow.com/index.php/resources/downloads">here: (AboutShadow.com)</a></li>
+<li>Step 1: Get the latest Shadowcash wallet here: (AboutShadow.com)</li>
 <li>Step 2: Get Some Shadowcash at the <a href="https://www.bittrex.com/">most popular Shadowcash exchange</a>.</li>
 <li>Step 3: Use Your Shadowcash at places like Amazon.com through <a href="https://shapeshift.io/">Shapeshift.io (w/ Purse.io integration)</a></li>
 <li>Step 4: <a href="http://shadowcommunityblog.tumblr.com/">Stay Up-to-Date.</a></li>
-<li>Step 5: <a href="https://shadowproject.herokuapp.com/">Stay Connected.</a></li>
+<li>Step 5: Stay Connected.</li>
 </ul>
 
 <h2>What is Shadowcash mining?</h2>

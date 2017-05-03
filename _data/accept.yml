@@ -14,7 +14,7 @@
    description: Blockonomics helps individuals and businesses accept payments using the wallets they already own, in a decentralized and permissionless way. Individuals can send anyone a professional invoice that stays current with the Bitcoin exchange rate. Websites and users can use their API/web interface to generate and track bitcoin addresses.
    fees: Free / subscription 
    img: /images/blockonomics.png
-   url: https://www.blockonomics.co/ 
+   url: https://www.blockonomics.co/merchants 
 
  - company: Coinbase
    description: Companies like Dell, Expedia, and Overstock use Coinbase to accept Bitcoin payments online. Coinbase charges just 1% to convert bitcoins to fiat, and the first $1,000,000 of transactions are completely free. Like BitPay, merchants using Coinbase to accept Bitcoin can select to keep any percent of each payment as bitcoin. 

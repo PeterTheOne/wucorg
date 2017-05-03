@@ -18,7 +18,7 @@ In addition to cutting costs, price increases have been the main driver of merch
 
 Bitcoin’s 2013 run up to $1,100 brought a huge wave of merchant adoption and is responsible for bringing on many of the billion dollar companies listed below.
 
-This post will show you how to buy just about anything with Bitcoin. A number of the stores below offer a wide range of products that cover almost every category. If you don’t see what you need under a specific category, come back to the top and check under the “General” category. 
+This post will show you <a href="http://geni.us/spendabit">how to buy just about anything with Bitcoin</a>. A number of the stores below offer a wide range of products that cover almost every category. If you don’t see what you need under a specific category, come back to the top and check under the “General” category. 
 
 ## General 
 

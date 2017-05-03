@@ -103,7 +103,6 @@ If you don’t have bitcoins, buy from one of the exchanges below or [read our g
 
 *   [Kraken](https://www.kraken.com/) - Buy bitcoins online in the United States, Canada, and Europe
 *   [Local Bitcoins](http://geni.us/localbitcoins) - This fantastic service allows you to search for people in your community willing to [sell bitcoins](https://www.weusecoins.com/how-to-sell-bitcoins/) to you directly. But be careful of scams!
-*   [Buy Bitcoin Worldwide](https://www.buybitcoinworldwide.com/) – Get help finding a Bitcoin exchange in your country.
 
 ### Finding Items
 

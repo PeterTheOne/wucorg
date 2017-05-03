@@ -6,7 +6,7 @@ authorurl: /
 description: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 seotitle: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 published: true
-toc: 
+toc:
   cryptopay: Cryptopay VISA Debit Card
   spectrocoin: SpectroCoin Debit Card
   bitpay: Bitpay VISA Debit Card
@@ -71,7 +71,6 @@ toc:
 <p>The Bitwala debit cards are issued in both physical and virtual forms and costs €2.00. Customers can also enjoy a super low 0.5% (€1 min.) fee for card top ups using Bitcoin or Altcoins.
 <p>Denominated in Euros, the Bitwala debit card can be used to pay online and offline where VISA is accepted. Cardholders can also cash out at any ATM worldwide with the best rates and transparent fees.
 <p>Bitwala offers 2 shipping plans: Free of charge (Arrives 7-10 days after purchase, no tracking information) and express shipping that costs €69.00 (Arrives 3-5 days after purchase incl. tracking information). 
-
 
 <p><h2 id="avoid">Services To Avoid</h2>
 <p><b>BitPlastic</b> - was among the first Bitcoin debit cards. However, they do not appear to be innovating much.

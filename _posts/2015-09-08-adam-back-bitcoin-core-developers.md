@@ -8,6 +8,7 @@ published: true
 
 <img src="/images/adam-back.png" alt="Dr. Adam Back" align="right">
 <p><a href="/dr-adam-back/">Dr. Adam Back</a> has been involved in serious cryptography deployments for decades. In this interview he discusses who the top Bitcoin developers are and why.
+<p><a href="https://twitter.com/TuurDemeester/status/843632475700170753">Tuur Demester</a> found an <a href="#openssl">interesting part in this interview</a> where Dr. Back discussed how <a href="/pieter-wuille/">Dr. Wuille</a> and <a href="/gregory-maxwell-bitcoin-expert/">Greg Maxwell</a> found a in OpenSSL, which is used by about 35% of all Internet websites, which they then helped fix. Thus, making the Internet more secure.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Zz8Q7XUd2QM" frameborder="0" allowfullscreen></iframe></center>
 <p><b>TRANSCRIPT</b> (<a href="http://www.satoshisdeposition.com/podcast/BTCK-166-2015-09-08.mp3">download mp3</a>)
 <p><strong>Trace Mayer:</strong>  Welcome back to the Bitcoin Knowledge Podcast.  In episode two of a week with Adam Back.  We're going to be talking about some of the other people who have been instrumental in making bitcoin a success.  As he talked about in episode one, you know, he built on top of a lot of other people's work.  And isn't that really how it happens in our science and technical fields?
@@ -95,6 +96,9 @@ So as the utilization level goes up, you know, the beginning of the blocks would
 <p>
 
 <strong>Trace Mayer:</strong>  Huge unmanageable blockchain.
+
+<p>
+
 <strong>Dr. Adam Back:</strong>  Right.  I mean, even today the latency that you were experiencing as a miner is quite important for your profitability.  And so the design of bitcoin, that's just what kind of one of the things you find by talking to people who understand the protocol details is, you know, the parameters are not random.  They are probably, you know, presumably quite carefully modeled by Satoshi in the sense that, you know, that ten-minute interval is balanced with the propagation delay of sending out the final mined block into the network.
 
 <p>
@@ -128,6 +132,8 @@ So at this stage, the Libsecp library is six to eight times faster on a CPU than
 <p>
 
 <strong>Trace Mayer:</strong>  Wow.  So there is another major gain or improvement that Dr. Wuille's found for us.
+
+<p><h3 id="openssl">Found and Fixed An OpenSSL Bug</h3>
 
 <p>
 
@@ -338,6 +344,8 @@ And just to sort of, you know, set up the economic incentive so that something c
 <strong>Dr. Adam Back:</strong>  Yeah.  I mean, I think a lot of people in software in general or, you know, you see in testing they are sort of functionally testing something which is to say, you know, they test out --
 
 <strong> </strong>
+
+<p>
 
 <strong>Trace Mayer:</strong>  Oh, is it working?  Yeah.
 

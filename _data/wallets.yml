@@ -62,6 +62,14 @@
    
 ## Mobile - Android
 
+ - wallet: breadwallet (Android)
+   description: <a href="/breadwallet/">Breadwallet</a> started out as the most popular wallet for iPhone, and now it is also available for Adroid devices running Android 6.0 or higher. The simplicity and easy-to-use security makes it a great place to start for users who are new to bitcoin.
+   category: mobileandroid 
+   download: https://play.google.com/store/apps/details?id=com.breadwallet
+   img: breadwallet2
+   more_info: /breadwallet/
+   tags: start, mobile
+
  - wallet: Mycelium (Android)
    description: <a href="/how-to-use-mycelium-bitcoin-wallet/">Mycelium</a> is a favorite among experienced Bitcoin users. It’s an HD wallet with many advanced features, like support for hardware wallets TREZOR and Ledger, watch-only accounts, cold storage spending, and Tor. 
    category: mobileandroid
@@ -90,7 +98,7 @@
 
 ## Mobile - iOS
 
- - wallet: breadwallet
+ - wallet: breadwallet (iOS)
    description: Breadwallet’s combination of simplicity and security has made it the most popular iOS wallet. iPhone users in search of their first Bitcoin wallet should find <a href="/breadwallet/">Breadwallet</a> easy to understand. 
    category: mobileios 
    download: https://itunes.apple.com/il/app/breadwallet-bitcoin-wallet/id885251393?mt=8

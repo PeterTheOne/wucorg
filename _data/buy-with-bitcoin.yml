@@ -24,6 +24,11 @@
    description: Purse.io makes it possible to buy anything on Amazon with Bitcoin. Purse matches users with extra Amazon credit (buyers) with users who want to spend bitcoin (spenders). A spender first creates a wishlist with his/her desired items. Once a buyer finds a wishlist in the right price range and accepts a spender’s offer, bitcoins are placed in escrow with Purse.io. The buyer then orders items to the spender’s destination address. Once a spender receives the order, the escrow is unlocked and bitcoins are released to the buyer.
    category: general
    url: http://geni.us/purseio
+   
+ - merchant: Spend A Bit
+   description: Spend A Bit is a search engine for merchants who accept Bitcoin.
+   category: general
+   url: http://geni.us/spendabit
 
 ###### Travel ######
    

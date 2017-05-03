@@ -28,9 +28,9 @@ He was among the first popular bloggers to publicly recommend Bitcoin in its inf
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
  <a href="http://www.bitpay.com" align="middle" target="_blank"><img
  src="http://www.tracemayer.net/images/bitpay.png" alt="Bitpay"
- style="border: 0px solid ; width: 200px; height: 58px;"></a> <a href="http://www.bitcoinmagazine.com" align="right" target="_blank"><img
+ style="border: 0px solid ; width: 200px; height: 58px;"></a> <img
  src="http://www.tracemayer.net/images/bitcoin-magazine.png" alt="Bitcoin Magazine"
- style="border: 0px solid ; width: 200px; height: 30px;"></a>
+ style="border: 0px solid ; width: 200px; height: 30px;">
 
  <a href="http://www.kraken.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/kraken.png" alt="Kraken"

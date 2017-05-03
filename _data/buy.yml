@@ -1,14 +1,15 @@
-############## United States ##############  
+############## United States ##############
 
  - exchange: Coinbase
    description: <p>Coinbase is one of the world's largest Bitcoin exchanges. Users in the United States, Canada, most of Europe, and Singapore can buy bitcoins with a connected bank account or SEPA transfer.</p> <p>European users can purchase bitcoins with 3D secure credit or debit cards.</p> <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/8ReFJILZHZk" frameborder="0" allowfullscreen></iframe></center></p>
    countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: coinbase-small.png
    url: http://geni.us/coinbase
-   
+   getting_started: yes
+
  - exchange: Coinhouse
-   description: Buy bitcoins in the UK and Europe with a 3D secure credit or debit card. Prepaid credit and debit cards are also accepted if 3D secure. 
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   description: Buy bitcoins in the UK and Europe with a 3D secure credit or debit card. Prepaid credit and debit cards are also accepted if 3D secure.
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    logo: coinhouse.png
    url: http://geni.us/coinhouse
 
@@ -17,7 +18,7 @@
    countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
    logo: coinmama.png
    url: http://geni.us/coinmama
-   
+
  - exchange: Indacoin
    description: Indacoin is a global platform enabling the quickest bitcoin purchases in more than 200 countires with a credit or debit card and <b>no registration</b>. <p>If it's the first time you use the card, you will receive a call from Indacoin with a 4-digit code, which should be entered on your order page. After that, you will have to enter a 3-digit code, which can be found on your online card statement next to the charge amount. <p>You will have the limit of $50 for the first transaction, $100 for the second transaction available after four days of the initial purchase and $500 after eight days of the first buy. The total limit for the first month will be $5,000 and then no limits at all. <p>Since your card is verified, cryptocurrency is sent automatically within ten minutes after the payment.
    countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
@@ -26,31 +27,31 @@
    getting_started: yes
 
  - exchange: Kraken
-   description: Kraken is one of the world's largest Bitcoin exchanges. Residents of Europe and the UK can deposit and purchase bitcoins with same day SEPA transfer.  
+   description: Kraken is one of the world's largest Bitcoin exchanges. Residents of Europe and the UK can deposit and purchase bitcoins with same day SEPA transfer.
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca, de
    logo: kraken.png
    url: https://www.kraken.com/
    getting_started: yes
-   
+
  - exchange: LocalBitcoins
-   description: LocalBitcoins is an escrow service that helps match Bitcoin buyers and sellers.  
+   description: LocalBitcoins is an escrow service that helps match Bitcoin buyers and sellers.
    countries: us, de, sa, mx, asia, au, br, af
    logo: localbitcoins.png
    url: http://geni.us/localbitcoins
    description_sa: LocalBitcoins is used throughout South America, with high volumes in Argentina and Venezuela.
    getting_started: yes
-   
+
  - exchange: BitQuick
-   description: BitQuick is an escrow service that facilitates the buying and selling of bitcoins via cash deposit. 
+   description: BitQuick is an escrow service that facilitates the buying and selling of bitcoins via cash deposit.
    countries: us
    logo: bitquick.png
    url: http://geni.us/bitquick
-   
+
  - exchange: Wall of Coins
-   description: Wall of Coins is an escrow service that facilitates the buying and selling of bitcoins. Cash deposit is the most popular payment method. 
+   description: Wall of Coins is an escrow service that facilitates the buying and selling of bitcoins. Cash deposit is the most popular payment method.
    countries: us
    logo: wallofcoins.png
-   url: http://geni.us/localbitcoins   
+   url: http://geni.us/localbitcoins
 
  - exchange: Remitano
    description: Remitano is an escrow service that allow you to buy Bitcoin safely using Bank transfer and cash deposit.
@@ -58,28 +59,34 @@
    logo: remitano.png
    url: http://geni.us/remitano
    description_sa: Remitano offer friendly UI and no hidden fee. What you see is what you get.
-   getting_started: yes
- 
-############## Europe ##############  
-   
+
+############## Europe ##############
+
  - exchange: Bitcoin.de
    description: Bitcoin.de is a Bitcoin exchange based in Germany, with average daily trading volume of 3,000-7,000 BTC. Deposits must be made with SEPA transfer.
    countries: de, fr
    logo: bitcoinde.png
    url: https://www.bitcoin.de/
    
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: http://geni.us/coingate
+
  - exchange: SpectroCoin
-   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   description: <p>SpectroCoin is an all-in-one solution for Bitcoin offering an exchange, debit card and ability to buy bitcoins with credit cards.</p>
    countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: spectrocoin.png
    url: http://geni.us/spectrocoin
-   
+   getting_started: yes
+
  - exchange: Cashila
    description: Cashila is a payment processor that enables users to transfer, hold and receive funds using bitcoin or euros.
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    logo: cashila.png
    url: https://www.cashila.com/
-   
+
  - exchange: Bitrush
    description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
    countries: bg, nl
@@ -92,31 +99,48 @@
    logo: bitpanda.png
    url: http://geni.us/bitpanda
 
-############## United Kingdom ##############  
-   
+############## United Kingdom ##############
+
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: SpectroCoin
    description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
    countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: spectrocoin.png
    url: http://geni.us/spectrocoin
-   
+
  - exchange: Bittylicious
    description: UK residents can buy bitcoins online in a little under an hour at Bittylicious with UK instant bank transfer.
    countries: uk
    logo: bittylicious.png
    url: https://bittylicious.com/
-   
-############## Canada ############## 
+
+############## Canada ##############
+
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
 
  - exchange: QuickBT
-   description: Buy bitcoins quickly in Canada with Interac Online or debit card. 
+   description: Buy bitcoins quickly in Canada with Interac Online or debit card.
    countries: ca
    logo: quickbt.png
    url: https://quickbt.com/ca/
-   getting_started: yes
-   
-############## Asia ##############  
-   
+
+ - exchange: Bitaccess
+   description: Bitaccess is dedicated to helping Canadians buy bitcoin in Canada. You can pay with cash at thousands of convenient stores, pay online instantly with interac online, or visit one of our locally manufactured BTMs.
+   countries: ca
+   logo: bitaccess.png
+   url: https://www.bitaccess.co/buy-bitcoin-in-canada
+
+############## Asia ##############
+
  - exchange: BitKan
    description: "BitKan is a tool and application platform focusing on bitcoin featuring OTC trading service, price viewing, news reading, mining monitoring, price alert, E-Wallet services and etc."
    countries: asia
@@ -129,78 +153,84 @@
    logo: btcchina.png
    url: https://www.btcc.com/
    
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: Huobi
-   description: Huobi is one of the largest Bitcoin exchanges in China, with more than $150 million of daily trading volume. 
+   description: Huobi is one of the largest Bitcoin exchanges in China, with more than $150 million of daily trading volume.
    countries: asia
    logo: huobi.png
-   url: https://www.huobi.com/ 
-   
+   url: https://www.huobi.com/
+
  - exchange: OKCoin
-   description: OKCoin is one of the largest Bitcoin exchanges in China, with more than $200 million of daily trading volume.  
+   description: OKCoin is one of the largest Bitcoin exchanges in China, with more than $200 million of daily trading volume.
    countries: asia
    logo: okcoin.png
-   url: https://www.okcoin.cn/   
-   
+   url: https://www.okcoin.cn/
+
  - exchange: Unocoin
    description: "Unocoin is India's largest Bitcoin exchange. Fund your account via India local bank transfer."
    countries: asia
    logo: unocoin.png
    url: https://www.unocoin.com/
-   
+
  - exchange: BitX
    description: Bitcoin exchange available in Indonesia and Malaysia. BitX makes it easy to buy bitcoin instantly via local bank transfer (Indonesia) or Inter-Bank GIRO (Malaysia).
    countries: asia
    logo: bitx.png
    url: https://www.bitx.co/in/global/en/
-   
+
  - exchange: BitFlyer
    description: "BitFlyer is Japan's most popular and well funded Bitcoin exchange. Deposit with bank transfer."
    countries: asia
    logo: bitflyer.png
    url:  https://bitflyer.jp/
-   
+
  - exchange: Urdubit
-   description: Pakistan’s first Bitcoin exchange. Users can fund accounts via local bank transfer. 
+   description: Pakistan’s first Bitcoin exchange. Users can fund accounts via local bank transfer.
    countries: asia
    logo: urdubit.png
    url: https://urdubit.com/
-   
+
  - exchange: Coins.ph
    description: Known as the easiest way to buy bitcoins in the Philippines and can also be used to send and receive remittances.
    countries: asia
    logo: coinph.png
    url: https://coins.ph
-   
+
  - exchange: CoinHako
    description: Buy bitcoins in Singapore with local bank transfer.
    countries: asia
-   logo: coinhako.png 
-   url: https://www.coinhako.com 
-   
+   logo: coinhako.png
+   url: https://www.coinhako.com
+
  - exchange: Korbit
    description: Korbit is the largest and most well funded Bitcoin exchange in South Korea, with average daily volumes over 500 BTC.
    countries: asia
    logo: korbit.png
    url: https://www.korbit.co.kr/
-   
+
  - exchange: Coinplug
    description: To buy BTC with cash in South Korea use CoinPlug to find a Bitcoin ATM.
    countries: asia
    logo: coinplug.png
    url: https://www.coinplug.com/
-   
+
  - exchange: MaiCoin
    description: Buy bitcoin in Taiwan with cash or bank transfer at MaiCoin.
    countries: asia
    logo: maicoin.png
-   url: https://www.maicoin.com/en  
-   
+   url: https://www.maicoin.com/en
+
  - exchange: BitoEX
    description: BitoEX has 5,000 locations at convenience stores across Taiwan where it’s possible to buy with cash.
    countries: asia
    logo: bitoex.png
    url: https://www.bitoex.com/
-   
+
  - exchange: Coins.co.th
    description: Coins is a remittance service, but also makes it easy to purchase bitcoins in Thailand with cash, bank transfer, or cash deposit.
    countries: asia
@@ -208,21 +238,27 @@
    url:  https://coins.co.th/en/
 
 ############## Australia ##############
-   
+
  - exchange: BTC Markets
    description: Australia's largest Bitcoin exchange. Buy Bitcoins today with POLi and EFT. Low trading fees and full API available.
    countries: au
    logo: btcmarkets.png
    url: https://www.btcmarkets.net/
-   
+
  - exchange: buy-aBitcoin
    description: Buy bitcoins with cash in Australia. Only verification required is an email address and phone number
    countries: au
    logo: buyabitcoin.png
    url: https://buyabitcoin.com.au/
    
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: HardBlock
-   description: No fee and low spread Australian buying and selling service. Buy Bitcoin using POLi. Phone number and ID verification required. 
+   description: No fee and low spread Australian buying and selling service. Buy Bitcoin using POLi. Phone number and ID verification required.
    countries: au
    logo: hardblock.png
    url: https://www.hardblock.net/
@@ -233,104 +269,140 @@
    description: SatoshiTango is a Bitcoin broker available in Chile, Colombia, and Uruguay.
    countries: sa
    logo: satoshitango.png
-   url: https://www.satoshitango.com/home  
-   
+   url: https://www.satoshitango.com/home
+
  - exchange: Bitex.la
    description: Bitex.la is a Bitcoin exchange that offers services in Argentina, Chile, Colombia, and Uruguay. Deposits can be made with cash in Argentina and Chile, or with AstroPay in all four countries.
    countries: sa, br
-   logo: bitexla.png 
+   logo: bitexla.png
    url: https://bitex.la/
+   
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
 
  - exchange: SurBitcoin
-   description: SurBitcoin is Venezuela's only local Bitcoin exchange. Deposits are made with Venezuelan national bank transfer. 
+   description: SurBitcoin is Venezuela's only local Bitcoin exchange. Deposits are made with Venezuelan national bank transfer.
    countries: sa
    logo: surbitcoin.png
    url: https://surbitcoin.com/
 
  - exchange: SurBTC
-   description: SurBTC is Chile's largest and most well funded Bitcoin exchange. It received a Series A investment of $0.3 million on February 2016. 
+   description: SurBTC is Chile's largest and most well funded Bitcoin exchange. It received a Series A investment of $0.3 million on February 2016.
    countries: sa
    logo: surbtc.png
    url: https://www.surbtc.com/
-   
+
  - exchange: Bitcoin Peru
    description: "Bitcoin Peru is a Bitcoin broker in Peru. It's possible to buy via local bank transfer and get bitcoin within 24 hours."
    countries: sa
    logo: bitcoinperu.png
    url: http://www.bitcoinperu.com/
-   
+
  - exchange: GuaraniBitcoin
    description: GuaraniBitcoin is Paraguay’s local exchange.
    countries: sa
    logo: guaranibitcoin.png
-   url: https://www.guaranibitcoin.com/  
+   url: https://www.guaranibitcoin.com/
 
-############## Brazil ############## 
-   
+############## Brazil ##############
+
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: FoxBit
    description: FoxBit is one of the largest Bitcoin exchanges in Brazil. Buy bitcoins online with bank transfers and no deposit fees.
    countries: br
    logo: foxbit.png
    url: https://foxbit.com.br/
-   
+
  - exchange: Mercado Bitcoin
    description: "Mercado Bitcoin is one of Brazil's largest Bitcoin exchanges. Users can buy bitcoin online with bank transfers."
    countries: br
    logo: mercado.png
    url: https://www.mercadobitcoin.com.br/
-   
+
 ############## France ##############
-   
+
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: Paymium
    description: Buy bitcoins in France with local bank transfer.
    countries: fr
    logo: paymium.jpg
-   url: https://paymium.com/   
-   
-############## Africa ##############    
+   url: https://paymium.com/
+
+############## Africa ##############
 
  - exchange: BitX
-   description: Buy and sell bitcoins via bank transfer in South Africa and Nigeria. 
+   description: Buy and sell bitcoins via bank transfer in South Africa and Nigeria.
    countries: af
    logo: bitx.png
-   url: https://www.bitx.co/ 
+   url: https://www.bitx.co/
    
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
  - exchange: NairaEx
-   description: Buy and sell bitcoins in Nigeria with Perfect Money and Web Money.  
+   description: Buy and sell bitcoins in Nigeria with Perfect Money and Web Money.
    countries: af
    logo: nairaex.png
-   url: https://nairaex.com/home    
-   
+   url: https://nairaex.com/home
+
  - exchange: BitPesa
-   description: Buy and sell bitcoins with Airtel in Kenya, and with Paga or Quickteller in Nigeria. 
+   description: Buy and sell bitcoins with Airtel in Kenya, and with Paga or Quickteller in Nigeria.
    countries: af
    logo: bitpesa.png
-   url: https://www.bitpesa.co/ 
-   
-############## Mexico ##############    
+   url: https://www.bitpesa.co/
+
+############## Mexico ##############
 
  - exchange: Bitso
-   description: "Bitso is one of Mexico's largest Bitcoin exchanges. Fund your account at more than 135,000 physical locations with cash or via online bank transfer."  
+   description: "Bitso is one of Mexico's largest Bitcoin exchanges. Fund your account at more than 135,000 physical locations with cash or via online bank transfer."
    countries: mx
    logo: bitso.jpg
    url: https://bitso.com/?l=en
 
  - exchange: Chip-Chap
-   description: Buy bitcoins in Mexico at more than 5,000 brick-and-mortar stores. Buy bitcoins in Europe with SafetyPay, or with EasyPay at 500 physical locations in Greece.  
+   description: Buy bitcoins in Mexico at more than 5,000 brick-and-mortar stores. Buy bitcoins in Europe with SafetyPay, or with EasyPay at 500 physical locations in Greece.
    countries: mx
    logo: chipchap.png
    url: https://chip-chap.com/
    
-############## Global ##############    
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com
+
+############## Global ##############
 
  - exchange: 247Exchange
    description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
-   countries: 
+   countries:
    logo: 247exchange.jpg
    url: http://www.runtogold.com/247exchange
 
  - exchange: Circle
-   description: Circle makes it easy to buy bitcoins with a credit card, debit card, or connected bank account. Its buy price is often only 0.5% more than the average market rate. Circle is available to residents of the United States and United Kingdom. 
+   description: Circle makes it easy to buy bitcoins with a credit card, debit card, or connected bank account. Its buy price is often only 0.5% more than the average market rate. Circle is available to residents of the United States and United Kingdom.
    countries:
    logo: circle.png
    url: https://www.circle.com/en
+   
+ - exchange: CoinGate
+   description: Buy bitcoins on CoinGate using credit or debit card, mobile balance, SMS, or bank transfer. Sell bitcoins on CoinGate and receive payouts to your bank, PayPal or MoneyPolo account.
+   countries: ad,ae,af,ag,ai,al,am,ao,aq,ar,as,at,au,aw,ax,az,ba,bb,bd,be,bf,bg,bh,bi,bj,bl,bm,bn,bo,bq,br,bs,bt,bv,bw,by,bz,ca,cc,cd,cf,cg,ch,ci,ck,cl,cm,cn,co,cr,cu,cv,cw,cx,cy,cz,de,dj,dk,dm,do,dz,ec,ee,eg,eh,er,es,et,fi,fj,fk,fm,fo,fr,ga,gb,gd,ge,gf,gg,gh,gi,gl,gm,gn,gp,gq,gr,gs,gt,gu,gw,gy,hk,hm,hn,hr,ht,hu,id,ie,il,im,in,io,iq,ir,is,it,je,jm,jo,jp,ke,kg,kh,ki,km,kn,kp,kr,kw,ky,kz,la,lb,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mf,mg,mh,mk,ml,mm,mn,mo,mp,mq,mr,ms,mt,mu,mv,mw,mx,my,mz,na,nc,ne,nf,ng,ni,nl,no,np,nr,nu,nz,om,pa,pe,pf,pg,ph,pk,pl,pm,pn,pr,ps,pt,pw,py,qa,re,ro,rs,ru,rw,sa,sb,sc,sd,se,sg,sh,si,sj,sk,sl,sm,sn,so,sr,ss,st,sv,sx,sy,sz,tc,td,tf,tg,th,tj,tk,tl,tm,tn,to,tr,tt,tv,tw,tz,ua,ug,uy,uz,va,vc,ve,vg,vn,vu,wf,ws,ye,yt,za,zm,zw
+   logo: coingate.png
+   url: https://coingate.com

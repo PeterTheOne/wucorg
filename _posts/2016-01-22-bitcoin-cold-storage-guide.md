@@ -118,7 +118,7 @@ The process of setting up and signing transactions with this method can be compl
 
 ### Armory
 
-[Armory](/armory/) is considered the most secure offline software wallet. No external server is used for data because Armory maintains a full copy of the Bitcoin blockchain. No information is leaked which also makes Armory one of the most [private Bitcoin wallets](https://github.com/OpenBitcoinPrivacyProject/wallet-ratings/blob/master/2015-1/wallets/armory.md).
+[Armory](/armory/) is considered the most secure offline software wallet. No external server is used for data because Armory maintains a full copy of the Bitcoin blockchain. No information is leaked which also makes Armory one of the most private Bitcoin wallets.
 
 There are two helpful guides that will show you how to create cold storage with Armory: [one from Armory’s official website](https://bitcoinarmory.com/tutorials/armory-advanced-features/offline-wallets/), and one at [falkvinge.net](http://falkvinge.net/2014/02/10/placing-your-crypto-wealth-in-cold-storage-installing-armory-on-ubuntu/).
 

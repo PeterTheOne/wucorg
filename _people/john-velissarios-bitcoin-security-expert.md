@@ -1,5 +1,5 @@
 ---
-title: John Velissarios - Bitcoin Security Expert
+title: John Velissarios
 seotitle: John Velissarios
 img: /images/john-velissarios.png
 position: Consultant

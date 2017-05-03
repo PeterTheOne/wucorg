@@ -86,7 +86,7 @@ Advanced encryption and a trustless protocol for complete security in your payme
 <li>Step 4: Stay Up-to-Date.</li></ul> 
 
 <h3>Masternode Guides:</h3>
-<p><a href="https://dashpay.atlassian.net/wiki/display/DOC/Masternode+guides">https://dashpay.atlassian.net/wiki/display/DOC/Masternode+guides</a></p>
+<p></p>
  
 <h3>Masternode Services (Hosting / Pooling / ....):</h3>
 <p><a href="https://dashpay.atlassian.net/wiki/pages/viewpage.action?pageId=1867885">https://dashpay.atlassian.net/wiki/pages/viewpage.action?pageId=1867885</a>
@@ -117,5 +117,5 @@ Advanced encryption and a trustless protocol for complete security in your payme
 <a href="https://walletgenerator.net/">Walletgenerator.net - Paper Wallet</a><br />
 <a href="https://github.com/dashpay/dash">Dash Source</a><br />
 <a href="https://dashpay.atlassian.net/wiki">Wiki + Confluence</a><br />
-<a href="https://dashpay.atlassian.net/wiki/display/DOC/Mining+guide">MINER Guides</a><br />
+MINER Guides<br />
 

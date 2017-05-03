@@ -7,7 +7,7 @@ published: true
 ---
 
 <p>WeUseCoins and Bitcoin Mining offer some of the highest quality traffic in the Bitcoin, blockchain and cryptocurrency niche. To ensure sustainability we accept advertising and sponsorship.
-<p>We are only interested in dealing with serious advertisers or sponsors who are willing to commit to a minimum $5,000 campaign paid in advance via bitcoins.
+<p>We are only interested in dealing with serious advertisers or sponsors who are willing to commit to a minimum $5,000 campaign paid in advance with bitcoins.
 <p><h2>RATES</h2>
 <p>We can be very flexible with whatever type of campaign you want to run. Almost all legal business will be considered although some niches will not. The site needs to be family friendly and professional. All advertising sponsorships must be paid in advance via Bitcoin.
 <p>Although spots can be custom tailored the rates will be similar to Coindesk: 
