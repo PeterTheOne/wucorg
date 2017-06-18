@@ -1,4 +1,662 @@
 -
+    date: 30-Mar-2017   
+    company: Filament
+    classification: Infrastructure
+    roundsize: 15   
+    cumulative: 21.2
+    round:   
+    investors: Verizon Ventures, Bullpen Capital, JetBlue Technology Ventures, Intel Capital, Digital Currency Group, Resonant Venture Partners, Samsung NEXT, Lab IX, Backstage Capital, Tappan Hill Ventures
+    headquartered: Reno
+    country: United States      
+    region: US & Canada
+    img: filament.png
+    description: Filament lets you build a connected business without becoming an expert on security, scalability, or network stacks.
+    url: https://filament.com/
+-
+    date: 30-Mar-2017   
+    company: Ledger
+    classification: Wallet
+    roundsize: 7
+    cumulative: 8.3     
+    round: Series A 
+    investors: MAIF Avenir, ange, Wicklow Capital, GDTRE, Libertus Capital, Digital Currency Group, The Whittemore Collection, Kima Ventures, BHB Network, Nicolas Pinto    
+    headquartered: Paris
+    country: France 
+    region: Europe
+    img: ledger.png
+    description: Security solutions for cryptocurrencies and blockchains.
+    url: https://www.ledgerwallet.com/
+-
+    date: 29-Mar-2017   
+    company: ShapeShift
+    classification: Financial Services  
+    roundsize: 10.4     
+    cumulative: 12.53       
+    round: Series A 
+    investors: Earlybird Venture Capital, Lakestar, Blockchain Capital, Pantera Capital and Access Venture Partners, FundersClub, Digital Currency Group, Erik Voorhees     
+    headquartered: Zug
+    country: Switzerland    
+    region: Europe
+    img: shapeshift.png
+    description: Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.
+    url: https://shapeshift.io/
+-
+    date: 15-Mar-2017
+    company: Creativechain
+    classification: Content Distribution
+    roundsize: 0.35
+    cumulative: 0.35
+    round: Series Seed 
+    investors: Private
+    headquartered: Barcelona
+    country: Spain
+    region: Southern Europe
+    img: creativechain.png
+    description: Decentralized platform of free content distribution.
+    url: https://creativechain.org
+-
+    date: 8-Mar-2017    
+    company: Veem
+    classification: Financial Services  
+    roundsize: 24   
+    cumulative: 36.5        
+    round:   
+    investors: National Australia Bank Ventures, Google Ventures, SBI Investment Co., Kleiner Perkins Caufield Byers, Silicon Valley Bank       
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: veem.png
+    description: Veem is a next generation platform for business to business payments. Veem enable businesses to send and receive payments in local currency via a simple and inexpensive manner by using our unique multi-rail technology across several global networks.
+    url: https://www.veem.com/
+-
+    date: 23-Feb-2017   
+    company: Storj
+    classification: Infrastructure
+    roundsize: 3    
+    cumulative: 3   
+    round: Seed
+    investors: Individual investors of Google Ventures, Qualcomm Ventures, TechStars       
+    headquartered: Atlanta
+    country: United States      
+    region: US & Canada
+    img: storj.png
+    description: Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+    url: https://storj.io/
+-
+    date: 22-Feb-2017   
+    company: Bitbond
+    classification: Financial Services  
+    roundsize: 1.2      
+    cumulative: 2.14        
+    round:   
+    investors: Şekip Can Gökalp, Janis Zech, Andreas Bodczek, Alexander Graubner-Müller 
+    headquartered: Berlin
+    country: Germany
+    region: Europe
+    img: bitbond.png
+    description: Bitbond is the first global marketplace lending platform for small business loans. 
+    url: https://www.bitbond.com/
+-
+    date: 9-Feb-2017    
+    company: Coinfirm
+    classification: RegTech - Regulation Technology
+    roundsize: 0.7  
+    cumulative: 0.7 
+    round: Seed
+    investors: Luma Ventures    
+    headquartered: London
+    country: United Kingdom 
+    region: Europe
+    img: coinfirm.png
+    description: The Coinfirm platform provides and easy to use solution with valuable structured data that puts entities on the safe side in terms of regulatory and fraud risk.
+    url: https://www.coinfirm.io/
+-
+    date: 7-Feb-2017    
+    company: Hashed Health  
+    classification: Infrastructure
+    roundsize: 1.85 
+    cumulative: 1.85    
+    round:   
+    investors: Martin Ventures, Fenbushi Capital    
+    headquartered: Nashville
+    country: United States      
+    region: US & Canada
+    img: hashed-health.png
+    description: Hashed Health is leading a consortium of healthcare companies focused on accelerating meaningful innovation using blockchain and distributed ledger technologies.
+    url: https://hashedhealth.com/
+-
+    date: 31-Jan-2017   
+    company: Storj
+    classification: Infrastructure  
+    roundsize: 0.1  
+    cumulative: 0.1     
+    round: Seed
+    investors: Utah Governors Office of Economic Development GOED    
+    headquartered: Mableton
+    country: Georgia    
+    region: US & Canada
+    img: storj.png
+    description: Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+    url: https://storj.io/
+-
+    date: 30-Jan-2017   
+    company: Bitfury
+    classification: Infrastructure
+    roundsize: 30   
+    cumulative: 90  
+    round: Series D 
+    investors: Credit China FinTech Holdings    
+    headquartered: San Francisco    
+    country: California     
+    region: US & Canada
+    img: bitfury.png
+    description: The Bitfury Group develops and delivers both the software and the hardware solutions necessary for businesses, governments, organizations and individuals to securely move an asset across the Blockchain.
+    url: http://bitfury.com/
+-
+    date: 30-Jan-2017   
+    company: Bitpesa
+    classification: Payment processor   
+    roundsize: 2.5  
+    cumulative: 3.6 
+    round: Series A 
+    investors: Draper VC, Greycroft LLC, Digital Currency Group, Pantera Capital Management, Blockchain Capital, Zephyr Acorn, FuturePerfectVC and BnkToTheFuture       
+    headquartered: Nairobi
+    country: Kenya  
+    region: Africa
+    img: bitpesa.png
+    description: BitPesa is a pan-African platform redefining how businesses make payments to and from sub-Saharan Africa.
+    url: https://www.bitpesa.co/
+-
+    date: 24-Jan-2017   
+    company: Cambridge Blockchain   
+    classification: Infrastructure
+    roundsize: 2
+    cumulative: 2   
+    round: Seed
+    investors: Partech Ventures, Digital Currency Group 
+    headquartered: Cambridge
+    country: United States      
+    region: US & Canada
+    img: cambridge-blockchain.png
+    description: Cambridge Blockchain puts control of personal identity data back in the hands of the end user. 
+    url: http://cambridge-blockchain.com/
+-
+    date: 19-Jan-2017   
+    company: CoolBitX
+    classification: Wallet
+    roundsize: 0.2  
+    cumulative: 0.2 
+    round: Seed
+    investors: Midana Capital       
+    headquartered: 
+    country:    
+    region: 
+    img: coolbitx.png
+    description: Talents in CoolBitX are dedicated in improving Bitcoin environment with easier, safer, and cooler technologies. 
+    url: https://www.coolbitx.com/
+-
+    date: 17-Jan-2017   
+    company: SatoshiPay 
+    classification: Financial Services  
+    roundsize: 0.68     
+    cumulative: 1.07        
+    round:   
+    investors: Blue Star Capital        
+    headquartered: London   
+    country: United Kingdom     
+    region: Europe
+    img: satoshipay.png
+    description: SatoshiPay is a wallet for pocket change on the web. It allows anybody to instantly pay tiny amounts from and to anywhere.
+    url: https://satoshipay.io/
+-
+    date: 17-Jan-2017   
+    company: NeuFund
+    classification: Venture Capital 
+    roundsize: 2
+    cumulative: 2   
+    round: Series A 
+    investors: Atlantic Labs, Klaas Kersting        
+    headquartered: Berlin
+    country: Germany    
+    region: Europe
+    img: neufund.png
+    description: Neufund is building a blockchain-based and investor-directed platform which bridges the worlds of blockchain and venture capital.
+    url: https://neufund.org/
+-
+    date: 11-Jan-2017   
+    company: Qtum 
+    classification: Financial Services  
+    roundsize: 1
+    cumulative: 1       
+    round: Seed
+    investors: Anthony Di Iorio, Star Xu, Xiaolai Li, Bo Shen       
+    headquartered: Singapore
+    country: Singapore  
+    region: Asia
+    img: qtum.png
+    description: Qtum merges the reliability of Bitcoins unfailing blockchain with the endless possibilities provided by smart contracts. 
+    url: https://qtum.org/en/
+-
+    date: 4-Jan-2017    
+    company: Blockstack
+    classification: Infrastructure
+    roundsize: 4    
+    cumulative: 5.3 
+    round: Series A 
+    investors: Union Sqauare Ventures, Lux Capital, Naval Ravikant, Digital Currency Group, Compound, Version One, Kal Vepuri and Rising Tide   
+    headquartered: New York 
+    country: United States      
+    region: US & Canada
+    img: blockstack.png
+    description: Blockstack is a new decentralized internet where users own their data and apps run locally. A browser portal is all that’s needed to get started.
+    url: https://blockstack.org/
+-
+    date: 3-Jan-2017    
+    company: Bitpagos
+    classification: Financial Services  
+    roundsize: 1.9  
+    cumulative: 6.9     
+    round: Series A 
+    investors: Huiyin Blockchain Venture, Boost VC, Digital Currency Group and Draper VC        
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: bitpagos.png
+    description: Bitpagos will help you to accept electronic payments on your site, also integrate Bitcoin payments.
+    url: https://www.bitpagos.com/en/
+-
+    date: 22-Dec-2016   
+    company: Axoni
+    classification: Infrastructure
+    roundsize: 18   
+    cumulative: 18  
+    round: Series A 
+    investors: Wells Fargo, ICAP, Goldman Sachs, JP Morgan, Thomson Reuters, Andreessen Horowitz, Digital Currency Group, FinTech Collective and F-Prime Capital Partners       
+    headquartered: New York 
+    country: New York       
+    region: US & Canada
+    img: axoni.png
+    description: Axoni provides blockchain infrastructure for capital markets.
+    url: https://axoni.com/
+-
+    date: 15-Dec-2016   
+    company: Wyre
+    classification: Financial Services  
+    roundsize: 5.8  
+    cumulative: 7.5 
+    round: Series A 
+    investors: Amphora Capital, Baofoo.com, 9fBank, Draper Associates, Digital Currency Group       
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: wyre.png
+    description: Wyre created an FX engine room that intelligently and securely routes money abroad using hundreds of liquidity providers and settlement methods.
+    url: https://www.sendwyre.com/
+-
+    date: 11-Dec-2016   
+    company: OpenBazaar 
+    classification: Financial Services  
+    roundsize: 3    
+    cumulative: 4   
+    round: Series A 
+    investors: BlueYard Capital, Union Square Ventures, Andreessen Horowitz     
+    headquartered: 
+    country:     
+    region: 
+    img: openbazaar.jpg
+    description: OpenBazaar is a different way to do online commerce. Its a peer to peer application that doesn’t require middlemen, which means no fees & no restrictions.
+    url: https://www.openbazaar.org/
+-
+    date: 9-Dec-2016    
+    company: Polychain Capital  
+    classification: Financial Services  
+    roundsize: 10   
+    cumulative: 12.58       
+    round: Series A 
+    investors: A16z, USV    
+    headquartered: San Francisco    
+    country: California 
+    region: US & Canada
+    img: 
+    description: Polychain Capital manages a hedge fund committed to exceptional returns for investors through an actively managed portfolio of these blockchain assets. 
+    url: http://polychain.capital/
+-
+    date: 17-Nov-2016   
+    company: Bitmark
+    classification: Financial Services  
+    roundsize: 1.7
+    cumulative: 1.7 
+    round: Seed
+    investors: Cherubic Ventures, DCG, WI Harper    
+    headquartered: Taipei City  
+    country: Taiwan 
+    region: Asia
+    img: bitmark.png
+    description: Bitmark mission is to promote a healthy digital environment by enabling property rights and provenance for digital assets.
+    url: https://bitmark.com/
+-
+    date: 7-Nov-2016    
+    company: Yours
+    classification: Infrastructure
+    roundsize: 0.17 
+    cumulative: 0.17    
+    round: Seed
+    investors: DCG, Boost VC, Huiyin Group, GaiaX       
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: yours.png
+    description: 
+    url: 
+-
+    date: 15-Nov-2016   
+    company: Settlemint
+    classification: Financial Services  
+    roundsize:       
+    cumulative:     
+    round: Seed 
+    investors: Medici Ventures  
+    headquartered: 
+    country: Belgium    
+    region: Europe
+    img: settlemint.png
+    description: SettleMint is a Belgium-based software company that provides high quality distributed middleware and solutions to companies that want to take advantage of the blockchain technology.
+    url: https://settlemint.io/
+-
+    date: 19-Oct-2016   
+    company: PayCommerce
+    classification: Financial Services  
+    roundsize:  22
+    cumulative:      
+    round: Series A 
+    investors: Tritium Partners 
+    headquartered: Piscataway
+    country: New Jersey     
+    region: United States
+    img: paycommerce.png
+    description: PayCommerce is the leading, instant enterprise cross-border payments network that enables both disbursements and acceptance transactions for our customers and members through a single point of connectivity. 
+    url: https://www.paycommerce.com/
+-
+    date: 12-Oct-2016   
+    company: Coins
+    classification: Financial Services  
+    roundsize: 5
+    cumulative: 5   
+    round: Series A 
+    investors: Accion Frontier Inclusion Fund, Amasia Venture, BEENEXT, Digital Currency Group, Global Brain Corporation, Innovation Endeavors, Pantera Capital, Rebright Partners, Wavemaker Partners  
+    headquartered: Manila
+    country: Philippines    
+    region: Asia
+    img: coins.png
+    description: 
+    url: 
+-
+    date: 12-Oct-2016   
+    company: Funderbeam
+    classification: Financial Services  
+    roundsize: 2.6  
+    cumulative: 2.6     
+    round:   
+    investors: Thomson Reuters, Draper Associates, IQ Capital, 3TS Capital Partners 
+    headquartered: London   
+    country: United Kingdom     
+    region: United Kingdom  
+    img: funderbeam.png
+    description: Funderbeam is the first and only platform in the world where growth companies are funded and traded across borders.
+    url: https://markets.funderbeam.com/
+-
+    date: 5-Oct-2016    
+    company: Factom
+    classification: Infrastructure
+    roundsize: 4.2  
+    cumulative: 5.7 
+    round: Series A 
+    investors: Tim Draper   
+    headquartered: Texas
+    country: United States      
+    region: US & Canada
+    img: factom.png
+    description: Factom stores the world’s data on a decentralized system. Using blockchain technology for smart contracts, digital assets and database integrity. 
+    url: https://www.factom.com/
+-
+    date: 1-Oct-2016    
+    company: HYPR
+    classification: Infrastructure  
+    roundsize: 3
+    cumulative: 0.35    
+    round: Series A 
+    investors: RTP Ventures, Boldstart Ventures and Mesh Ventures       
+    headquartered: New York 
+    country: New York       
+    region: US & Canada
+    img: hypr.png
+    description: HYPR provides enterprises an end-to-end solution for deploying decentralized biometric authentication securely across millions of users. Our software is integrated into employee and customer-facing applications to deliver secure password-less experiences across all mobile, desktop and IoT systems.
+    url: https://www.hypr.com/
+-
+    date: 30-Sep-2016   
+    company: Trust Stamp    
+    classification: Financial Services  
+    roundsize: 1.1      
+    cumulative: 1.3     
+    round: Seed
+    investors: Second Century Ventures  
+    headquartered: Atlanta
+    country: Georgia    
+    region: United States
+    img: truststamp.png
+    description: Trust Stamp uses social media and other publicly available data to verify your identity and provide a unique FICO-like trust score.
+    url: https://truststamp.net/
+-
+    date: 29-Sep-2016   
+    company: Unocoin
+    classification: Exchange
+    roundsize: 1.5
+    cumulative: 1.75    
+    round:   
+    investors: ah! Ventures, Blume Ventures, Mumbai Angels, BoostVC, BnkToTheFuture, Digital Currency Group, FundersClub    
+    headquartered: Bangalore
+    country: India  
+    region: Asia
+    img: unocoin.png
+    description: Unocoin is Indias leading bitcoin company. It enables Indians to buy, sell, store, use and accept bitcoin.
+    url: https://www.unocoin.com/
+-
+    date: 28-Sep-2016   
+    company: Bitso
+    classification: Financial Services  
+    roundsize: 2.5      
+    cumulative: 2.5     
+    round:   
+    investors: Monex Group, Variv Capital, Xochi Ventures, Digital Currency Group (DCG), FundersClub, Bitcoin Capital, Blockchain Tech Limited      
+    headquartered: Mexico City  
+    country: Mexico 
+    region: Latin America
+    img: bitso.png
+    description: The leading Bitcoin and Ether Exchange in Mexico.
+    url: https://bitso.com/
+-
+    date: 28-Sep-2016   
+    company: Utocat
+    classification: Financial Services  
+    roundsize: 0.53
+    cumulative: 0.53    
+    round: Seed
+    investors: Business Angels, BPIFrance, Leap Ventures        
+    headquartered: Région de Lille  
+    country: France 
+    region: Europe
+    img: utocat.png
+    description: 
+    url: 
+-
+    date: 27-Sep-2016   
+    company: BigchainDB
+    classification: Infrastructure
+    roundsize: 3    
+    cumulative: 3   
+    round: Series A 
+    investors: Earlybird Ventures, Anthemis Group, RWE Ventures, innogy SE, Digital Currency Group      
+    headquartered: Berlin
+    country: Germany    
+    region: Europe
+    img: bigchaindb.png
+    description: BigchainDB allows developers and enterprise to deploy blockchain proof-of-concepts, platforms and applications with a scalable blockchain database, supporting a wide range of industries and use cases.
+    url: https://www.bigchaindb.com/
+-
+    date: 26-Sep-2016   
+    company: Juzhen Financials  
+    classification: Infrastructure  
+    roundsize: 23   
+    cumulative: 23      
+    round: Series A 
+    investors: Wanxiang Holdings, Fenbushi Capital      
+    headquartered: Shanghai
+    country: China  
+    region: Asia
+    img: juzhen-financials.png
+    description: Juzhen has long been working to determine how distributed technologies could offer solutions to problems in Chinas financial markets, even before Lilin said it shifted its focus to blockchain technology.
+    url: 
+-
+    date: 15-Sep-2016   
+    company: Ripple Labs    
+    classification: Financial Services  
+    roundsize: 55   
+    cumulative: 96  
+    round: Series B 
+    investors: Standard Chartered, Accenture Ventures, SCB Digital Ventures, Siam Commercial Bank, SBI Holdings, Santander InnoVentures, CME Ventures, Seagate Technology, Venture 51.      
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: ripplelabs.png
+    description: Ripple enables banks to open new revenue opportunities, lower processing costs and deliver better overall customer experiences. Integrate once to access the full potential of Ripple’s growing network of financial institutions and liquidity providers.
+    url: https://ripple.com/
+-
+    date: 7-Sep-2016    
+    company: LBRY
+    classification: Infrastructure
+    roundsize: 0.5  
+    cumulative: 0.5     
+    round: Seed 
+    investors: Pillar VC        
+    headquartered: New Hampshire    
+    country: United States      
+    region: US & Canada
+    img: lbry.png
+    description: LBRY is a free, open, and community-run digital marketplace.
+    url: https://lbry.io/
+-
+    date: 5-Sep-2016    
+    company: Crypto Facilities  
+    classification: Financial Services  
+    roundsize: 1.5      
+    cumulative: 1.5 
+    round: Seed
+    investors: Digital Currency Group, Pamir Gelenbe, Playfair Capital, String Ventures     
+    headquartered: London   
+    country: England    
+    region: Europe
+    img: cryptofacilities.png
+    description: Trade bitcoin and other digital assets on Crypto Facilities regulated and secure derivatives platform. London-based - high liquidity - low fees.
+    url: https://www.cryptofacilities.com/
+-
+    date: 26-Aug-2016   
+    company: Custos Media Technologies  
+    classification: Infrastructure
+    roundsize: 0.42     
+    cumulative: 0.85    
+    round:   
+    investors: South Africa’s Technology Innovation Agency      
+    headquartered: Stellenbosch
+    country: South Africa       
+    region: Africa
+    img: custosmediatechnologies.png
+    description: 
+    url: https://custostech.com/
+-
+    date: 3-Aug-2016    
+    company: Coinify
+    classification: Universal
+    roundsize: 4.00     
+    cumulative: 4.34        
+    round: Series A 
+    investors: SEB Venture Capital and SEED Capital Denmark     
+    headquartered: Copenhagen
+    country: Denmark    
+    region: Europe
+    img: coinify.png
+    description: Coinify works to spread the use of digital currencies. With experience in working with digital currencies since 2010, the Coinify team have strong backgrounds with decades of experience in software, e-commerce and compliance. 
+    url: https://www.coinify.com/
+-
+    date: 1-Aug-2016    
+    company: Brave
+    classification: Infrastructure
+    roundsize: 4.50     
+    cumulative: 4.50    
+    round: Seed
+    investors: Founders Fund's FF Angel, Propel Venture Partners, Pantera Capital, Foundation Capital, Digital Currency Group       
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: brave.png
+    description: Brave have a mission to save the web by increasing browsing speed and safety for users, while growing ad revenue share for content creators.
+    url: https://brave.com/
+-
+    date: 27-Jul-2016   
+    company: Coinigy
+    classification: Exchange    
+    roundsize: 0.40
+    cumulative: 0.50        
+    round: Seed
+    investors: Undisclosed  
+    headquartered: Milwaukee
+    country: United States      
+    region: US & Canada
+    img: coinigy.png
+    description: Coinigy is the best way to access the global financial markets of the future. Businesses small and large rely on our data to power their decision-making.
+    url: https://www.coinigy.com/
+-
+    date: 15-Jul-2016   
+    company: Block.io
+    classification: 
+    roundsize:       
+    cumulative:      
+    round: 
+    investors: Samsung SDS  
+    headquartered: 
+    country: South Korea        
+    region: Asia
+    img: block.png
+    description: The worlds easiest Bitcoin wallet as a service.
+    url: https://block.io/
+-
+    date: 15-Jul-2016   
+    company: SETL
+    classification: Infrastructure
+    roundsize: 39.00    
+    cumulative: 39.00   
+    round: Series A 
+    investors:       
+    headquartered: London
+    country: United Kingdom     
+    region: Europe
+    img: setl.png
+    description: The SETL system will enable market participants to move cash and assets directly between each other, facilitating the immediate and final settlement of market transactions. 
+    url: https://setl.io/
+-
+    date: 7-Jul-2016    
+    company: Coinbase
+    classification: Universal
+    roundsize: 10.50        
+    cumulative: 116.50      
+    round:   
+    investors: Bank of Tokyo Mitsubishi UFJ, Mitsubishi UFJ Capital (MUCAP), Sozo Ventures  
+    headquartered: San Francisco    
+    country: United States      
+    region: US & Canada
+    img: coinbase.png
+    description: Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
+    url: https://www.coinbase.com/
+-
     date: 7-Jul-2016
     company: DTCO
     classification: Blockchain OS
@@ -13,6 +671,342 @@
     description: DTCO serves as a bridge between business and blockchain by providing a Blockchain OS for wide range of industries, including intellectual property, healthcare, supply chain management and IoT.
     url: https://dtco.co
 -
+    date: 5-Jul-2016    
+    company: Netki
+    classification: Infrastructure
+    roundsize: 3.50 
+    cumulative: 3.50        
+    round: Seed
+    investors: O’Reilly AlphaTech Ventures, Donuts, Colle Capital, The Husseini Group, Digital Currency Group, Bitfinex, Plug and Play, Base Ventures, Tom Turney       
+    headquartered: Los Angeles  
+    country: United States      
+    region: US & Canada
+    img: netki.png
+    description: 
+    url: 
+-
+    date: 29-Jun-2016   
+    company: Tradewind
+    classification: Infrastructure
+    roundsize: 9    
+    cumulative: 9   
+    round: Series A 
+    investors: IEX, Sprott      
+    headquartered: New York 
+    country: United States      
+    region: US & Canada
+    img: 
+    description: 
+    url: 
+-
+    date: 23-Jun-2016   
+    company: Circle Internet Financial  
+    classification: Universal
+    roundsize: 60.00
+    cumulative: 136.00
+    round: Series D 
+    investors: IDG Capital, Breyer Capital, General Catalyst Partners, Glenn Hutchins, Sam Palmisano    
+    headquartered: Boston
+    country: United States      
+    region: US & Canada
+    img: circle.png
+    description: Circle Internet Financial foster innovative approaches to risk, including our AI risk engine, which runs on cutting edge algorithms that continuously keep your money safe.
+    url: https://www.circle.com/en
+-
+    date: 1-Jun-2016    
+    company: Mediachain
+    classification: Infrastructure
+    roundsize: 1.50 
+    cumulative: 1.50    
+    round: Seed
+    investors: Andreessen Horowitz, Union Square Ventures, RRE Ventures, Digital Currency Group, LDV Capital, Alexis Ohanian, William Mougayar, Kanyi Maqubela, David Lee, Mathieu Drouin, Brian Message    
+    headquartered: New York 
+    country: United States      
+    region: US & Canada
+    img: mediachain.png
+    description: Mediachain is a blockchain data solution for connecting applications to media and information about it.
+    url: http://www.mediachain.io/
+-
+    date: 12-May-2016   
+    company: TechBureau
+    classification: Financial Services  
+    roundsize: 6.50 
+    cumulative: 6.50        
+    round: Series A 
+    investors: Arara, OKWAVE, Nippon Technology Venture Partners, Hiroshima Venture Capital, FISCO, Money Partners Group        
+    headquartered: Tokyo
+    country: Japan  
+    region: Asia
+    img: techbureau.png
+    description: 
+    url: 
+-
+    date: 10-May-2016   
+    company: Fluent
+    classification: Financial Services  
+    roundsize: 1.65     
+    cumulative: 2.50    
+    round: Seed
+    investors: ff Venture Capital, Crosscut Ventures, Digital Currency Group, Draper Associates, Fenbushi Capital, Lindbergh Tech Fund, St. Louis Arch Angels       
+    headquartered: New York 
+    country: United States      
+    region: US & Canada
+    img: fluent.png
+    description: 
+    url: 
+-
+    date: 29-Apr-2016   
+    company: Tierion    
+    classification: Infrastructure
+    roundsize: 1.00
+    cumulative: 1.00    
+    round: Seed
+    investors: Blockchain Capital, Fenbushi Capital, Digital Currency Group 
+    headquartered: Hartford
+    country: United States  
+    region: US & Canada
+    img: tierion.png
+    description: Tierion turns the blockchain into a global platform for verifying any data, file, or business process. 
+    url: https://tierion.com/
+-
+    date: 26-Apr-2016   
+    company: bitFlyer
+    classification: Exchange
+    roundsize: 27.00    
+    cumulative: 33.94   
+    round: Series C 
+    investors: Venture Labo Investment, SBI Investment  
+    headquartered: Tokyo
+    country: Japan  
+    region: Asia
+    img: bitflyer.png
+    description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
+    url: https://bitflyer.jp/
+-
+    date: 22-Apr-2016   
+    company: Ethcore
+    classification: Infrastructure
+    roundsize: 0.75 
+    cumulative: 0.75
+    round: Pre-Seed 
+    investors: Blockchain Capital, Fenbushi Capital 
+    headquartered: London
+    country: United Kingdom 
+    region: Europe
+    img: ethcore.png
+    description: 
+    url: 
+-
+    date: 22-Apr-2016   
+    company: Tibit
+    classification: Financial Services  
+    roundsize: 0.16 
+    cumulative: 0.16    
+    round: Seed
+    investors: Private
+    headquartered: London
+    country: United Kingdom 
+    region: Europe
+    img: tibit.png
+    description: Tibit aims to make it possible for anyone to get paid for their work with just a link.
+    url: https://tibit.com/
+-
+    date: 12-Apr-2016   
+    company: BitKan
+    classification: Financial Services  
+    roundsize: 1.60 
+    cumulative: 1.75    
+    round: Series A 
+    investors: Bitmain Technology   
+    headquartered: Shenzhen 
+    country: China
+    region: Asia
+    img: bitkan.png
+    description: BitKan provides the latest price for bitcoins and the mining difficulty charts and data. The bitkan app will keep you updated anytime anywhere.
+    url: https://bitkan.com/
+-
+    date: 8-Apr-2016    
+    company: Custos Media Technologies  
+    classification: Financial Services  
+    roundsize: 0.27 
+    cumulative: 0.27    
+    round: Seed
+    investors: Digital Currency Group, Innovus Technology Transfer, Undisclosed angel investor  
+    headquartered: Stellenbosch
+    country: South Africa   
+    region: Africa
+    img: custosmediatechnologies.png
+    description: Custos Media Technologies develops cutting edge digital content distribution solutions that allows content owners to distribute, manage, and protect sensitive media.
+    url: https://custostech.com/
+-
+    date: 4-Apr-2016    
+    company: Bitwala
+    classification: Financial Services  
+    roundsize: 0.91 
+    cumulative: 0.91    
+    round: Seed
+    investors: KfW Banking Group, Digital Currency Group    
+    headquartered:   
+    country: Netherlands    
+    region: Europe
+    img: bitwala.png
+    description: Send & receive money, load your VISA card and pay bills with bitcoin at the best rates, fastest speed and lowest cost.
+    url: https://www.bitwala.io/
+-
+    date: 31-Mar-2016   
+    company: Bitt
+    classification: Exchange
+    roundsize: 16.00
+    cumulative: 17.50   
+    round: Series A 
+    investors: Overstock
+    headquartered: Christ Church    
+    country: Barbados   
+    region: Latin America
+    img: bitt.png
+    description: The Bitt wallet provides a quick, secure and easy way to manage your funds, giving you freedom to do more with your money.
+    url: https://www.bitt.com/
+-
+    date: 30-Mar-2016   
+    company: Stratumn
+    classification: Financial Services  
+    roundsize: 0.70
+    cumulative: 0.70    
+    round: Seed
+    investors: Otium Venture, Eric Larchevêque  
+    headquartered: Paris
+    country: France
+    region: Europe
+    img: stratumn.png
+    description: Proof of Process Technology helps companies and organizations to trust the millions of processes that connect our world.
+    url: https://stratumn.com/
+-
+    date: 21-Mar-2016   
+    company: Rootstock
+    classification: Financial Services  
+    roundsize: 1.00 
+    cumulative: 1.00
+    round: Seed
+    investors: Bitmain Technology, Coinsilium, Digital Currency Group   
+    headquartered: Buenos Aires 
+    country: Argentina
+    region: South America
+    img: rootstock.png
+    description: RSK is the first open-source smart contract platform with a 2-way peg to Bitcoin that also rewards the Bitcoin miners via merge-mining, allowing them to actively participate in the Smart Contract revolution. 
+    url: http://www.rsk.co/
+-
+    date: 21-Mar-2016   
+    company: Elliptic   
+    classification: Wallet
+    roundsize: 5.00
+    cumulative: 7.00
+    round: Series A 
+    investors: Paladin Capital Group, Santander InnoVentures, KRW Schindler, Digital Currency Group, Octopus Ventures   
+    headquartered: London
+    country: United Kingdom 
+    region: Europe
+    img: elliptic.png
+    description: Elliptic identify illicit activity on the Bitcoin blockchain and provide actionable intelligence to financial institutions and law enforcement agencies.
+    url: https://www.elliptic.co/
+-
+    date: 9-Mar-2016    
+    company: Chronicled
+    classification: Infrastructure
+    roundsize: 3.42
+    cumulative: 3.42
+    round: Seed
+    investors: Mandra Capital, Pantera Capital, Colbeck Capital Management  
+    headquartered: San Francisco    
+    country: United States  
+    region: US & Canada
+    img: chronicled.png
+    description: Chronicled is an open approach that enables quick and seamless interactions with physical objects and locations.
+    url: https://www.chronicled.com/
+-
+    date: 2-Mar-2016    
+    company: Keza   
+    classification: Financial Services  
+    roundsize: 0.36 
+    cumulative: 0.36
+    round: Pre-Seed 
+    investors: Jason Calacanis, Digital Currency Group
+    headquartered: San Francisco    
+    country: United States  
+    region: US & Canada
+    img: keza.png
+    description: Keza is an app that enables you to invest in US and other international stock markets in the most convenient way.
+    url: https://getkeza.com/
+-
+    date: 26-Feb-2016   
+    company: Ribbit.me  
+    classification: Financial Services  
+    roundsize: 1.50 
+    cumulative: 1.50    
+    round: Seed 
+    investors: Hayaat Group 
+    headquartered: New York 
+    country: United States  
+    region: US & Canada
+    img: ribbitme.png
+    description: 
+    url: http://ribbit.me/
+-
+    date: 19-Feb-2016   
+    company: Chainalysis
+    classification: Financial Services  
+    roundsize: 1.60 
+    cumulative: 1.60
+    round: Seed
+    investors: Point Nine Capital, Techstars, Digital Currency Group, Funders Club, Converge VP 
+    headquartered: New York 
+    country: United States  
+    region: US & Canada
+    img: chainalysis.png
+    description: Chainalysis products are targeted at spotting connections between entities on the Bitcoin blockchain. Chainalysis help Bitcoin businesses detect fraud and prevent money laundering, they help banks put in place adequate controls to bank Bitcoin businesses.
+    url: https://www.chainalysis.com/
+-
+    date: 4-Feb-2016    
+    company: Simplex
+    classification: Financial Services  
+    roundsize: 7.00
+    cumulative: 8.40
+    round: Series A 
+    investors: Bitmain, Cumberland Mining, FundersClub, Undisclosed angel investors 
+    headquartered: Tel Aviv 
+    country: Israel
+    region: Middle East
+    img: simplex.png
+    description: Simplex provides Bitcoin exchanges, broker websites and wallet applications with a fully protected fraud-free platform for selling Bitcoins via credit card.
+    url: https://www.simplex.com/
+-
+    date: 4-Feb-2016    
+    company: SurBTC
+    classification: Exchange    
+    roundsize: 0.30 
+    cumulative: 0.40
+    round: Seed
+    investors: Digital Currency Group, Sauzalito Ventures, Fernando Barros  
+    headquartered: Santiago de Chile    
+    country: Chile
+    region: South America
+    img: surbtc.png
+    description: SurBTC buy and sell Bitcoins in Chili and Colombia.
+    url: https://www.surbtc.com/
+-
+    date: 3-Feb-2016    
+    company: Blockstream
+    classification: Infrastructure
+    roundsize: 55.00    
+    cumulative: 76.00   
+    round: Series A 
+    investors: AXA Strategic Ventures, Digital Garage, Horizons Ventures. AME Cloud Ventures, Blockchain Capital, Future\Perfect Ventures   
+    headquartered: San Francisco    
+    country: United States  
+    region: US & Canada
+    img: blockstream.png
+    description: Blockstream is the leading provider of blockchain technologies, on the forefront of work in cryptography and distributed systems. From fraud to counterfeiting, from security to confidentiality, from accountability to transparency, our mission is to solve problems that undermine trust in todays financial systems.
+    url: https://blockstream.com/
+-
     date: 1-Feb-2016
     company: Civic
     classification: Identity
@@ -24,237 +1018,10 @@
     country: USA
     region: North America
     img: 
-    description:  
+    description: Civic executive team brings excellence and industry expertise to our identity verification and identity theft protection service organization.
     url: https://www.civic.com
 -
-    date: 26-Apr-2016
-    company: bitFlyer
-    classification: Exchange
-    roundsize: 27.00
-    cumulative: 33.94
-    round: Series C
-    investors: Venture Labo Investment, SBI Investment
-    headquartered: Tokyo
-    country: Japan
-    region: Asia
-    img: bitflyer.png
-    description:  
-    url:
-
--
-    date: 22-Apr-2016
-    company: Ethcore
-    classification: Infrastructure
-    roundsize: 0.75
-    cumulative: 0.75
-    round: Pre-Seed
-    investors: Blockchain Capital, Fenbushi Capital
-    headquartered: London
-    country: United Kingdom
-    region: Europe
-    img: ethcore.png
-    description:  
-    url:
-
--
-    date: 22-Apr-2016
-    company: Tibit
-    classification: Financial Services
-    roundsize: 0.16
-    cumulative: 0.16
-    round: Seed
-    investors: Private
-    headquartered: London 
-    country: United Kingdom
-    region: Europe
-    img: tibit.png
-    description:  
-    url:
-
--
-    date: 12-Apr-2016
-    company: BitKan
-    classification: Financial Services
-    roundsize: 1.60
-    cumulative: 1.75
-    round: Series A
-    investors: Bitmain Technology
-    headquartered: Shenzhen
-    country: China
-    region: Asia
-    img: bitkan.png
-    description:  
-    url:
--
-    date: 8-Apr-2016
-    company: Custos Media Technologies
-    classification: Financial Services
-    roundsize: 0.27
-    cumulative: 0.27
-    round: Seed
-    investors: Digital Currency Group, Innovus Technology Transfer
-    headquartered: Stellenbosch
-    country: South Africa
-    region: Africa
-    img: custos.png
-    description:  
-    url:
--
-    date: 4-Apr-2016
-    company: Bitwala
-    classification: Financial Services
-    roundsize: 0.91
-    cumulative: 0.91
-    round: Seed
-    investors: KfW Banking Group, Digital Currency Group
-    headquartered: Berlin
-    country: Germany
-    region: Europe
-    img: bitwala.png
-    description:  
-    url: 
--
-    date: 31-Mar-2016
-    company: Bitt
-    classification: Exchange
-    roundsize: 16.0
-    cumulative: 17.5
-    round: Series A
-    investors: Overstock
-    headquartered: Christ Church
-    country: Barbados
-    region: Latin America
-    img: bitt.jpg
-    description:  
-    url: 
--
-    date: 30-Mar-2016
-    company: Stratumn
-    classification: Financial Services
-    roundsize: 0.70
-    cumulative: 0.70
-    round: Seed
-    investors: Otium Venture, Eric Larchevêque
-    headquartered: Paris
-    country: France
-    region: Europe
-    img: stratumn.png
-    description:  
-    url: 
--
-    date: 21-Mar-2016
-    company: Rootstock
-    classification: Financial Services
-    roundsize: 1.0
-    cumulative: 1.0
-    round: Seed
-    investors: Bitmain Technology, Coinsilium, Digital Currency Group
-    headquartered: Buenos Aires
-    country: Argentina
-    region: South America
-    img: rootstock.jpg
-    description:  
-    url: 
--
-    date: 21-Mar-2016
-    company: Elliptic
-    classification: Wallet
-    roundsize: 5.0
-    cumulative: 7.0
-    round: Series A
-    investors: Paladin Capital Group, Santander InnoVentures, KRW Schindler, Digital Currency Group, Octopus Ventures
-    headquartered: London
-    country: United Kingdom
-    region: Europe
-    img: elliptic.jpg
-    description:  
-    url: 
--
-    date: 9-Mar-2016
-    company: Chronicled
-    classification: Infrastructure
-    roundsize: 3.42
-    cumulative: 3.42
-    round: Seed
-    investors: Mandra Capital, Pantera Capital, Colbeck Capital Management
-    headquartered: San Francisco
-    country: United States
-    region: US & Canada
-    img: chronicled.jpg
-    description:  
-    url: 
--
-    date: 26-Feb-2016
-    company: Ribbit.me
-    classification: Financial Services
-    roundsize: 1.5
-    cumulative: 1.5
-    round: Seed
-    investors: Hayaat Group 
-    headquartered: New York
-    country: United States
-    region: US & Canada
-    img: ribbitme.png
-    description:  
-    url: 
--
-    date: 19-Feb-2016
-    company: Chainalysis
-    classification: Financial Services
-    roundsize: 1.6
-    cumulative: 1.6
-    round: Seed
-    investors: Point Nine Capital, Techstars, Digital Currency Group, Funders Club, Converge VP
-    headquartered: New York
-    country: United States
-    region: US & Canada
-    img: chainalysis.jpg
-    description:  
-    url: 
--
-    date: 4-Feb-16
-    company: SurBTC (Chile)
-    classification: Exchange
-    roundsize: 0.30
-    cumulative: 0.40
-    round: Series A
-    investors: Digital Currency Group, Sauzalito Ventures, Fernando Barros
-    headquartered: Santiago
-    country: Chile
-    region: South America
-    img: surbtc.png
-    description: SurBTC is Chile's largest Bitcoin exchange. 
-    url: 
--
-    date: 4-Feb-16
-    company: Simplex
-    classification: Financial Services
-    roundsize: 7.0
-    cumulative: 8.4
-    round: Series A
-    investors: Bitmain, Cumberland Mining, FundersClub
-    headquartered: Tel Aviv
-    country: Israel
-    region: Middle East
-    img: simplex.png
-    description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
-    url: 
--
-    date: 3-Feb-16
-    company: Blockstream
-    classification: Infrastructure
-    roundsize: 55.0
-    cumulative: 76.0
-    round: Series A
-    investors:  AXA Strategic Ventures, Digital Garage, Horizons Ventures, AME Cloud Ventures, Blockchain Capital, Future\Perfect Ventures
-    headquartered: San Francisco
-    country: United States
-    region: US & Canada
-    img: blockstream.png
-    description: Blockstream is building open source software and infrastructure for Bitcoin, including the lightning network and sidechains. Blockstream also employs a number of Bitcoin Core developers. 
-    url: 
--
-    date: 25-Jan-16
+    date: 25-Jan-2016
     company: SatoshiPay
     classification: Financial Services
     roundsize: 0.39
@@ -266,23 +1033,23 @@
     region: Europe
     img: satoshipay.png
     description: SatoshiPay is a Bitcoin micropayment service. 
-    url: 
+    url: https://satoshipay.io/
 -
-    date: 22-Jan-16
+    date: 22-Jan-2016
     company: Digital Asset Holdings
     classification: Financial Services
     roundsize: 50.0
     cumulative: 50.0
-    round: N/A
+    round: 
     investors: ABN AMRO, Accenture, ASX Limited, BNP Paribas, Broadridge Financial Solutions, Citi, CME Ventures, Deutsche Börse Group, ICAP, J.P. Morgan, Santander InnoVentures, The Depository Trust & Clearing Corporation (DTCC), and The PNC Financial Services Group Inc.
     headquartered: New York
     country: United States
     region: US & Canada
-    img: digitalasset.png
+    img: digitalassetholdings.png
     description: Blockchain technology company founded by Blythe Masters, a former executive at JPMorgan Chase.
-    url: 
+    url: https://digitalasset.com/
 -
-    date: 6-Jan-16
+    date: 6-Jan-2016
     company: Gem
     classification: Financial services
     roundsize: 7.10
@@ -294,9 +1061,9 @@
     region: US & Canada
     img: gem.png
     description: Gem is a blockchain API service, aiming to bring blockchain technology and smart contracts into the mainstream. 
-    url: 
+    url: https://gem.co/
 -
-    date: 6-Jan-16
+    date: 6-Jan-2016
     company: Zebpay
     classification: Wallet
     roundsize: 1.0
@@ -308,9 +1075,9 @@
     region: Asia
     img: zebpay.png
     description: Zebpay is an online Bitcoin wallet. It provides buy and sell brokerage services in India. 
-    url: 
+    url: https://www.zebpay.com/
 -
-    date: 24-Dec-15
+    date: 24-Dec-2015
     company: Streami
     classification: Financial Services
     roundsize: 2.00
@@ -322,14 +1089,14 @@
     region: Asia
     img: streami.png
     description: 
-    url: 
+    url: https://streami.co/
 -
-    date: 22-Dec-15
+    date: 22-Dec-2015
     company: BTCS
     classification: Mining
     roundsize: 1.45
     cumulative: 3.75
-    round: N/A
+    round: 
     investors: Cavalry Fund I LP
     headquartered: Virginia
     country: United States
@@ -338,7 +1105,7 @@
     description:  BTCS Inc. operates a beta ecommerce marketplace. It hosts an online ecommerce marketplace where consumers could purchase merchandise using digital currencies, such as bitcoin, <a href="/what-is-litecoin/">litecoin</a>, and <a href="/what-is-dogecoin/">dogecoin</a>. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. is headquartered in Arlington, Virginia.
     url: 
 -
-    date: 7-Dec-15
+    date: 7-Dec-2015
     company: Purse.io
     classification: Payment processor
     roundsize: 1
@@ -352,7 +1119,7 @@
     description: Purse raised $1 million for its secret project "Tritium".  
     url: 
 -
-    date: 19-Nov-15
+    date: 19-Nov-2015
     company: Bitwage
     classification: Financial Services
     roundsize: 0.76
@@ -363,10 +1130,10 @@
     country: United States
     region: US & Canada
     img: bitwage.png
-    description: 
-    url: 
+    description: Bitwage create solutions for remote workers looking for work and to optimally receive their wages. Bitwage offer unique jobs, flexible distributions, reduced payroll costs and increased fulfillment speeds.
+    url: https://www.bitwage.com/
 -
-    date: 17-Nov-15
+    date: 17-Nov-2015
     company: Align Commerce
     classification: Financial Services
     roundsize: 12.5
@@ -380,7 +1147,7 @@
     description: 
     url: 
 -
-    date: 6-Nov-15
+    date: 6-Nov-2015
     company: Zapchain
     classification: Payment processor
     roundsize: 0.35
@@ -394,7 +1161,7 @@
     description: 
     url: 
 -
-    date: 14-Oct-15
+    date: 14-Oct-2015
     company: Factom
     classification: Infrastructure
     roundsize: 0.4
@@ -408,7 +1175,7 @@
     description: 
     url: 
 -
-    date: 12-Oct-15
+    date: 12-Oct-2015
     company: ScoreChain
     classification: Financial Services
     roundsize: 0.57
@@ -419,10 +1186,10 @@
     country: Luxembourg
     region: Europe
     img: scorechain.jpg
-    description: 
-    url: 
+    description: Scorechain is a Luxembourgish company started in 2015 and providing Bitcoin and Blockchain services to the Bitcoin stakeholders.
+    url: https://www.scorechain.com/
 -
-    date: 6-Oct-15
+    date: 6-Oct-2015
     company: Orb
     classification: Financial Services
     roundsize: 2.3
@@ -436,7 +1203,7 @@
     description: 
     url: 
 -
-    date: 2-Oct-15
+    date: 2-Oct-2015
     company: Coinplug
     classification: Universal
     roundsize: 5
@@ -447,10 +1214,10 @@
     country: South Korea
     region: Asia
     img: coinplug.png
-    description: 
-    url: 
+    description: Coinplug provides various Bitcoin exchange platforms such as a Bitcoin exchange marketplace, electronic wallet service, and online POS Point-of-Sales service. 
+    url: https://www.coinplug.com/
 -
-    date: 29-Sep-15
+    date: 29-Sep-2015
     company: Safe Cash Payment Technologies
     classification: Financial Services
     roundsize: 1.12
@@ -461,10 +1228,10 @@
     country: United States
     region: US & Canada
     img: safecash.png
-    description: 
-    url: 
+    description: Safe Cash is a state-of-the-art digital payment technology that is available to banks, merchants and consumers, worldwide.
+    url: https://safe.cash/
 -
-    date: 17-Sep-15
+    date: 17-Sep-2015
     company: Pey
     classification: Infrastructure
     roundsize: 0.34
@@ -478,7 +1245,7 @@
     description: 
     url: 
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Coinalytics
     classification: Financial Services
     roundsize: 1.1
@@ -489,10 +1256,10 @@
     country: United States
     region: US & Canada
     img: coinalytics.png
-    description: 
+    description: Coinalytics is a venture-backed startup based in Palo Alto pursuing the mission of providing real-time intelligence for decentralized blockchain platforms.
     url: 
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Abra
     classification: Financial Services
     roundsize: 12
@@ -503,24 +1270,24 @@
     country: United States
     region: US & Canada
     img: abra.png
-    description: 
-    url: 
+    description: Abra is making cash mobile. Send money to any smartphone instantly, privately, and securely, with or without a bank account.
+    url: https://www.goabra.com/
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Case
     classification: Wallet
     roundsize: 1
     cumulative: 2.25
     round: Seed
-    investors: Future\Perfect Ventures
+    investors: Future Perfect Ventures
     headquartered: New York
     country: United States
     region: US & Canada
     img: case.png
-    description: 
-    url: 
+    description: Case is the worlds most secure and easy-to-use bitcoin wallet.
+    url: https://choosecase.com/
 -
-    date: 9-Sep-15
+    date: 9-Sep-2015
     company: Chain
     classification: Infrastructure
     roundsize: 30
@@ -531,10 +1298,10 @@
     country: United States
     region: US& Canada
     img: chain.png
-    description: 
-    url: 
+    description: Chain Core is enterprise-grade blockchain infrastructure that enables organizations to build better financial services from the ground up.
+    url: https://chain.com/
 -
-    date: 8-Sep-15
+    date: 8-Sep-2015
     company: ShapeShift
     classification: Exchange
     roundsize: 1.6
@@ -545,10 +1312,10 @@
     country: Switzerland
     region: Europe
     img: shapeshift.png
-    description: 
-    url: 
+    description: Trade any leading blockchain asset for any other. Protection by design. No account needed.
+    url: https://shapeshift.io/
 -
-    date: 2-Sep-15
+    date: 2-Sep-2015
     company: Paymium
     classification: Payment Processor
     roundsize: 1.12
@@ -559,10 +1326,10 @@
     country: France
     region: Europe
     img: paymium.jpg
-    description: 
-    url: 
+    description: Paymium is the first European Bitcoin marketplace compliant with EU regulations on payment services.
+    url: https://www.paymium.com/
 -
-    date: 18-Aug-15
+    date: 18-Aug-2015
     company: Filament
     classification: Infrastructure
     roundsize: 5
@@ -573,10 +1340,10 @@
     country: United States
     region: US & Canada
     img: filament.png
-    description: 
-    url: 
+    description: Filament lets you build a connected business without becoming an expert on security, scalability, or network stacks.
+    url: https://filament.com/
 -
-    date: 12-Aug-15
+    date: 12-Aug-2015
     company: BitFlyer
     classification: Exchange
     roundsize: 4
@@ -587,10 +1354,10 @@
     country: Japan
     region: Asia
     img: bitflyer.png
-    description: 
-    url: 
+    description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
+    url: https://bitflyer.jp/
 -
-    date: 23-Jul-15
+    date: 23-Jul-2015
     company: Challenger Deep (Kaiko)
     classification: Infrastructure
     roundsize: 1.86
@@ -604,7 +1371,7 @@
     description: 
     url: 
 -
-    date: 21-Jul-15
+    date: 21-Jul-2015
     company: BitX
     classification: Universal
     roundsize: 4
@@ -618,7 +1385,7 @@
     description: 
     url: 
 -
-    date: 17-Jul-15
+    date: 17-Jul-2015
     company: ShoCard
     classification: Infrastructure
     roundsize: 1.5
@@ -632,7 +1399,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-15
+    date: 16-Jul-2015
     company: TabTrader
     classification: Financial Services
     roundsize: 0.1
@@ -646,7 +1413,7 @@
     description: 
     url: 
 -
-    date: 9-Jul-15
+    date: 9-Jul-2015
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -656,11 +1423,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 24-Jun-15
+    date: 24-Jun-2015
     company: Ascribe
     classification: Financial Services
     roundsize: 2
@@ -674,7 +1441,7 @@
     description: 
     url: 
 -
-    date: 24-Jun-15
+    date: 24-Jun-2015
     company: Vogogo
     classification: Payment Processor
     roundsize: 12.5
@@ -688,7 +1455,7 @@
     description: 
     url: 
 -
-    date: 18-Jun-15
+    date: 18-Jun-2015
     company: Case
     classification: Wallet
     roundsize: 1.25
@@ -702,7 +1469,7 @@
     description: 
     url: 
 -
-    date: 16-Jun-15
+    date: 16-Jun-2015
     company: Reveal
     classification: Financial Services
     roundsize: 1.5
@@ -716,7 +1483,7 @@
     description: 
     url: 
 -
-    date: 11-Jun-15
+    date: 11-Jun-2015
     company: OpenBazaar
     classification: Financial Services
     roundsize: 1
@@ -730,7 +1497,7 @@
     description: 
     url: 
 -
-    date: 9-Jun-15
+    date: 9-Jun-2015
     company: Symbiont
     classification: Financial Services
     roundsize: 1.25
@@ -744,7 +1511,7 @@
     description: 
     url: 
 -
-    date: 3-Jun-15
+    date: 3-Jun-2015
     company: Mirror
     classification: Financial Services
     roundsize: 8.8
@@ -758,7 +1525,7 @@
     description: 
     url: 
 -
-    date: 20-May-15
+    date: 20-May-2015
     company: Bitbond
     classification: Financial Services
     roundsize: 0.67
@@ -769,10 +1536,10 @@
     country: Germany
     region: Europe
     img: bitbond.png
-    description: 
+    description: Bitbond is the first global marketplace lending platform for small business loans. 
     url: 
 -
-    date: 19-May-15
+    date: 19-May-2015
     company: Ripple Labs
     classification: Financial services
     roundsize: 32
@@ -786,7 +1553,7 @@
     description: 
     url: 
 -
-    date: 7-May-15
+    date: 7-May-2015
     company: itBit
     classification: Exchange
     roundsize: 25
@@ -800,7 +1567,7 @@
     description: 
     url: 
 -
-    date: 7-May-15
+    date: 7-May-2015
     company: Cryex
     classification: Exchange
     roundsize: 10
@@ -814,7 +1581,7 @@
     description: 
     url: 
 -
-    date: 6-May-15
+    date: 6-May-2015
     company: Satoshi Citadel Industries Inc.
     classification: Universal
     roundsize: 0.1
@@ -828,7 +1595,7 @@
     description: 
     url: 
 -
-    date: 30-Apr-15
+    date: 30-Apr-2015
     company: Hedgy
     classification: Financial services
     roundsize: 1.2
@@ -842,7 +1609,7 @@
     description: 
     url: 
 -
-    date: 30-Apr-15
+    date: 30-Apr-2015
     company: Circle Internet Financial
     classification: Universal
     roundsize: 50
@@ -856,7 +1623,7 @@
     description: 
     url: 
 -
-    date: 2-Apr-15
+    date: 2-Apr-2015
     company: Gem
     classification: Financial services
     roundsize: 1.3
@@ -870,7 +1637,7 @@
     description: 
     url: 
 -
-    date: 31-Mar-15
+    date: 31-Mar-2015
     company: PeerNova
     classification: Infrastructure
     roundsize: 5
@@ -884,7 +1651,7 @@
     description: 
     url: 
 -
-    date: 30-Mar-15
+    date: 30-Mar-2015
     company: Bitt
     classification: Exchange
     roundsize: 1.5
@@ -898,7 +1665,7 @@
     description: 
     url: 
 -
-    date: 20-Mar-15
+    date: 20-Mar-2015
     company: TabTrader
     classification: Financial services
     roundsize: 0.07
@@ -912,7 +1679,7 @@
     description: 
     url: 
 -
-    date: 19-Mar-15
+    date: 19-Mar-2015
     company: Coinigy
     classification: Exchange
     roundsize: 0.1
@@ -926,7 +1693,7 @@
     description: 
     url: 
 -
-    date: 10-Mar-15
+    date: 10-Mar-2015
     company: 21 Inc (21e6)
     classification: Universal
     roundsize: 116
@@ -940,7 +1707,7 @@
     description: 
     url: 
 -
-    date: 10-Mar-15
+    date: 10-Mar-2015
     company: ShapeShift
     classification: Exchange
     roundsize: 0.53
@@ -951,10 +1718,10 @@
     country: Switzerland
     region: Europe
     img: shapeshift.png
-    description: 
-    url: 
+    description: Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.
+    url: https://shapeshift.io/
 -
-    date: 1-Mar-15
+    date: 1-Mar-2015
     company: Simplex
     classification: Financial Services
     roundsize: 0.4
@@ -968,7 +1735,7 @@
     description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url: 
 -
-    date: 19-Feb-15
+    date: 19-Feb-2015
     company: Ledger
     classification: Wallet
     roundsize: 1.5
@@ -979,10 +1746,10 @@
     country: France
     region: Europe
     img: ledger.png
-    description: 
+    description: Security solutions for cryptocurrencies and blockchains.
     url: 
 -
-    date: 9-Feb-15
+    date: 9-Feb-2015
     company: BitPesa
     classification: Payment Processor
     roundsize: 1.1
@@ -996,7 +1763,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-15
+    date: 4-Feb-2015
     company: HashRabbit
     classification: Infrastructure
     roundsize: 0.5
@@ -1010,7 +1777,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: KnCMiner
     classification: Mining
     roundsize: 15
@@ -1024,7 +1791,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: NeuCoin
     classification: Financial Services
     roundsize: 1.25
@@ -1038,7 +1805,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: Ziftr
     classification: Financial Services
     roundsize: 0.85
@@ -1052,7 +1819,7 @@
     description: 
     url: 
 -
-    date: 2-Feb-15
+    date: 2-Feb-2015
     company: Bonafide (Bonifide.io)
     classification: Financial Services
     roundsize: 0.85
@@ -1066,7 +1833,7 @@
     description: 
     url: 
 -
-    date: 28-Jan-15
+    date: 28-Jan-2015
     company: BitFlyer
     classification: Exchange
     roundsize: 1.1
@@ -1077,10 +1844,10 @@
     country: Japan
     region: Asia
     img: bitflyer.png
-    description: 
-    url: 
+    description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
+    url: https://bitflyer.jp/
 -
-    date: 27-Jan-15
+    date: 27-Jan-2015
     company: Colu
     classification: Infrastructure
     roundsize: 2.5
@@ -1094,7 +1861,7 @@
     description: 
     url: 
 -
-    date: 21-Jan-15
+    date: 21-Jan-2015
     company: Anycoin Direct
     classification: Exchange
     roundsize: 0.56
@@ -1108,7 +1875,7 @@
     description: 
     url: 
 -
-    date: 20-Jan-15
+    date: 20-Jan-2015
     company: Coinbase
     classification: Universal
     roundsize: 75
@@ -1118,11 +1885,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: coinbase-logo.png
+    img: coinbase.png
     description: Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
     url: /coinbase-review/
 -
-    date: 20-Jan-15
+    date: 20-Jan-2015
     company: Trustatom
     classification: Financial Services
     roundsize: 0.1
@@ -1136,7 +1903,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-15
+    date: 15-Jan-2015
     company: Ciphrex
     classification: Wallet
     roundsize: 0.5
@@ -1150,7 +1917,7 @@
     description: 
     url: 
 -
-    date: 14-Jan-15
+    date: 14-Jan-2015
     company: BlockCypher
     classification: Infrastructure
     roundsize: 3.1
@@ -1164,7 +1931,7 @@
     description: 
     url: 
 -
-    date: 12-Jan-15
+    date: 12-Jan-2015
     company: Airbitz
     classification: Infrastructure
     roundsize: 0.03
@@ -1178,7 +1945,7 @@
     description: 
     url: https://airbitz.co/af/9TZ
 -
-    date: 7-Jan-15
+    date: 7-Jan-2015
     company: LibertyX
     classification: Financial Services
     roundsize: 0.4
@@ -1192,7 +1959,7 @@
     description: 
     url: 
 -
-    date: 5-Jan-15
+    date: 5-Jan-2015
     company: GetGems
     classification: Financial Services
     roundsize: 0.4
@@ -1206,7 +1973,7 @@
     description: 
     url: 
 -
-    date: 1-Jan-15
+    date: 1-Jan-2015
     company: CoinOutlet
     classification: Financial Services
     roundsize: 0.1
@@ -1220,7 +1987,7 @@
     description: 
     url: 
 -
-    date: 30-Dec-14
+    date: 30-Dec-2014
     company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 9.6
@@ -1234,7 +2001,7 @@
     description: 
     url: 
 -
-    date: 24-Dec-14
+    date: 24-Dec-2014
     company: BitGold
     classification: Financial Services
     roundsize: 3.5
@@ -1248,7 +2015,7 @@
     description: 
     url: 
 -
-    date: 17-Dec-14
+    date: 17-Dec-2014
     company: PeerNova
     classification: Mining
     roundsize: 8.6
@@ -1262,7 +2029,7 @@
     description: 
     url: 
 -
-    date: 5-Dec-14
+    date: 5-Dec-2014
     company: BitGold
     classification: Financial Services
     roundsize: 0.8
@@ -1276,7 +2043,7 @@
     description: 
     url: 
 -
-    date: 2-Dec-14
+    date: 2-Dec-2014
     company: ChangeTip
     classification: Financial Services
     roundsize: 3.5
@@ -1290,7 +2057,7 @@
     description: 
     url: 
 -
-    date: 2-Dec-14
+    date: 2-Dec-2014
     company: DigiByte_
     classification: Financial Services
     roundsize: 0.25
@@ -1304,7 +2071,7 @@
     description: 
     url: 
 -
-    date: 1-Dec-14
+    date: 1-Dec-2014
     company: GetGems
     classification: Financial Services
     roundsize: 0.6
@@ -1318,7 +2085,7 @@
     description: 
     url: 
 -
-    date: 27-Nov-14
+    date: 27-Nov-2014
     company: Purse.io
     classification: Financial Services
     roundsize: 0.3
@@ -1332,7 +2099,7 @@
     description: 
     url: 
 -
-    date: 17-Nov-14
+    date: 17-Nov-2014
     company: Blockstream
     classification: Infrastructure
     roundsize: 21
@@ -1346,7 +2113,7 @@
     description: 
     url: 
 -
-    date: 16-Nov-14
+    date: 16-Nov-2014
     company: OneName
     classification: Financial Services
     roundsize: 1.5
@@ -1360,7 +2127,7 @@
     description: 
     url: 
 -
-    date: 5-Nov-14
+    date: 5-Nov-2014
     company: Dogetipbot
     classification: Financial Services
     roundsize: 0.45
@@ -1374,7 +2141,7 @@
     description: 
     url: 
 -
-    date: 1-Nov-14
+    date: 1-Nov-2014
     company: CoinOutlet
     classification: Financial Services
     roundsize: 0.05
@@ -1388,7 +2155,7 @@
     description: 
     url: 
 -
-    date: 24-Oct-14
+    date: 24-Oct-2014
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 5
@@ -1402,7 +2169,7 @@
     description: 
     url: 
 -
-    date: 24-Oct-14
+    date: 24-Oct-2014
     company: BitLendingClub
     classification: Financial Services
     roundsize: 0.25
@@ -1416,7 +2183,7 @@
     description: 
     url: 
 -
-    date: 20-Oct-14
+    date: 20-Oct-2014
     company: Bitnet
     classification: Payment Processor
     roundsize: 14.5
@@ -1430,7 +2197,7 @@
     description: 
     url: 
 -
-    date: 17-Oct-14
+    date: 17-Oct-2014
     company: AlphaPoint
     classification: Financial Services
     roundsize: 1.35
@@ -1444,7 +2211,7 @@
     description: 
     url: 
 -
-    date: 16-Oct-14
+    date: 16-Oct-2014
     company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 1.4
@@ -1458,7 +2225,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: BitFlyer
     classification: Exchange
     roundsize: 0.24
@@ -1469,10 +2236,10 @@
     country: Japan
     region: Asia
     img: bitflyer.png
-    description: 
-    url: 
+    description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
+    url: https://bitflyer.jp/
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Libra
     classification: Financial Services
     roundsize: 0.5
@@ -1486,7 +2253,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Melotic
     classification: Exchange
     roundsize: 1.18
@@ -1500,7 +2267,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Swarm
     classification: Financial Services
     roundsize: 0.12
@@ -1514,7 +2281,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-14
+    date: 9-Oct-2014
     company: Devign Lab
     classification: Universal
     roundsize: 0.2
@@ -1528,7 +2295,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-14
+    date: 9-Oct-2014
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -1538,11 +2305,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 8-Oct-14
+    date: 8-Oct-2014
     company: Coinplug
     classification: Universal
     roundsize: 2.5
@@ -1556,12 +2323,12 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: Ciphrex
     classification: Wallet
     roundsize: 0.3
     cumulative: 0.3
-    round: N/A
+    round: 
     investors: Undisclosed
     headquartered: San Diego
     country: United States
@@ -1570,7 +2337,7 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: Blockchain
     classification: Wallet
     roundsize: 30.5
@@ -1584,7 +2351,7 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: SolidX
     classification: Financial Services
     roundsize: 3
@@ -1598,7 +2365,7 @@
     description: 
     url: 
 -
-    date: 6-Oct-14
+    date: 6-Oct-2014
     company: SNAPCARD
     classification: Payment Processor
     roundsize: 1.5
@@ -1612,12 +2379,12 @@
     description: 
     url: 
 -
-    date: 1-Oct-14
+    date: 1-Oct-2014
     company: HashRabbit
     classification: Infrastructure
     roundsize: 0.2
     cumulative: 0.2
-    round: N/A
+    round: 
     investors: _VegasTechFund
     headquartered: San Francisco
     country: United States
@@ -1626,10 +2393,10 @@
     description: 
     url: 
 -
-    date: 1-Oct-14
+    date: 1-Oct-2014
     company: Bonafide (Bonifide.io)
     classification: Financial Services
-    roundsize: N/A
+    roundsize: 
     cumulative: 0.1
     round: Seed
     investors: Quest Venture Partners
@@ -1640,7 +2407,7 @@
     description: 
     url: 
 -
-    date: 30-Sep-14
+    date: 30-Sep-2014
     company: Coinapult
     classification: Wallet
     roundsize: 0.78
@@ -1654,7 +2421,7 @@
     description: 
     url: 
 -
-    date: 25-Sep-14
+    date: 25-Sep-2014
     company: Coinify
     classification: Universal
     roundsize: 0.34
@@ -1668,7 +2435,7 @@
     description: 
     url: 
 -
-    date: 18-Sep-14
+    date: 18-Sep-2014
     company: CoinPlus
     classification: Payment Processor
     roundsize: 0.22
@@ -1682,7 +2449,7 @@
     description: 
     url: 
 -
-    date: 17-Sep-14
+    date: 17-Sep-2014
     company: Koinify
     classification: Financial Services
     roundsize: 1
@@ -1696,7 +2463,7 @@
     description: 
     url: 
 -
-    date: 17-Sep-14
+    date: 17-Sep-2014
     company: Gem
     classification: Financial Services
     roundsize: 2
@@ -1710,12 +2477,12 @@
     description: 
     url: 
 -
-    date: 4-Sep-14
+    date: 4-Sep-2014
     company: BitGo
     classification: Infrastructure
-    roundsize: N/A
+    roundsize: 
     cumulative: 14
-    round: N/A
+    round: 
     investors: BitFury Capital
     headquartered: San Francisco
     country: United States
@@ -1724,7 +2491,7 @@
     description: 
     url: 
 -
-    date: 4-Sep-14
+    date: 4-Sep-2014
     company: KnCMiner
     classification: Mining
     roundsize: 14
@@ -1738,7 +2505,7 @@
     description: 
     url: 
 -
-    date: 25-Aug-14
+    date: 25-Aug-2014
     company: Korbit
     classification: Universal
     roundsize: 3
@@ -1752,7 +2519,7 @@
     description: 
     url: 
 -
-    date: 20-Aug-14
+    date: 20-Aug-2014
     company: Chain
     classification: Infrastructure
     roundsize: 9.5
@@ -1766,7 +2533,7 @@
     description: 
     url: 
 -
-    date: 20-Aug-14
+    date: 20-Aug-2014
     company: Chain
     classification: Infrastructure
     roundsize: 4.2
@@ -1780,7 +2547,7 @@
     description: 
     url: 
 -
-    date: 19-Aug-14
+    date: 19-Aug-2014
     company: BitX
     classification: Universal
     roundsize: 0.82
@@ -1794,7 +2561,7 @@
     description: 
     url: 
 -
-    date: 18-Aug-14
+    date: 18-Aug-2014
     company: BlockTrail
     classification: Infrastructure
     roundsize: 0.65
@@ -1808,7 +2575,7 @@
     description: 
     url: 
 -
-    date: 13-Aug-14
+    date: 13-Aug-2014
     company: Bitbond
     classification: Financial Services
     roundsize: 0.27
@@ -1819,10 +2586,10 @@
     country: Germany
     region: Europe
     img: bitbond.png
-    description: 
+    description: Bitbond is the first global marketplace lending platform for small business loans. 
     url: 
 -
-    date: 11-Aug-14
+    date: 11-Aug-2014
     company: Unocoin
     classification: Universal
     roundsize: 0.25
@@ -1836,7 +2603,7 @@
     description: 
     url: 
 -
-    date: 5-Aug-14
+    date: 5-Aug-2014
     company: Vogogo
     classification: Payment Processor
     roundsize: 8.5
@@ -1850,7 +2617,7 @@
     description: 
     url: 
 -
-    date: 23-Jul-14
+    date: 23-Jul-2014
     company: Volabit
     classification: Exchange
     roundsize: 0.75
@@ -1864,7 +2631,7 @@
     description: 
     url: 
 -
-    date: 22-Jul-14
+    date: 22-Jul-2014
     company: BitFlyer
     classification: Exchange
     roundsize: 1.6
@@ -1875,10 +2642,10 @@
     country: Japan
     region: Asia
     img: bitflyer.png
-    description: 
-    url: 
+    description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
+    url: https://bitflyer.jp/
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: OneName
     classification: Financial Services
     roundsize: 0.12
@@ -1892,7 +2659,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: Elliptic
     classification: Wallet
     roundsize: 2
@@ -1906,7 +2673,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: TradeBlock
     classification: Financial Services
     roundsize: 2.8
@@ -1920,7 +2687,7 @@
     description: 
     url: 
 -
-    date: 14-Jul-14
+    date: 14-Jul-2014
     company: BitGold
     classification: Financial Services
     roundsize: 1
@@ -1934,7 +2701,7 @@
     description: 
     url: 
 -
-    date: 10-Jul-14
+    date: 10-Jul-2014
     company: Safello
     classification: Exchange
     roundsize: 0.25
@@ -1948,7 +2715,7 @@
     description: 
     url: 
 -
-    date: 8-Jul-14
+    date: 8-Jul-2014
     company: Xapo
     classification: Wallet
     roundsize: 20
@@ -1962,7 +2729,7 @@
     description: 
     url: 
 -
-    date: 1-Jul-14
+    date: 1-Jul-2014
     company: Expresscoin
     classification: Financial Services
     roundsize: 0.15
@@ -1976,7 +2743,7 @@
     description: 
     url: 
 -
-    date: 26-Jun-14
+    date: 26-Jun-2014
     company: BlockScore
     classification: Financial Services
     roundsize: 2
@@ -1990,7 +2757,7 @@
     description: 
     url: 
 -
-    date: 17-Jun-14
+    date: 17-Jun-2014
     company: BitPagos
     classification: Payment Processor
     roundsize: 0.6
@@ -2002,9 +2769,9 @@
     region: US & Canada
     img: bitpagos.png
     description: 
-    url: 
+    url: https://www.bitpagos.com/en/
 -
-    date: 16-Jun-14
+    date: 16-Jun-2014
     company: BitGo
     classification: Infrastructure
     roundsize: 12
@@ -2018,7 +2785,7 @@
     description: 
     url: 
 -
-    date: 12-Jun-14
+    date: 12-Jun-2014
     company: HashPlex
     classification: Mining
     roundsize: 0.4
@@ -2032,12 +2799,12 @@
     description: 
     url: 
 -
-    date: 6-Jun-14
+    date: 6-Jun-2014
     company: Coinfloor
     classification: Exchange
     roundsize: 0.2
     cumulative: 0.3
-    round: N/A
+    round: 
     investors: Passion Capital, Taavet Hinrikus, Adam Knight
     headquartered: London
     country: United Kingdom
@@ -2046,7 +2813,7 @@
     description: 
     url: 
 -
-    date: 1-Jun-14
+    date: 1-Jun-2014
     company: BlockScore
     classification: Financial Services
     roundsize: 0.03
@@ -2060,7 +2827,7 @@
     description: 
     url: 
 -
-    date: 30-May-14
+    date: 30-May-2014
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -2070,11 +2837,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 30-May-14
+    date: 30-May-2014
     company: Bitex.la
     classification: Exchange
     roundsize: 2
@@ -2088,7 +2855,7 @@
     description: 
     url: 
 -
-    date: 28-May-14
+    date: 28-May-2014
     company: Simplex
     classification: Financial Services
     roundsize: 1.0
@@ -2102,7 +2869,7 @@
     description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url:
 -
-    date: 27-May-14
+    date: 27-May-2014
     company: Huobi
     classification: Exchange
     roundsize: 10
@@ -2116,7 +2883,7 @@
     description: 
     url: 
 -
-    date: 13-May-14
+    date: 13-May-2014
     company: BitPay
     classification: Payment Processor
     roundsize: 30
@@ -2130,7 +2897,7 @@
     description: 
     url: 
 -
-    date: 7-May-14
+    date: 7-May-2014
     company: Mirror
     classification: Financial Services
     roundsize: 4
@@ -2144,7 +2911,7 @@
     description: 
     url: 
 -
-    date: 7-May-14
+    date: 7-May-2014
     company: Vaurum (Mirror)
     classification: Financial Services
     roundsize: 4
@@ -2158,7 +2925,7 @@
     description: 
     url: 
 -
-    date: 5-May-14
+    date: 5-May-2014
     company: ChangeTip
     classification: Financial Services
     roundsize: 0.75
@@ -2172,7 +2939,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.1
@@ -2186,7 +2953,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Bonafide (Bonifide.io)
     classification: Financial Services
     roundsize: 0.1
@@ -2200,7 +2967,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Coinalytics
     classification: Financial Services
     roundsize: 0.1
@@ -2214,7 +2981,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Neuroware
     classification: Wallet
     roundsize: 0.1
@@ -2228,7 +2995,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Monetsu
     classification: Payment Processor
     roundsize: 0.1
@@ -2242,11 +3009,11 @@
     description: 
     url: 
 -
-    date: 4-Apr-14
+    date: 4-Apr-2014
     company: ChangeTip
     classification: Financial Services
-    roundsize: N/A
-    cumulative: N/A
+    roundsize: 
+    cumulative: 
     round: Seed
     investors: BOLDstart Ventures
     headquartered: San Francisco
@@ -2256,7 +3023,7 @@
     description: 
     url: 
 -
-    date: 3-Apr-14
+    date: 3-Apr-2014
     company: Coinplug
     classification: Universal
     roundsize: 0.4
@@ -2270,7 +3037,7 @@
     description: 
     url: 
 -
-    date: 2-Apr-14
+    date: 2-Apr-2014
     company: PayStand
     classification: Payment Processor
     roundsize: 1
@@ -2284,7 +3051,7 @@
     description: 
     url: 
 -
-    date: 1-Apr-14
+    date: 1-Apr-2014
     company: BTC.sx (Magnr)
     classification: Financial Services
     roundsize: 0.3
@@ -2298,7 +3065,7 @@
     description: 
     url: 
 -
-    date: 31-Mar-14
+    date: 31-Mar-2014
     company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 5
@@ -2312,7 +3079,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: GoCoin
     classification: Payment Processor
     roundsize: 1.5
@@ -2326,7 +3093,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: Circle Internet Financial
     classification: Universal
     roundsize: 17
@@ -2340,7 +3107,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: Hive
     classification: Wallet
     roundsize: 0.19
@@ -2354,7 +3121,7 @@
     description: 
     url: 
 -
-    date: 25-Mar-14
+    date: 25-Mar-2014
     company: Payward, Inc. (Kraken)
     classification: Exchange
     roundsize: 5
@@ -2368,7 +3135,7 @@
     description: 
     url: 
 -
-    date: 25-Mar-14
+    date: 25-Mar-2014
     company: Koinify
     classification: Financial Services
     roundsize: 0.45
@@ -2382,7 +3149,7 @@
     description: 
     url: 
 -
-    date: 18-Mar-14
+    date: 18-Mar-2014
     company: Exchange of the Americas (meXBT)
     classification: Exchange
     roundsize: 0.34
@@ -2396,7 +3163,7 @@
     description: 
     url: 
 -
-    date: 16-Mar-14
+    date: 16-Mar-2014
     company: OKCoin
     classification: Exchange
     roundsize: 10
@@ -2410,7 +3177,7 @@
     description: 
     url: 
 -
-    date: 13-Mar-14
+    date: 13-Mar-2014
     company: Xapo
     classification: Wallet
     roundsize: 20
@@ -2424,7 +3191,7 @@
     description: 
     url: 
 -
-    date: 12-Mar-14
+    date: 12-Mar-2014
     company: Tembusu
     classification: Financial Services
     roundsize: 0.24
@@ -2438,7 +3205,7 @@
     description: 
     url: 
 -
-    date: 7-Mar-14
+    date: 7-Mar-2014
     company: CoinSimple
     classification: Payment Processor
     roundsize: 0.18
@@ -2452,11 +3219,11 @@
     description: 
     url: 
 -
-    date: 1-Mar-14
+    date: 1-Mar-2014
     company: Expresscoin
     classification: Financial Services
-    roundsize: N/A
-    cumulative: N/A
+    roundsize: 
+    cumulative: 
     round: Seed
     investors: Crypto Currency Partners, Demarest
     headquartered: Santa Monica
@@ -2466,7 +3233,7 @@
     description: 
     url:  
 -
-    date: 18-Feb-14
+    date: 18-Feb-2014
     company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 0.5
@@ -2480,7 +3247,7 @@
     description: 
     url: 
 -
-    date: 17-Feb-14
+    date: 17-Feb-2014
     company: Safello
     classification: Exchange
     roundsize: 0.6
@@ -2494,11 +3261,11 @@
     description: 
     url: 
 -
-    date: 10-Feb-14
+    date: 10-Feb-2014
     company: Elliptic
     classification: Wallet
-    roundsize: N/A
-    cumulative: N/A
+    roundsize: 
+    cumulative: 
     round: Seed
     investors: Seedcamp
     headquartered: London
@@ -2508,7 +3275,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-14
+    date: 4-Feb-2014
     company: BitSim
     classification: Universal
     roundsize: 0.5
@@ -2522,7 +3289,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-14
+    date: 4-Feb-2014
     company: Cryptopay
     classification: Payment processor
     roundsize: 0.08
@@ -2536,7 +3303,7 @@
     description: 
     url: 
 -
-    date: 1-Feb-14
+    date: 1-Feb-2014
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 1.5
@@ -2550,7 +3317,7 @@
     description: 
     url: 
 -
-    date: 31-Jan-14
+    date: 31-Jan-2014
     company: Gliph
     classification: Financial Services
     roundsize: 0.03
@@ -2564,7 +3331,7 @@
     description: 
     url: 
 -
-    date: 21-Jan-14
+    date: 21-Jan-2014
     company: Tangible Cryptography (BitSimple)
     classification: Exchange
     roundsize: 0.6
@@ -2578,7 +3345,7 @@
     description: 
     url: 
 -
-    date: 20-Jan-14
+    date: 20-Jan-2014
     company: Korbit
     classification: Universal
     roundsize: 0.4
@@ -2592,7 +3359,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-14
+    date: 15-Jan-2014
     company: Exchange of the Americas (meXBT)
     classification: Exchange
     roundsize: 0.15
@@ -2606,7 +3373,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-14
+    date: 15-Jan-2014
     company: Bitex.la
     classification: Exchange
     roundsize: 2
@@ -2620,11 +3387,11 @@
     description: 
     url: 
 -
-    date: 1-Jan-14
+    date: 1-Jan-2014
     company: Bitnet
     classification: Payment Processor
-    roundsize: N/A
-    cumulative: N/A
+    roundsize: 
+    cumulative: 
     round: Seed
     investors: Commerce Ventures
     headquartered: San Francisco
@@ -2634,7 +3401,7 @@
     description: 
     url: 
 -
-    date: 31-Dec-13
+    date: 31-Dec-2013
     company: COINFIRMA
     classification: Financial Services
     roundsize: 0.5
@@ -2648,7 +3415,7 @@
     description: 
     url: 
 -
-    date: 20-Dec-13
+    date: 20-Dec-2013
     company: Payward, Inc. (Kraken)
     classification: Exchange
     roundsize: 1.5
@@ -2662,7 +3429,7 @@
     description: 
     url: 
 -
-    date: 18-Dec-13
+    date: 18-Dec-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.13
@@ -2676,7 +3443,7 @@
     description: 
     url: 
 -
-    date: 12-Dec-13
+    date: 12-Dec-2013
     company: Coinbase
     classification: Universal
     roundsize: 25
@@ -2686,11 +3453,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: /coinbase-review/
 -
-    date: 2-Dec-13
+    date: 2-Dec-2013
     company: CoinJar Pty
     classification: Wallet
     roundsize: 0.5
@@ -2704,12 +3471,12 @@
     description: 
     url: 
 -
-    date: 1-Dec-13
+    date: 1-Dec-2013
     company: SNAPCARD
     classification: Payment processor
     roundsize: 0.06
     cumulative: 0.06
-    round: N/A
+    round: 
     investors: Ioannis Giannaros, Michael Dunworth, Boost VC
     headquartered: San Francisco
     country: United States
@@ -2718,7 +3485,7 @@
     description: 
     url: 
 -
-    date: 1-Dec-13
+    date: 1-Dec-2013
     company: Bex.io / Spawngrid
     classification: Financial Services
     roundsize: 0.5
@@ -2732,7 +3499,7 @@
     description: 
     url: 
 -
-    date: 25-Nov-13
+    date: 25-Nov-2013
     company: Coinplug
     classification: Universal
     roundsize: 0.4
@@ -2746,7 +3513,7 @@
     description: 
     url: 
 -
-    date: 18-Nov-13
+    date: 18-Nov-2013
     company: BTC China (Shanghai Satuxi Network)
     classification: Exchange
     roundsize: 5
@@ -2760,7 +3527,7 @@
     description: 
     url: 
 -
-    date: 17-Nov-13
+    date: 17-Nov-2013
     company: 21 Inc (21e6)
     classification: Universal
     roundsize: 5.05
@@ -2774,7 +3541,7 @@
     description: 
     url: 
 -
-    date: 12-Nov-13
+    date: 12-Nov-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 3.5
@@ -2788,7 +3555,7 @@
     description: 
     url: 
 -
-    date: 11-Nov-13
+    date: 11-Nov-2013
     company: itBit
     classification: Exchange
     roundsize: 3.25
@@ -2802,7 +3569,7 @@
     description: 
     url: 
 -
-    date: 7-Nov-13
+    date: 7-Nov-2013
     company: GoCoin
     classification: Payment Processor
     roundsize: 0.55
@@ -2816,7 +3583,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-13
+    date: 31-Oct-2013
     company: Bitstamp
     classification: Exchange
     roundsize: 10
@@ -2830,7 +3597,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-13
+    date: 31-Oct-2013
     company: Circle Internet Financial
     classification: Universal
     roundsize: 9
@@ -2844,7 +3611,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-13
+    date: 9-Oct-2013
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.11
@@ -2858,7 +3625,7 @@
     description: 
     url: 
 -
-    date: 1-Oct-13
+    date: 1-Oct-2013
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.01
@@ -2872,7 +3639,7 @@
     description: 
     url: 
 -
-    date: 19-Sep-13
+    date: 19-Sep-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.2
@@ -2886,7 +3653,7 @@
     description: 
     url: 
 -
-    date: 8-Sep-13
+    date: 8-Sep-2013
     company: Coinfloor
     classification: Exchange
     roundsize: 0.1
@@ -2900,7 +3667,7 @@
     description: 
     url: 
 -
-    date: 4-Sep-13
+    date: 4-Sep-2013
     company: OKCoin
     classification: Exchange
     roundsize: 1
@@ -2914,7 +3681,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Vaurum (Mirror)
     classification: Exchange
     roundsize: 2
@@ -2928,7 +3695,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: BitPagos
     classification: Payment Processor
     roundsize: 0.03
@@ -2940,9 +3707,9 @@
     region: US & Canada
     img: bitpagos.png
     description: 
-    url: 
+    url: https://www.bitpagos.com/en/
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Buttercoin
     classification: Infrastructure
     roundsize: 1.25
@@ -2956,7 +3723,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Armory Technologies
     classification: Wallet
     roundsize: 0.6
@@ -2970,7 +3737,7 @@
     description: 
     url: 
 -
-    date: 19-Aug-13
+    date: 19-Aug-2013
     company: Digital Currencies FinTech 
     classification: Financial Services
     roundsize: 1.25
@@ -2980,11 +3747,11 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: ## could not find company or logo
+    img: fintech.png
     description: 
     url: 
 -
-    date: 1-Aug-13
+    date: 1-Aug-2013
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 4
@@ -2998,13 +3765,13 @@
     description: 
     url: 
 -
-    date: 22-Jul-13
+    date: 22-Jul-2013
     company: Avalon Clones
     classification: Mining
     roundsize: 3
     cumulative: 3
     round: First
-    investors: N/A
+    investors: 
     headquartered: Scottsdale
     country: United States
     region: US & Canada
@@ -3012,13 +3779,13 @@
     description: 
     url: 
 -
-    date: 18-May-13
+    date: 18-May-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.02
     cumulative: 0.04
     round: Seed
-    investors: N/A
+    investors: 
     headquartered: Portland
     country: United States
     region: US & Canada
@@ -3026,7 +3793,7 @@
     description: 
     url: 
 -
-    date: 16-May-13
+    date: 16-May-2013
     company: BitPay
     classification: Payment Processor
     roundsize: 2
@@ -3040,7 +3807,7 @@
     description: 
     url: 
 -
-    date: 14-May-13
+    date: 14-May-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 3
@@ -3054,7 +3821,7 @@
     description: 
     url: 
 -
-    date: 1-May-13
+    date: 1-May-2013
     company: CoinJar Pty
     classification: Wallet
     roundsize: 0.02
@@ -3068,7 +3835,7 @@
     description: 
     url: 
 -
-    date: 26-Apr-13
+    date: 26-Apr-2013
     company: Coinbase
     classification: Universal
     roundsize: 6.11
@@ -3078,11 +3845,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: 
 -
-    date: 11-Apr-13
+    date: 11-Apr-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 2.5
@@ -3096,7 +3863,7 @@
     description: 
     url: 
 -
-    date: 1-Mar-13
+    date: 1-Mar-2013
     company: TradeHill
     classification: Exchange
     roundsize: 0.4
@@ -3110,7 +3877,7 @@
     description: 
     url: 
 -
-    date: 1-Mar-13
+    date: 1-Mar-2013
     company: BitGo
     classification: Infrastructure
     roundsize: 2
@@ -3124,7 +3891,7 @@
     description: 
     url: 
 -
-    date: 7-Jan-13
+    date: 7-Jan-2013
     company: BitPay
     classification: Payment Processor
     roundsize: 0.51
@@ -3138,7 +3905,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-12
+    date: 31-Oct-2012
     company: Bitinstant
     classification: Payment Processor
     roundsize: 1.5
@@ -3152,7 +3919,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-12
+    date: 1-Sep-2012
     company: Coinbase
     classification: Universal
     roundsize: 0.6
@@ -3162,11 +3929,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: 
 -
-    date: 3-Jan-12
+    date: 3-Jan-2012
     company: Gliph
     classification: Financial Services
     roundsize: 0.03

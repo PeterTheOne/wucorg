@@ -8,11 +8,12 @@ description: Learn what private keys are and how to use them.
 published: true
 ---
 
-<p>Learn and understanding what private keys are and how to keep them safe is essential to safely use cryptocurrency. You can also learn how to <a href="/how-export-import-private-keys">export and import private keys</a>.
+<p>Learn and understanding what private keys are and how to keep them safe is essential to safely use cryptocurrency.
+<p>We recommend using <a href="/bitcoin-core/">Bitcoin Core</a> for network consensus and <a href="https://www.bitcoinarmory.com">Armory</a> to manage private keys.
+<p>You can also learn how to <a href="/how-export-import-private-keys">export and import private keys</a>.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/67uW07QDHxE" frameborder="0" allowfullscreen></iframe></center>
 <p>By now you have most probably heard of the terms public and private keys.  But what exactly are they and well, more to the point, what do they actually do.
-<p>Well, to put it simply, they are sophisticated form of cryptography and one of the most
-important aspects of cryptocurrency in terms of user security.  Whilst they are described as being keys, they actually tend to look a lot more like this.
+<p>Well, to put it simply, they are sophisticated form of cryptography and one of the most important aspects of cryptocurrency in terms of user security.  Whilst they are described as being keys, they actually tend to look a lot more like this.
 <p>In essence, these keys allow wallet to both send and receive transactions.  We can imagine a public key as being the location of a postbox.  Anyone can put letters into that postbox but they cannot get them back out.  Instead, the postman who owns the private key has to come along and open the postbox in order to retrieve the letters.
 <p>This is similar to how a Litecoin address works.  The public key is usually shown in the form of a Litecoin address which is a random assortment of upper and lower case letters along with numbers from anywhere between 30 and 34 characters in length and starting with the letter L.
 <p>Now, you or I can send Litecoins to this address but we cannot retrieve them just like we can’t take letters out of the postbox without the key.  Only the owner of this address who has the corresponding private key is allowed to take the money out and spend it.

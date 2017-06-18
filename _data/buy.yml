@@ -118,6 +118,12 @@
    countries: uk
    logo: bittylicious.png
    url: https://bittylicious.com/
+   
+- exchange: CoinCorner
+   description: CoinCorner is a bitcoin exchange and wallet provider, based in the Isle of Man (UK) and currently operates in 45 countries worldwide.
+   countries: uk
+   logo: coincorner_logo_medium.png
+   url: https://coincorner.com/
 
 ############## Canada ##############
 

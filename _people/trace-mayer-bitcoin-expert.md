@@ -8,35 +8,32 @@ experience:
 short_desc: An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech.
 long_desc:
 affiliations: [BitPay, Armory, Kraken, Bitcoin Knowledge]
-twitter: tracemayer
-github: sunnankar
+twitter: TraceMayer
+github: 
 residence:
 cats: featured
-website: https://tracemayer.net
+website: https://www.tracemayer.net
 ---
 
 <a class="social-link" href="https://twitter.com/tracemayer" target="_blank">Twitter</a> <a class="social-link" title="Trace Mayer" href="https://www.linkedin.com/in/tracemayer" target="_blank">LinkedIn</a>
 
 An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
 
-He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $11B in November 2013 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
+He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $44B in June 2017 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
 
 ### Crypto-currency related investments include:
 
 <a href="http://www.bitcoinarmory.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/armory.png" alt="Armory"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- <a href="http://www.bitpay.com" align="middle" target="_blank"><img
+<a href="http://www.bitpay.com" align="middle" target="_blank"><img
  src="http://www.tracemayer.net/images/bitpay.png" alt="Bitpay"
- style="border: 0px solid ; width: 200px; height: 58px;"></a> <img
- src="http://www.tracemayer.net/images/bitcoin-magazine.png" alt="Bitcoin Magazine"
- style="border: 0px solid ; width: 200px; height: 30px;">
-
- <a href="http://www.kraken.com" align="left" target="_blank"><img
+ style="border: 0px solid ; width: 200px; height: 58px;"></a>
+<a href="http://www.kraken.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/kraken.png" alt="Kraken"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
 
-## Bitcoin articles by Trace Mayer
+## Bitcoin Articles by Trace Mayer
 
 <ul>
 <li><a href="/crypsa-future-of-bitcoin/">CRYPSA Event - The Future of Bitcoin</a></li>

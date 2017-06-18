@@ -14,15 +14,17 @@ toc:
   developers: "Developers"
   financialization: "Financialization"
   worldreservecurrency: "World Reserve Currency"
+  short-video: "The Short Video"
+  full-video: "The Full Video"
 
 published: true
 ---
 
 {% include page-toc.html %}
-<p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as Armory, Bitpay and Kraken, explains the network effects that will lead to Bitcoin's continued success.</strong></p>
+<p>When the scheduled speaker failed to show up Trace Mayer, Host of the <a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> and investor in Bitcoin companies such as Armory, Bitpay and Kraken, explained impromptu the seven network effects that will lead to Bitcoin's unrivaled dominance and success.</p>
 <p style="padding-left: 30px;"><em>From his talk hosted by CRYPSA at LaGuardia Community College on June 29, 2015.</em><br />
-<iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
-<em> Listen to the audio: <a href="http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/">http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/</a></em></p>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
+<p><em> See the full video at the bottom of this post or listen to the audio: <a href="http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/">http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/</a></em></p>
 <h3>The 7 network effects of Bitcoin are as follows:</h3>
 <ol>
 <li><strong><a name="speculation" class="anchor">Speculation</a></strong> - As a novel, cryptographically-backed asset class with the potential for appreciation and high volatility, Bitcoin is perfect for speculators with a high tolerance for risk.</li>
@@ -35,4 +37,7 @@ published: true
 </ol>
 <p>Bitcoin is a strong currency: it thrives on the internet; it frees its users from 3rd parties; it saves merchants money; it is deflationary; its code can be audited by all; its developers work tirelessly to improve upon it; the list goes on. The above-listed network effects can only serve to strengthen it. Competitors beware.</p>
 <p>Trace Mayer explaining the Future of Bitcoin and why it will succeed. This event was hosted by CRYPSA at LaGuardia Community College is one example of what a P2P community can achieve.
-<iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
+<p><h2 id="short-video">The Short Video</h2>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/D3n6lLeuPQA" frameborder="0" allowfullscreen></iframe>
+<p><h2 id="full-video">The Full Video</h2>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
