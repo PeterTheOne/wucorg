@@ -9,6 +9,7 @@ published: true
 toc:
   cryptopay: Cryptopay VISA Debit Card
   spectrocoin: SpectroCoin Debit Card
+  uquid: Uquid Debit Card
   bitpay: Bitpay VISA Debit Card
   xapo: Xapo Debit Card
   coinbase: Coinbase Shift Card
@@ -17,8 +18,7 @@ toc:
 ---
 <p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance and you can either buy Bitcoins with your debit card or load a debit card with bitcoins to then spend bitcoins at almost any credit card accepting merchant.
 {% include page-toc.html %}
-<p>Buying bitcoins with a debit card is incredibly easy and we recommend <a href="http://geni.us/indacoin">Indacoin</a>.
-<p><center><a href="http://geni.us/indacoin"><img src="https://www.weusecoins.com/images/indacoin-250x250.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></a></center>
+<p>Buying bitcoins with a debit card is incredibly easy and we recommend <a href="http://geni.us/spectrocoin">SpectroCoin</a>.
 <p>While Bitcoin debit cards do not allow users to spend bitcoins directly they at least allow people to store balances in bitcoin.
 <p>Since most debit card top ups only take a few seconds to confirm then bitcoin balances can be held up until the need to spend.
 
@@ -44,9 +44,16 @@ toc:
 <p><strong>Low fees</strong> are guaranteed for SpectroCoin bitcoin debit card holders. The dollar, euro or pound denominated debit card costs 9 USD/8 EUR/6 GBP respectively. There is also <strong>no loading fee</strong>.
 <p><strong>Unlimited</strong> lifetime withdrawals and deposits to the bitcoin debit card for verified cardholders. Other limits also being high.
 
+<p><h2 id="uquid">Uquid VISA Debit Card</h2>
+<p><center><img src="/images/uquid-debit-card.png" alt="Uquid Debit Card"/></center>
+<p><a href="http://geni.us/uquidcard">Uquid</a> guaranteed for free access to Bitcoin, Ethereum, Litecoint, PIVX, Ripple, Monero, DASH and other 75 cryptocurrencies network.
+<p><a href="http://geni.us/uquidcard">Uquid</a> enables users to utilise all the benefits of transfer coins into the debit card with real market price.
+<p>With guaranteed provides an easy and hassle-free. Unbanked and travellers can obtain a Visa debit card with no identification or credit check required and free delivery to 178+ countries.
+<p><a href="http://geni.us/uquidcard">Uquid</a> users can spend over 75 different cryptocurrencies on mobile top ups, bill payments, pharmacy and food vouchers, transportation tickets, wi-fi recharges, and PIN-less calls.
+
 <p><h2 id="bitpay">BitPay VISA Debit Card</h2>
 
-<p><center><img src="/images/bitpay-debit.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
+<p><center><img src="/images/bitpay-debit.png" alt="Bitpay Debit Card"/></center>
 <p>Although the newest Bitcoin debit card, <a href="https://bitpay.com/visa/">BitPay's VISA card</a> is perhaps the most exciting of the bunch. It is the first Bitcoin debit card that is available to US residents from all 50 states.
 <p>BitPay's debit card costs $9.95 to order, and arrives 7-10 days after purchase. It can be used online, in-person, and also works with any ATM that works with VISA cards.
 <p>Unlike Shift's debit card (featured below), deposits lock in value in dollars. Shift's debit card spends directly from your Coinbase balance, which creates an accounting nightmare for capital gains taxes when it comes time to file. 

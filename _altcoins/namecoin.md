@@ -1,8 +1,8 @@
 ---
 title: What is Namecoin?
 name: Namecoin
-author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+author: WeUseCoins
+authorurl: /
 published: true
 permalink: /what-is-namecoin/
 img: namecoin.png

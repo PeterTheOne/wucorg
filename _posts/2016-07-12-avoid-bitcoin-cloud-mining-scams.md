@@ -17,9 +17,10 @@ toc:
 ---
 
 {% include page-toc.html %}
-<p><center><img src="/images/bitcoin-cloud-mining-scam.jpg" alt="bitcoin cloud mining scam"/></center></p>
+
 <p>Want to know how to make the most money safely from a bitcoin cloud mining contract? Here is a comprehensive <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">cloud services and mining contracts guide</a>.
 <p>Bitcoin investment has grown day by day with cloud mining increasing as the new and most efficient strategy to making sound profits.
+<p><center><img src="/images/bitcoin-cloud-mining-scam.jpg" alt="bitcoin cloud mining scam"/></center></p>
 <p>However, for you to invest in this area it requires dependence on Bitcoin cloud mining companies but very few are actually legit. Here is how you can know as well as avoid scamming Bitcoin cloud miner companies. 
 <p><h3 id="asic"><b>1. </b><a name="asic" class="anchor">ASIC Miner Vendor Support</a></h3>
 <p>It is true that most of these legit Bitcoins cloud mining companies have hardware that is expensive but worth noting its ASIC vendors will voluntarily and out of appreciation make not only acknowledgment but also public posts of the company they are dealing with.

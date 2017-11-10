@@ -1138,6 +1138,36 @@
   desc: Lacks some basic VPN features and tracks session logs.
   url: https://ironsocket.com/
   img: ironsocket.jpg
+- service: FastestVPN
+  country: Cayman-Islands
+  fourteen: No
+  traffic: No
+  timestamps:
+  bandwidth:
+  ip:
+  sessions: Yes
+  dns:
+  personal: Yes
+  bitcoin: Yes
+  eff: No
+  pgp: No
+  warrant: No
+  dnsservers: No
+  openvpn: Yes
+  smtp:
+  p2p: Yes
+  apis_used: 10
+  ssl_rating: A+
+  num_connections: 3
+  num_countries: 12
+  num_servers: 100
+  price_annual: $23.99
+  price_month: $7.99
+  trial: No
+  refund: 30
+  desc: Fastest VPN Service, Secure & Anonymous with Best Security Features. 24/7 Support & Apps Available on Mac, iOs, Android & Windows with Money Back Guarantee.
+  url: https://fastestvpn.com
+  img: fastestvpn.png
 - service: Ivacy
   country: Hong Kong
   fourteen: No

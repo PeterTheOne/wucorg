@@ -1,4 +1,18 @@
 -
+    date: 28-Oct-2017   
+    company: BB KISS
+    classification: Software
+    roundsize: 1.2 
+    cumulative: 1.2  
+    round: Seed
+    investors: Private    
+    headquartered: Darmstadt
+    country: Germany
+    region: DACH
+    img: bb-kiss.png
+    description: Software development for crypto currency and blockchain integration, training and consulting.
+    url: https://bbkiss.de/
+-
     date: 30-Mar-2017   
     company: Filament
     classification: Infrastructure

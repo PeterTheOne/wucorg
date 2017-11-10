@@ -1,8 +1,8 @@
 ---
 title: What is Dogecoin?
 name: Dogecoin
-author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+author: WeUseCoins
+authorurl: /
 published: true
 toc: 
   gs: Getting Started

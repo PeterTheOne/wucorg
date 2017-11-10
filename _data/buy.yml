@@ -121,7 +121,7 @@
    
 - exchange: CoinCorner
    description: CoinCorner is a bitcoin exchange and wallet provider, based in the Isle of Man (UK) and currently operates in 45 countries worldwide.
-   countries: uk
+   countries: uk, de, fr, es, nl
    logo: coincorner_logo_medium.png
    url: https://coincorner.com/
 
@@ -268,6 +268,14 @@
    countries: au
    logo: hardblock.png
    url: https://www.hardblock.net/
+
+############## New Zealand ##############
+
+ - exchange: Kiwi-Coin
+   description: Buy bitcoins with NZ bank transfer, instant deposit option available. The verification is required (performed by Kiwi-Coin or RealMe). Low trading fees and full API is provided.
+   countries: nz
+   logo: kiwi-coin.png
+   url: https://kiwi-coin.com/
 
 ############## South America ##############
 

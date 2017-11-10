@@ -8,6 +8,8 @@ summary: PIVX is the private instant verified transactions cryptocurrency built 
 toc:
   pivx: "PIVX"
   introduction: "Introduction"
+  news: "Stay Updated On News"
+  start: "Getting Started Using PIVX"
   obfuscation: "Obfuscation"
   swifttx: "SwiftTX"
   code: "Codebase"
@@ -22,7 +24,7 @@ toc:
 <p>PIVX, Private Instant Verified Transactions, is built to ensure your store of value, transactional security, privacy and fungibility.
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="pivx" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div></center>
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
-<p>This creates some very interesting financial and economic incentives.
+<p>This creates some very interesting financial and economic incentives. PIVX can be purchased on <a href="http://geni.us/changelly">Changelly</a>.
 <p>{% include page-toc.html %}
 <p><h2 id="pivx">What is PIVX?</h2>
 <p><strong>PIVX</strong>: <strong>P</strong>rivate <strong>I</strong>nstant <strong>V</strong>erified <strong>T</strong>ransaction (<strong>X</strong>)
@@ -41,6 +43,25 @@ toc:
 <p>Launched on Feb 1st, 2016 under the name of Darknet (DNET), after developments and increased community involvement, it was decided to professionally rebrand and officially change the name to PIVX to more accurately reflect the underpinnings of the community ideals and ideologies being hard coded into the cryptocurrency.
 <p>The main goal of PIVX is to achieve near instant private transactions and a governance that helps sustain the network for the benefit of all of the users involved.
 <p>While PIVX is well on its way to achieving this, some of the features are under development and should appear in the near future.
+<p><h2 id="news"><b>PIVX News</b></h2>
+<p>The cryptocurrency markets are constantly changing. You can stay updated on the latest PIVX news or get help from the community here:
+<p><a href="https://www.reddit.com/r/pivx/">PIVX Sub-Reddit</a>
+<p><a href="https://www.youtube.com/channel/UCr4Wk2opstIsUvMOz9quFSg">PIVXPress</a> - Youtube Channel
+<p><a href="https://www.facebook.com/PIVxCrypto/">PIVX Facebook Repo</a>
+<p><a href="https://twitter.com/_pivx">PIVX Twitter</a>
+<p><a href="https://pivx.org/news/">PIVX Blog</a>
+<p><a href="https://pivx.org/community/calendar/">PIVX Calendar</a>
+<p><a href="http://forum.pivx.org/">PIVX Forum</a>
+<p><a href="https://slack.pivx.org/">PIVX Slack Channel</a>
+<p><a href="https://github.com/PIVX-Project">PIVX Github Repo</a>
+<p><a href="https://pivx.org/proposals/">PIVX Proposals</a>
+<p><a href="https://pivx.org/governance/">PIVX Governance</a>
+<p><h2 id="start"><b>Getting Started Using PIVX</b></h2>
+<p><b>Step One</b> - Get a <a href="https://pivx.org/get-pivx/wallet/">PIVX wallet</a>.
+<p><b>Step Two</b> - Buy PIVX at an exchange like <a href="https://bittrex.com/">Bittrex</a>. 
+<p><b>Step Three</b> - Withdraw the PIVX from the exchange to your wallet.
+<p><b>Step Four</b> - Send to friends or family or spend PIVX at your favorite merchant. You can also load the <a href="http://geni.us/uquidcard">Uquid debit card via PIVX</a>.
+<p><b>Step Five</b> - Grow the PIVX community.
 <p><h2 id="obfuscation">Obfuscation</h2>
 <p>Mixing Mechanism: In wallet coin mixing based on CoinJoin with various improvements over the original, but done in a decentralized fashion facilitated by the network of masternodes.
 <p>This provides for an additional layer of privacy in transactions, while not perfectly anonymous, it is a far cry better than the standard bitcoin transaction.
@@ -84,6 +105,7 @@ toc:
 <p>The wallet needs to be opened and unlocked while connected to the Internet; so be careful with security.
 <p>Addresses need to have at least 100 confirmations.
 <p>Crazy Pro Tip - After an address gets 100 confirmations then restart the wallet and unlock it. Then the staking should be active for that balance.
+<p>Super Crazy Pro Tip - In the Debug Console use the 'setstakesplitthreshold' command to change the default split threshold.
 <p><center><img src="/images/pivx-utxo-splitter.png" alt="PIVX UTXO Splitter" /></center></p>
 <p><h3 id="roadmap">PIVX 2017 Roadmap</h3>
 <p><center><img src="/images/pivx-2017-roadmap.jpg" alt="PIVX 2017 Roadmap" /></center></p>
