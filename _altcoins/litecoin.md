@@ -209,7 +209,7 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 <p><a href="www.reddit.com/r/Litecoin">www.reddit.com/r/Litecoin</a> - A community of Litecoin fans which post and discuss the latest Litecoin news.</p>
 <p></p>
 
-<p><a href="www.Litecoinassociation.org">www.Litecoinassociation.org</a> - A community dedicated to the promotion of Litecoin.</p>
+<p><a href="litecoin.org">litecoin.org</a> - A community dedicated to the promotion of Litecoin.</p>
 <p></p>
 
 <p><a href="www.btc-e.com">www.btc-e.com</a> - One of the larger trading websites used to buy and sell Litecoins.</p>
